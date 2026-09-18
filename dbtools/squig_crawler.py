@@ -31,11 +31,12 @@ _squig_forms = {
     'Earbuds': 'earbud',
 }
 
-
 _squig_rigs = {
     'Auriculares Argentina': {'in-ear': '711', 'over-ear': 'KB501x + 711'},
     'Bakkwatan': {'in-ear': '711'},
     'DHRME': {'in-ear': '711'},
+    'Earphones Archive (headphones)': {'over-ear': 'Bruel & Kjaer 5128'},
+    'Earphones Archive (IEMs)': {'in-ear': 'Bruel & Kjaer 5128'},
     'Fahryst': {'in-ear': '711'},
     'Filk': {'in-ear': '711', 'over-ear': 'KB006x + 711'},
     'freeryder05': {'in-ear': '711'},
@@ -125,6 +126,25 @@ class SquigCrawler(CrinacleCrawlerBase):
         """URL of the data directory for a database folder. Always with trailing slash."""
         return f'{self.base_url}{folder}data/'
 
+    def form_for_db(self, db):
+        """Resolves the AutoEq form for a database.
+
+        Most sites use standard database types (IEMs, Headphones, Earbuds). Some use
+        types that do not map to a form, e.g. "5128" for both an in-ear and an over-ear
+        database, in which case the folder and the site name are used instead.
+        """
+        form = _squig_forms.get(db['type'])
+        if form is not None:
+            return form
+        text = f'{db["type"]} {db["folder"]} {self.name}'.lower()
+        if 'headphone' in text or 'over-ear' in text:
+            return 'over-ear'
+        if 'earbud' in text:
+            return 'earbud'
+        if 'iem' in text or 'in-ear' in text:
+            return 'in-ear'
+        return None
+
     def parse_books(self):
         """Downloads and parses phone books to get names.
 
@@ -136,7 +156,7 @@ class SquigCrawler(CrinacleCrawlerBase):
         book_maps = {}
         self.db_folders = {}
         for db in self.dbs:
-            form = _squig_forms.get(db['type'])
+            form = self.form_for_db(db)
             if form is None or form in book_maps:
                 continue
             try:

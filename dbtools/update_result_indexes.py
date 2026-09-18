@@ -45,6 +45,7 @@ class ResultPath:
         ('HypetheSonics', 'Bruel & Kjaer 5128 in-ear'),
         ('crinacle', 'Bruel & Kjaer 4620 in-ear'),
         ('Rtings', 'Bruel & Kjaer 5128 in-ear'),  # STD 2.09
+        ('Earphones Archive (IEMs)', 'in-ear'),  # Bruel & Kjaer 5128
         ('Filk', 'in-ear'),  # No calibration
         ('DHRME', 'in-ear'),  # No calibration
         ('Jaytiss', 'in-ear'),  # No calibration
@@ -71,6 +72,7 @@ class ResultPath:
         ('Rtings', 'HMS II.3 over-ear'),  # STD 1.62
         ('HypetheSonics', 'over-ear'),  # Bruel & Kjaer 5128
         ('Rtings', 'Bruel & Kjaer 5128 over-ear'),
+        ('Earphones Archive (headphones)', 'over-ear'),  # Bruel & Kjaer 5128
         ('Regan Cipher', 'over-ear'),  # No calibration
         ('RikudouGoku', 'over-ear'),  # No calibration
         ('Filk', 'over-ear'),  # STD 2.04 (small sample)
