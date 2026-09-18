@@ -1,10 +1,20 @@
 url	source_name	name	form	rig
 https://kuulokenurkka.squig.link/data/K361%20**%20L.txt	AKG K361	AKG K361	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/K361%20**%20R.txt	AKG K361	AKG K361	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/K361%20%2A%2A%20L.txt	AKG K361	AKG K361	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/K361%20%2A%2A%20R.txt	AKG K361	AKG K361	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/K712%20Pro%20L.txt	AKG K712 Pro	AKG K712 PRO	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/K712%20Pro%20R.txt	AKG K712 Pro	AKG K712 PRO	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/N9%20Hybrid%20(ANC%20OFF)%20**%20L.txt		AKG N9 Hybrid	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/N9%20Hybrid%20(ANC%20OFF)%20**%20R.txt		AKG N9 Hybrid	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/N9%20Hybrid%20%28ANC%20ON%29%20%2A%2A%20L.txt	AKG N9 Hybrid	AKG N9 Hybrid	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/N9%20Hybrid%20%28ANC%20ON%29%20%2A%2A%20R.txt	AKG N9 Hybrid	AKG N9 Hybrid	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/N9%20Hybrid%20%28ANC%20ON%20%26%20Studio%20Preset%29%20%2A%2A%20L.txt	AKG N9 Hybrid	AKG N9 Hybrid	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/N9%20Hybrid%20%28ANC%20ON%20%26%20Studio%20Preset%29%20%2A%2A%20R.txt	AKG N9 Hybrid	AKG N9 Hybrid	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/N9%20Hybrid%20%28ANC%20OFF%29%20%2A%2A%20L.txt	AKG N9 Hybrid	AKG N9 Hybrid	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/N9%20Hybrid%20%28ANC%20OFF%29%20%2A%2A%20R.txt	AKG N9 Hybrid	AKG N9 Hybrid	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/N9%20Hybrid%20%28Passive%29%20%2A%2A%20L.txt	AKG N9 Hybrid	AKG N9 Hybrid	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/N9%20Hybrid%20%28Passive%29%20%2A%2A%20R.txt	AKG N9 Hybrid	AKG N9 Hybrid	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/N9%20Hybrid%20(ANC%20ON)%20**%20L.txt		AKG N9 Hybrid (ANC on)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/N9%20Hybrid%20(ANC%20ON)%20**%20R.txt		AKG N9 Hybrid (ANC on)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/N9%20Hybrid%20(ANC%20ON%20&%20Studio%20Preset)%20**%20L.txt		AKG N9 Hybrid (ANC on, studio preset)	over-ear	KB501x + 711
@@ -13,6 +23,8 @@ https://kuulokenurkka.squig.link/data/N9%20Hybrid%20(Passive)%20**%20L.txt		AKG 
 https://kuulokenurkka.squig.link/data/N9%20Hybrid%20(Passive)%20**%20R.txt		AKG N9 Hybrid (passive)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/AR5000%20**%20L.txt	Aune AR5000	AUNE AR5000	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/AR5000%20**%20R.txt	Aune AR5000	AUNE AR5000	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/AR5000%20%2A%2A%20L.txt	Aune AR5000	AUNE AR5000	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/AR5000%20%2A%2A%20R.txt	Aune AR5000	AUNE AR5000	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/AB-1266%20Phi%20(Air%20Gap)%20L.txt	Abyss AB-1266 Phi	Abyss AB-1266 Phi	ignore	
 https://kuulokenurkka.squig.link/data/AB-1266%20Phi%20(Air%20Gap)%20R.txt	Abyss AB-1266 Phi	Abyss AB-1266 Phi	ignore	
 https://kuulokenurkka.squig.link/data/AB-1266%20Phi%20(Big%20Air%20Gap)%20L.txt	Abyss AB-1266 Phi	Abyss AB-1266 Phi	ignore	
@@ -25,32 +37,74 @@ https://kuulokenurkka.squig.link/data/AB1266%20Phi%20TC%20(Big%20Air%20Gap)%20**
 https://kuulokenurkka.squig.link/data/AB1266%20Phi%20TC%20(Big%20Air%20Gap)%20**%20R.txt	Abyss AB1266 Phi TC	Abyss AB1266 Phi TC	ignore	
 https://kuulokenurkka.squig.link/data/AB1266%20Phi%20TC%20(Small%20Air%20Gap)%20**%20L.txt	Abyss AB1266 Phi TC	Abyss AB1266 Phi TC	ignore	
 https://kuulokenurkka.squig.link/data/AB1266%20Phi%20TC%20(Small%20Air%20Gap)%20**%20R.txt	Abyss AB1266 Phi TC	Abyss AB1266 Phi TC	ignore	
+https://kuulokenurkka.squig.link/data/AB1266%20Phi%20TC%20%28Good%20Seal%29%20%2A%2A%20L.txt	Abyss AB1266 Phi TC	Abyss AB1266 Phi TC	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/AB1266%20Phi%20TC%20%28Good%20Seal%29%20%2A%2A%20R.txt	Abyss AB1266 Phi TC	Abyss AB1266 Phi TC	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/AB1266%20Phi%20TC%20%28Small%20Air%20Gap%29%20%2A%2A%20L.txt	Abyss AB1266 Phi TC	Abyss AB1266 Phi TC	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/AB1266%20Phi%20TC%20%28Small%20Air%20Gap%29%20%2A%2A%20R.txt	Abyss AB1266 Phi TC	Abyss AB1266 Phi TC	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/AB1266%20Phi%20TC%20%28Big%20Air%20Gap%29%20%2A%2A%20L.txt	Abyss AB1266 Phi TC	Abyss AB1266 Phi TC	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/AB1266%20Phi%20TC%20%28Big%20Air%20Gap%29%20%2A%2A%20R.txt	Abyss AB1266 Phi TC	Abyss AB1266 Phi TC	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/Life%20Q30%20(ANC%20ON)%20L.txt	Anker Soundcore Life Q30	Anker Soundcore Life Q30	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Life%20Q30%20(ANC%20ON)%20R.txt	Anker Soundcore Life Q30	Anker Soundcore Life Q30	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Life%20Q30%20(ANC%20ON%20&%20EQ)%20**%20L.txt	Anker Soundcore Life Q30	Anker Soundcore Life Q30	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Life%20Q30%20(ANC%20ON%20&%20EQ)%20**%20R.txt	Anker Soundcore Life Q30	Anker Soundcore Life Q30	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Life%20Q30%20%28ANC%20ON%20%26%20EQ%29%20%2A%2A%20L.txt	Anker Soundcore Life Q30	Anker Soundcore Life Q30	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Life%20Q30%20%28ANC%20ON%20%26%20EQ%29%20%2A%2A%20R.txt	Anker Soundcore Life Q30	Anker Soundcore Life Q30	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Space%20Q45%20(ANC%20OFF)%20**%20L.txt	Anker Soundcore Space Q45	Anker Soundcore Space Q45	ignore	
 https://kuulokenurkka.squig.link/data/Space%20Q45%20(ANC%20OFF)%20**%20R.txt	Anker Soundcore Space Q45	Anker Soundcore Space Q45	ignore	
 https://kuulokenurkka.squig.link/data/Space%20Q45%20(ANC%20ON%20&%20BassUP%20OFF)%20**%20L.txt	Anker Soundcore Space Q45	Anker Soundcore Space Q45	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Space%20Q45%20(ANC%20ON%20&%20BassUP%20OFF)%20**%20R.txt	Anker Soundcore Space Q45	Anker Soundcore Space Q45	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Space%20Q45%20%28ANC%20ON%20%26%20BassUP%20OFF%29%20%2A%2A%20L.txt	Anker Soundcore Space Q45	Anker Soundcore Space Q45	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Space%20Q45%20%28ANC%20ON%20%26%20BassUP%20OFF%29%20%2A%2A%20R.txt	Anker Soundcore Space Q45	Anker Soundcore Space Q45	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Space%20Q45%20%28ANC%20OFF%29%20%2A%2A%20L.txt	Anker Soundcore Space Q45	Anker Soundcore Space Q45	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Space%20Q45%20%28ANC%20OFF%29%20%2A%2A%20R.txt	Anker Soundcore Space Q45	Anker Soundcore Space Q45	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/LCD-2%20Classic%20**%20L.txt		Audeze LCD-2 Classic	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/LCD-2%20Classic%20**%20R.txt		Audeze LCD-2 Classic	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/LCD-2%20Classic%20%2A%2A%20L.txt	Audeze LCD-2 Classic	Audeze LCD-2 Classic	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/LCD-2%20Classic%20%2A%2A%20R.txt	Audeze LCD-2 Classic	Audeze LCD-2 Classic	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/LCD-R%20**%20L.txt	Audeze LCD-R	Audeze LCD-R	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/LCD-R%20**%20R.txt	Audeze LCD-R	Audeze LCD-R	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/LCD-R%20%2A%2A%20L.txt	Audeze LCD-R	Audeze LCD-R	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/LCD-R%20%2A%2A%20R.txt	Audeze LCD-R	Audeze LCD-R	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/LCD-R%20%28Bass%20Boost%20ON%29%20%2A%2A%20L.txt	Audeze LCD-R	Audeze LCD-R	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/LCD-R%20%28Bass%20Boost%20ON%29%20%2A%2A%20R.txt	Audeze LCD-R	Audeze LCD-R	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/LCD-R%20(Bass%20Boost%20ON)%20**%20L.txt	Audeze LCD-R	Audeze LCD-R (bass boost)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/LCD-R%20(Bass%20Boost%20ON)%20**%20R.txt	Audeze LCD-R	Audeze LCD-R (bass boost)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/LCD-X%20**%20L.txt		Audeze LCD-X	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/LCD-X%20**%20R.txt		Audeze LCD-X	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/LCD-X%20%2A%2A%20L.txt	Audeze LCD-X	Audeze LCD-X	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/LCD-X%20%2A%2A%20R.txt	Audeze LCD-X	Audeze LCD-X	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/MM-100%20**%20L.txt		Audeze MM-100	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/MM-100%20**%20R.txt		Audeze MM-100	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/MM-100%20%2A%2A%20L.txt	Audeze MM-100	Audeze MM-100	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/MM-100%20%2A%2A%20R.txt	Audeze MM-100	Audeze MM-100	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/MM-500%20**%20L.txt		Audeze MM-500	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/MM-500%20**%20R.txt		Audeze MM-500	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/MM-500%20%2A%2A%20L.txt	Audeze MM-500	Audeze MM-500	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/MM-500%20%2A%2A%20R.txt	Audeze MM-500	Audeze MM-500	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Maxwell%20(Audeze%20Preset%20&%20Dekoni%20Sheepskin%20Pads)%20**%20L.txt		Audeze Maxwell	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/Maxwell%20(Audeze%20Preset%20&%20Dekoni%20Sheepskin%20Pads)%20**%20R.txt		Audeze Maxwell	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/Maxwell%20(Audeze%20Preset%20&%20Dekoni%20Velour%20Pads)%20**%20L.txt		Audeze Maxwell	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/Maxwell%20(Audeze%20Preset%20&%20Dekoni%20Velour%20Pads)%20**%20R.txt		Audeze Maxwell	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/./Maxwell%20(EQ%20Baseline:%20all%20values%20at%20zero%20dB)%20**%20L.txt		Audeze Maxwell	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/./Maxwell%20(EQ%20Baseline:%20all%20values%20at%20zero%20dB)%20**%20R.txt		Audeze Maxwell	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Maxwell%20%28Audeze%20Preset%29%20%2A%2A%20L.txt	Audeze Maxwell	Audeze Maxwell	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Maxwell%20%28Audeze%20Preset%29%20%2A%2A%20R.txt	Audeze Maxwell	Audeze Maxwell	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Maxwell%20%28Treble%20Boost%20Preset%29%20%2A%2A%20L.txt	Audeze Maxwell	Audeze Maxwell	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Maxwell%20%28Treble%20Boost%20Preset%29%20%2A%2A%20R.txt	Audeze Maxwell	Audeze Maxwell	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Maxwell%20%28Bass%20Boost%20Preset%29%20%2A%2A%20L.txt	Audeze Maxwell	Audeze Maxwell	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Maxwell%20%28Bass%20Boost%20Preset%29%20%2A%2A%20R.txt	Audeze Maxwell	Audeze Maxwell	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Maxwell%20%28Immersive%20Preset%29%20%2A%2A%20L.txt	Audeze Maxwell	Audeze Maxwell	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Maxwell%20%28Immersive%20Preset%29%20%2A%2A%20R.txt	Audeze Maxwell	Audeze Maxwell	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Maxwell%20%28Competition%20Preset%29%20%2A%2A%20L.txt	Audeze Maxwell	Audeze Maxwell	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Maxwell%20%28Competition%20Preset%29%20%2A%2A%20R.txt	Audeze Maxwell	Audeze Maxwell	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Maxwell%20%28Footsteps%20Preset%29%20%2A%2A%20L.txt	Audeze Maxwell	Audeze Maxwell	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Maxwell%20%28Footsteps%20Preset%29%20%2A%2A%20R.txt	Audeze Maxwell	Audeze Maxwell	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Maxwell%20%28EQ%20Baseline%3A%20all%20values%20at%20zero%20dB%29%20%2A%2A%20L.txt	Audeze Maxwell	Audeze Maxwell	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Maxwell%20%28EQ%20Baseline%3A%20all%20values%20at%20zero%20dB%29%20%2A%2A%20R.txt	Audeze Maxwell	Audeze Maxwell	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Maxwell%20%28Audeze%20Preset%20%26%20Dekoni%20Sheepskin%20Pads%29%20%2A%2A%20L.txt	Audeze Maxwell	Audeze Maxwell	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Maxwell%20%28Audeze%20Preset%20%26%20Dekoni%20Sheepskin%20Pads%29%20%2A%2A%20R.txt	Audeze Maxwell	Audeze Maxwell	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Maxwell%20%28Audeze%20Preset%20%26%20Dekoni%20Velour%20Pads%29%20%2A%2A%20L.txt	Audeze Maxwell	Audeze Maxwell	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Maxwell%20%28Audeze%20Preset%20%26%20Dekoni%20Velour%20Pads%29%20%2A%2A%20R.txt	Audeze Maxwell	Audeze Maxwell	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/Maxwell%20(Audeze%20Preset)%20**%20L.txt		Audeze Maxwell (Audeze preset)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Maxwell%20(Audeze%20Preset)%20**%20R.txt		Audeze Maxwell (Audeze preset)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Maxwell%20(Bass%20Boost%20Preset)%20**%20L.txt		Audeze Maxwell (bass boost preset)	over-ear	KB501x + 711
@@ -65,23 +119,60 @@ https://kuulokenurkka.squig.link/data/Maxwell%20(Review%20EQ)%20**%20L.txt		Aude
 https://kuulokenurkka.squig.link/data/Maxwell%20(Review%20EQ)%20**%20R.txt		Audeze Maxwell (review eq)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Maxwell%20(Treble%20Boost%20Preset)%20**%20L.txt		Audeze Maxwell (treble boost preset)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Maxwell%20(Treble%20Boost%20Preset)%20**%20R.txt		Audeze Maxwell (treble boost preset)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/ATH-ADX7000%20%28Velvet%20Pads%29%20%2A%2A%20L.txt	Audio-Technica ATH-ADX7000	Audio-Technica ATH-ADX7000	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/ATH-ADX7000%20%28Velvet%20Pads%29%20%2A%2A%20R.txt	Audio-Technica ATH-ADX7000	Audio-Technica ATH-ADX7000	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/ATH-ADX7000%20%28Alcantara%20Pads%29%20%2A%2A%20L.txt	Audio-Technica ATH-ADX7000	Audio-Technica ATH-ADX7000	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/ATH-ADX7000%20%28Alcantara%20Pads%29%20%2A%2A%20R.txt	Audio-Technica ATH-ADX7000	Audio-Technica ATH-ADX7000	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/ATH-HL7BT%20**%20L.txt	Audio-Technica ATH-HL7BT	Audio-Technica ATH-HL7BT	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/ATH-HL7BT%20**%20R.txt	Audio-Technica ATH-HL7BT	Audio-Technica ATH-HL7BT	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/ATH-HL7BT%20%2A%2A%20L.txt	Audio-Technica ATH-HL7BT	Audio-Technica ATH-HL7BT	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/ATH-HL7BT%20%2A%2A%20R.txt	Audio-Technica ATH-HL7BT	Audio-Technica ATH-HL7BT	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/ATH-M50X%20%2A%2A%20L.txt	Audio-Technica ATH-M50X	Audio-Technica ATH-M50X	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/ATH-M50X%20%2A%2A%20R.txt	Audio-Technica ATH-M50X	Audio-Technica ATH-M50X	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/ATH-M50X%20**%20L.txt	Audio-Technica ATH-M50X	Audio-Technica ATH-M50x	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/ATH-M50X%20**%20R.txt	Audio-Technica ATH-M50X	Audio-Technica ATH-M50x	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/ATH-R70x%20L.txt	Audio-Technica ATH-R70x	Audio-Technica ATH-R70x	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/ATH-R70x%20R.txt	Audio-Technica ATH-R70x	Audio-Technica ATH-R70x	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Hi-X20%20**%20L.txt		Austrian Audio Hi-X20	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Hi-X20%20**%20R.txt		Austrian Audio Hi-X20	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Hi-X20%20%2A%2A%20L.txt	Austrian Audio Hi-X20	Austrian Audio Hi-X20	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Hi-X20%20%2A%2A%20R.txt	Austrian Audio Hi-X20	Austrian Audio Hi-X20	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/The%20Arranger%20%2A%2A%20L.txt	Austrian Audio The Arranger	Austrian Audio The Arranger	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/The%20Arranger%20%2A%2A%20R.txt	Austrian Audio The Arranger	Austrian Audio The Arranger	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/The%20Composer%20**%20L.txt		Austrian Audio The Composer	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/The%20Composer%20**%20R.txt		Austrian Audio The Composer	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/The%20Composer%20%2A%2A%20L.txt	Austrian Audio The Composer	Austrian Audio The Composer	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/The%20Composer%20%2A%2A%20R.txt	Austrian Audio The Composer	Austrian Audio The Composer	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aventho%20100%20%28ANC%20ON%29%20%2A%2A%20L.txt	Beyerdynamic Aventho 100	Beyerdynamic Aventho 100	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aventho%20100%20%28ANC%20ON%29%20%2A%2A%20R.txt	Beyerdynamic Aventho 100	Beyerdynamic Aventho 100	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aventho%20100%20%28ANC%20OFF%29%20%2A%2A%20L.txt	Beyerdynamic Aventho 100	Beyerdynamic Aventho 100	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aventho%20100%20%28ANC%20OFF%29%20%2A%2A%20R.txt	Beyerdynamic Aventho 100	Beyerdynamic Aventho 100	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aventho%20100%20%28Passive%29%20%2A%2A%20L.txt	Beyerdynamic Aventho 100	Beyerdynamic Aventho 100	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aventho%20100%20%28Passive%29%20%2A%2A%20R.txt	Beyerdynamic Aventho 100	Beyerdynamic Aventho 100	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aventho%20300%20%28ANC%20ON%29%20%2A%2A%20L.txt	Beyerdynamic Aventho 300	Beyerdynamic Aventho 300	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aventho%20300%20%28ANC%20ON%29%20%2A%2A%20R.txt	Beyerdynamic Aventho 300	Beyerdynamic Aventho 300	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aventho%20300%20%28ANC%20OFF%29%20%2A%2A%20L.txt	Beyerdynamic Aventho 300	Beyerdynamic Aventho 300	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aventho%20300%20%28ANC%20OFF%29%20%2A%2A%20R.txt	Beyerdynamic Aventho 300	Beyerdynamic Aventho 300	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aventho%20300%20%28ANC%20ON%20%26%20Neutral%20Preset%29%20%2A%2A%20L.txt	Beyerdynamic Aventho 300	Beyerdynamic Aventho 300	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aventho%20300%20%28ANC%20ON%20%26%20Neutral%20Preset%29%20%2A%2A%20R.txt	Beyerdynamic Aventho 300	Beyerdynamic Aventho 300	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aventho%20300%20%28ANC%20ON%20%26%20Smooth%20Preset%29%20%2A%2A%20L.txt	Beyerdynamic Aventho 300	Beyerdynamic Aventho 300	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aventho%20300%20%28ANC%20ON%20%26%20Smooth%20Preset%29%20%2A%2A%20R.txt	Beyerdynamic Aventho 300	Beyerdynamic Aventho 300	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aventho%20300%20%28Passive%29%20%2A%2A%20L.txt	Beyerdynamic Aventho 300	Beyerdynamic Aventho 300	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aventho%20300%20%28Passive%29%20%2A%2A%20R.txt	Beyerdynamic Aventho 300	Beyerdynamic Aventho 300	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/DT%20700%20Pro%20X%20L.txt	Beyerdynamic DT 700 Pro X	Beyerdynamic DT 700 Pro X	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/DT%20700%20Pro%20X%20R.txt	Beyerdynamic DT 700 Pro X	Beyerdynamic DT 700 Pro X	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/DT%20700%20Pro%20X%20(DT%20770%20Pro%20X%20Driver%20with%20Stock%20Foam%20&%20Pad)%20**%20L.txt		Beyerdynamic DT 700 Pro X	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/DT%20700%20Pro%20X%20%2A%2A%20L.txt	Beyerdynamic DT 700 Pro X	Beyerdynamic DT 700 Pro X	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/DT%20700%20Pro%20X%20%2A%2A%20R.txt	Beyerdynamic DT 700 Pro X	Beyerdynamic DT 700 Pro X	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/DT%20700%20Pro%20X%20%28DT%20770%20Pro%20X%20Driver%20with%20Stock%20Foam%20%26%20Pad%29%20%2A%2A%20L.txt	Beyerdynamic DT 700 Pro X	Beyerdynamic DT 700 Pro X	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/DT%20770%20Pro%20%2832%20ohm%20-%20Beyer%20Pleather%20Pads%29%20%2A%2A%20L.txt	Beyerdynamic DT 770 Pro (32 ohm LE)	Beyerdynamic DT 770 Pro (32 ohm LE)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/DT%20770%20Pro%20%2832%20ohm%20-%20Beyer%20Pleather%20Pads%29%20%2A%2A%20R.txt	Beyerdynamic DT 770 Pro (32 ohm LE)	Beyerdynamic DT 770 Pro (32 ohm LE)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/DT%20770%20Pro%20(32%20ohm%20-%20Beyer%20Pleather%20Pads)%20**%20L.txt	Beyerdynamic DT 770 Pro (32 ohm LE)	Beyerdynamic DT 770 Pro (32 ohm Limited Edition, pleather earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/DT%20770%20Pro%20(32%20ohm%20-%20Beyer%20Pleather%20Pads)%20**%20R.txt	Beyerdynamic DT 770 Pro (32 ohm LE)	Beyerdynamic DT 770 Pro (32 ohm Limited Edition, pleather earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/DT%20770%20Pro%20(80%20ohm)%20**%20L.txt	Beyerdynamic DT 770 Pro (80 ohm)	Beyerdynamic DT 770 Pro (80 Ohm)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/DT%20770%20Pro%20(80%20ohm)%20**%20R.txt	Beyerdynamic DT 770 Pro (80 ohm)	Beyerdynamic DT 770 Pro (80 Ohm)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/DT%20770%20Pro%20%2880%20ohm%29%20%2A%2A%20L.txt	Beyerdynamic DT 770 Pro (80 ohm)	Beyerdynamic DT 770 Pro (80 ohm)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/DT%20770%20Pro%20%2880%20ohm%29%20%2A%2A%20R.txt	Beyerdynamic DT 770 Pro (80 ohm)	Beyerdynamic DT 770 Pro (80 ohm)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/DT%20770%20Pro%20X%20Limited%20Edition%20(DT%20700%20Pro%20X%20Driver%20&%20Foam%20&%20Pad)%20**%20L.txt		Beyerdynamic DT 770 Pro X Limited Edition	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/DT%20770%20Pro%20X%20Limited%20Edition%20(DT%20700%20Pro%20X%20Driver%20&%20Foam%20with%20Stock%20Pad)%20**%20L.txt		Beyerdynamic DT 770 Pro X Limited Edition	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/DT%20770%20Pro%20X%20Limited%20Edition%20(DT%20700%20Pro%20X%20Foam)%20**%20R.txt		Beyerdynamic DT 770 Pro X Limited Edition	ignore	KB501x + 711
@@ -91,6 +182,17 @@ https://kuulokenurkka.squig.link/data/DT%20770%20Pro%20X%20Limited%20Edition%20(
 https://kuulokenurkka.squig.link/data/DT%20770%20Pro%20X%20Limited%20Edition%20(Paper%20mod%20&%20bass%20port%2075%20percent%20closed)%20**%20R.txt		Beyerdynamic DT 770 Pro X Limited Edition	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/DT%20770%20Pro%20X%20Limited%20Edition%20(Paper%20mod)%20**%20L.txt		Beyerdynamic DT 770 Pro X Limited Edition	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/DT%20770%20Pro%20X%20Limited%20Edition%20(Paper%20mod)%20**%20R.txt		Beyerdynamic DT 770 Pro X Limited Edition	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/DT%20770%20Pro%20X%20Limited%20Edition%20%2A%2A%20L.txt	Beyerdynamic DT 770 Pro X Limited Edition	Beyerdynamic DT 770 Pro X Limited Edition	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/DT%20770%20Pro%20X%20Limited%20Edition%20%2A%2A%20R.txt	Beyerdynamic DT 770 Pro X Limited Edition	Beyerdynamic DT 770 Pro X Limited Edition	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/DT%20770%20Pro%20X%20Limited%20Edition%20%28Paper%20mod%29%20%2A%2A%20L.txt	Beyerdynamic DT 770 Pro X Limited Edition	Beyerdynamic DT 770 Pro X Limited Edition	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/DT%20770%20Pro%20X%20Limited%20Edition%20%28Paper%20mod%29%20%2A%2A%20R.txt	Beyerdynamic DT 770 Pro X Limited Edition	Beyerdynamic DT 770 Pro X Limited Edition	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/DT%20770%20Pro%20X%20Limited%20Edition%20%28Paper%20mod%20%26%20bass%20port%2075%20percent%20closed%29%20%2A%2A%20L.txt	Beyerdynamic DT 770 Pro X Limited Edition	Beyerdynamic DT 770 Pro X Limited Edition	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/DT%20770%20Pro%20X%20Limited%20Edition%20%28Paper%20mod%20%26%20bass%20port%2075%20percent%20closed%29%20%2A%2A%20R.txt	Beyerdynamic DT 770 Pro X Limited Edition	Beyerdynamic DT 770 Pro X Limited Edition	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/DT%20770%20Pro%20X%20Limited%20Edition%20%28DT%20700%20Pro%20X%20Pads%29%20%2A%2A%20L.txt	Beyerdynamic DT 770 Pro X Limited Edition	Beyerdynamic DT 770 Pro X Limited Edition	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/DT%20770%20Pro%20X%20Limited%20Edition%20%28DT%20700%20Pro%20X%20Pads%29%20%2A%2A%20R.txt	Beyerdynamic DT 770 Pro X Limited Edition	Beyerdynamic DT 770 Pro X Limited Edition	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/DT%20770%20Pro%20X%20Limited%20Edition%20%28DT%20700%20Pro%20X%20Foam%29%20%2A%2A%20R.txt	Beyerdynamic DT 770 Pro X Limited Edition	Beyerdynamic DT 770 Pro X Limited Edition	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/DT%20770%20Pro%20X%20Limited%20Edition%20%28DT%20700%20Pro%20X%20Driver%20%26%20Foam%20%26%20Pad%29%20%2A%2A%20L.txt	Beyerdynamic DT 770 Pro X Limited Edition	Beyerdynamic DT 770 Pro X Limited Edition	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/DT%20770%20Pro%20X%20Limited%20Edition%20%28DT%20700%20Pro%20X%20Driver%20%26%20Foam%20with%20Stock%20Pad%29%20%2A%2A%20L.txt	Beyerdynamic DT 770 Pro X Limited Edition	Beyerdynamic DT 770 Pro X Limited Edition	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/DT%20900%20Pro%20X%20L.txt	Beyerdynamic DT 900 Pro X	Beyerdynamic DT 900 Pro X	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/DT%20900%20Pro%20X%20R.txt	Beyerdynamic DT 900 Pro X	Beyerdynamic DT 900 Pro X	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/DT%20770%20Pro%20X%20Limited%20Edition%20**%20L.txt		Beyerdynamic DT770 Pro X Limited Edition	over-ear	KB501x + 711
@@ -99,6 +201,12 @@ https://kuulokenurkka.squig.link/data/Bokeh%20Open%20(Hybrid%20Pads%20&%20Solid%
 https://kuulokenurkka.squig.link/data/Bokeh%20Open%20(Hybrid%20Pads%20&%20Solid%20Mesh)%20**%20L.txt		Bokeh Open (Hybrid Pads & Solid Mesh)	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/QuietComfort%20SE%20(EQ%20-2%20+3%20-3)%20**%20L.txt	Bose QuietComfort SE	Bose QuietComfort SE	ignore	
 https://kuulokenurkka.squig.link/data/QuietComfort%20SE%20(EQ%20-2%20+3%20-3)%20**%20R.txt	Bose QuietComfort SE	Bose QuietComfort SE	ignore	
+https://kuulokenurkka.squig.link/data/QuietComfort%20SE%20%28ANC%20ON%29%20%2A%2A%20L.txt	Bose QuietComfort SE	Bose QuietComfort SE	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/QuietComfort%20SE%20%28ANC%20ON%29%20%2A%2A%20R.txt	Bose QuietComfort SE	Bose QuietComfort SE	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/QuietComfort%20SE%20%28EQ%20-2%20%2B3%20-3%29%20%2A%2A%20L.txt	Bose QuietComfort SE	Bose QuietComfort SE	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/QuietComfort%20SE%20%28EQ%20-2%20%2B3%20-3%29%20%2A%2A%20R.txt	Bose QuietComfort SE	Bose QuietComfort SE	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/QuietComfort%20SE%20%28Passive%29%20%2A%2A%20L.txt	Bose QuietComfort SE	Bose QuietComfort SE	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/QuietComfort%20SE%20%28Passive%29%20%2A%2A%20R.txt	Bose QuietComfort SE	Bose QuietComfort SE	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/QuietComfort%20SE%20(ANC%20ON)%20**%20L.txt	Bose QuietComfort SE	Bose QuietComfort SE (ANC on)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/QuietComfort%20SE%20(ANC%20ON)%20**%20R.txt	Bose QuietComfort SE	Bose QuietComfort SE (ANC on)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/QuietComfort%20SE%20(Wired%20&%20Power%20OFF)%20**%20L.txt	Bose QuietComfort SE	Bose QuietComfort SE (passive)	over-ear	KB501x + 711
@@ -112,11 +220,37 @@ https://kuulokenurkka.squig.link/data/./QuietComfort%20Ultra%20(ANC%20ON%20&%20E
 https://kuulokenurkka.squig.link/data/./QuietComfort%20Ultra%20(ANC%20ON%20&%20EQ:%20-7%200%20-1)%20**%20R.txt		Bose QuietComfort Ultra	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/QuietComfort%20Ultra%20(AUX%20&%20ANC%20ON)%20**%20L.txt		Bose QuietComfort Ultra	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/QuietComfort%20Ultra%20(AUX%20&%20ANC%20ON)%20**%20R.txt		Bose QuietComfort Ultra	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/QuietComfort%20Ultra%20%28ANC%20ON%20%7C%2094%20dB%20%40%201%20kHz%29%20%2A%2A%20L.txt	Bose QuietComfort Ultra	Bose QuietComfort Ultra	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/QuietComfort%20Ultra%20%28ANC%20ON%20%7C%2094%20dB%20%40%201%20kHz%29%20%2A%2A%20R.txt	Bose QuietComfort Ultra	Bose QuietComfort Ultra	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/QuietComfort%20Ultra%20%28AUX%20%26%20ANC%20ON%29%20%2A%2A%20L.txt	Bose QuietComfort Ultra	Bose QuietComfort Ultra	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/QuietComfort%20Ultra%20%28AUX%20%26%20ANC%20ON%29%20%2A%2A%20R.txt	Bose QuietComfort Ultra	Bose QuietComfort Ultra	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/QuietComfort%20Ultra%20%28ANC%20ON%20%26%20EQ%3A%20-6%20%2B3%20%200%29%20%2A%2A%20L.txt	Bose QuietComfort Ultra	Bose QuietComfort Ultra	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/QuietComfort%20Ultra%20%28ANC%20ON%20%26%20EQ%3A%20-6%20%2B3%20%200%29%20%2A%2A%20R.txt	Bose QuietComfort Ultra	Bose QuietComfort Ultra	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/QuietComfort%20Ultra%20%28ANC%20ON%20%26%20EQ%3A%20-7%200%20-1%29%20%2A%2A%20L.txt	Bose QuietComfort Ultra	Bose QuietComfort Ultra	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/QuietComfort%20Ultra%20%28ANC%20ON%20%26%20EQ%3A%20-7%200%20-1%29%20%2A%2A%20R.txt	Bose QuietComfort Ultra	Bose QuietComfort Ultra	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/QuietComfort%20Ultra%20(ANC%20ON%20%7c%2085%20dB%20@%201%20kHz)%20**%20R.txt		Bose QuietComfort Ultra (ANC on)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/PX7%20S2e%20(EQ%20-1,5%20-2,5)%20**%20L.txt	Bowers & Wilkins PX7 S2e	Bowers & Wilkins PX7 S2e	ignore	
 https://kuulokenurkka.squig.link/data/PX7%20S2e%20(EQ%20-1,5%20-2,5)%20**%20R.txt	Bowers & Wilkins PX7 S2e	Bowers & Wilkins PX7 S2e	ignore	
 https://kuulokenurkka.squig.link/data/./PX7%20S2e%20(EQ:%20Treble%20-1,5%20&%20Bass%20-2,5)%20**%20L.txt		Bowers & Wilkins PX7 S2e	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/./PX7%20S2e%20(EQ:%20Treble%20-1,5%20&%20Bass%20-2,5)%20**%20R.txt		Bowers & Wilkins PX7 S2e	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/PX7%20S2e%20%28ANC%20ON%29%20%2A%2A%20L.txt	Bowers & Wilkins PX7 S2e	Bowers & Wilkins PX7 S2e	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/PX7%20S2e%20%28ANC%20ON%29%20%2A%2A%20R.txt	Bowers & Wilkins PX7 S2e	Bowers & Wilkins PX7 S2e	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/PX7%20S2e%20%28ANC%20OFF%29%20%2A%2A%20L.txt	Bowers & Wilkins PX7 S2e	Bowers & Wilkins PX7 S2e	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/PX7%20S2e%20%28ANC%20OFF%29%20%2A%2A%20R.txt	Bowers & Wilkins PX7 S2e	Bowers & Wilkins PX7 S2e	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/PX7%20S2e%20%28EQ%3A%20Treble%20-1%2C5%20%26%20Bass%20-2%2C5%29%20%2A%2A%20L.txt	Bowers & Wilkins PX7 S2e	Bowers & Wilkins PX7 S2e	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/PX7%20S2e%20%28EQ%3A%20Treble%20-1%2C5%20%26%20Bass%20-2%2C5%29%20%2A%2A%20R.txt	Bowers & Wilkins PX7 S2e	Bowers & Wilkins PX7 S2e	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/PX7%20S3%20%28ANC%20ON%29%20%2A%2A%20L.txt	Bowers & Wilkins PX7 S3	Bowers & Wilkins PX7 S3	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/PX7%20S3%20%28ANC%20ON%29%20%2A%2A%20R.txt	Bowers & Wilkins PX7 S3	Bowers & Wilkins PX7 S3	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/PX7%20S3%20%28ANC%20OFF%29%20%2A%2A%20L.txt	Bowers & Wilkins PX7 S3	Bowers & Wilkins PX7 S3	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/PX7%20S3%20%28ANC%20OFF%29%20%2A%2A%20R.txt	Bowers & Wilkins PX7 S3	Bowers & Wilkins PX7 S3	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/PX7%20S3%20Sample%202%20%28ANC%20ON%20%7C%20Position%201%29%20%2A%2A%20L.txt	Bowers & Wilkins PX7 S3	Bowers & Wilkins PX7 S3	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/PX7%20S3%20Sample%202%20%28ANC%20ON%20%7C%20Position%201%29%20%2A%2A%20R.txt	Bowers & Wilkins PX7 S3	Bowers & Wilkins PX7 S3	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/PX7%20S3%20Sample%202%20%28ANC%20ON%20%7C%20Position%202%29%20%2A%2A%20L.txt	Bowers & Wilkins PX7 S3	Bowers & Wilkins PX7 S3	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/PX7%20S3%20Sample%202%20%28ANC%20ON%20%7C%20Position%202%29%20%2A%2A%20R.txt	Bowers & Wilkins PX7 S3	Bowers & Wilkins PX7 S3	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/PX7%20S3%20Sample%202%20%28ANC%20ON%20%7C%20Position%203%29%20%2A%2A%20L.txt	Bowers & Wilkins PX7 S3	Bowers & Wilkins PX7 S3	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/PX7%20S3%20Sample%202%20%28ANC%20ON%20%7C%20Position%203%29%20%2A%2A%20R.txt	Bowers & Wilkins PX7 S3	Bowers & Wilkins PX7 S3	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/PX7%20S3%20Sample%202%20%28ANC%20ON%20%7C%20Position%204%29%20%2A%2A%20L.txt	Bowers & Wilkins PX7 S3	Bowers & Wilkins PX7 S3	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/PX7%20S3%20Sample%202%20%28ANC%20ON%20%7C%20Position%204%29%20%2A%2A%20R.txt	Bowers & Wilkins PX7 S3	Bowers & Wilkins PX7 S3	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/PX7%20S3%20(ANC%20OFF%20%7c%20Position%201)%20**%20L.txt		Bowers & Wilkins PX7 S3 (ANC off, position1)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/PX7%20S3%20(ANC%20OFF%20%7c%20Position%201)%20**%20R.txt		Bowers & Wilkins PX7 S3 (ANC off, position1)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/PX7%20S3%20(ANC%20ON%20%7c%20Position%201)%20**%20L.txt		Bowers & Wilkins PX7 S3 (ANC on, position 1)	over-ear	KB501x + 711
@@ -127,6 +261,10 @@ https://kuulokenurkka.squig.link/data/PX7%20S3%20(ANC%20ON%20%7c%20Position%203)
 https://kuulokenurkka.squig.link/data/PX7%20S3%20(ANC%20ON%20%7c%20Position%203)%20**%20R.txt		Bowers & Wilkins PX7 S3 (ANC on, position 3)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/PX7%20S3%20(ANC%20ON%20%7c%20Position%204)%20**%20L.txt		Bowers & Wilkins PX7 S3 (ANC on, position 4)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/PX7%20S3%20(ANC%20ON%20%7c%20Position%204)%20**%20R.txt		Bowers & Wilkins PX7 S3 (ANC on, position 4)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/PX8%20S2%20%28ANC%20ON%29%20%2A%2A%20L.txt	Bowers & Wilkins PX8 S2	Bowers & Wilkins PX8 S2	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/PX8%20S2%20%28ANC%20ON%29%20%2A%2A%20R.txt	Bowers & Wilkins PX8 S2	Bowers & Wilkins PX8 S2	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/PX8%20S2%20%28ANC%20OFF%29%20%2A%2A%20L.txt	Bowers & Wilkins PX8 S2	Bowers & Wilkins PX8 S2	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/PX8%20S2%20%28ANC%20OFF%29%20%2A%2A%20R.txt	Bowers & Wilkins PX8 S2	Bowers & Wilkins PX8 S2	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/PX7%20S2%20(ANC%20ON)%20L.txt	Bowers & Wilkins PX7 S2	Bowers & Wilkins Px7 S2	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/PX7%20S2%20(ANC%20ON)%20R.txt	Bowers & Wilkins PX7 S2	Bowers & Wilkins Px7 S2	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/PX7%20S2e%20(BT%20ANC%20OFF)%20**%20L.txt	Bowers & Wilkins PX7 S2e	Bowers & Wilkins Px7 S2e (ANC off)	over-ear	KB501x + 711
@@ -137,7 +275,31 @@ https://kuulokenurkka.squig.link/data/PX7%20S2e%20(BT%20ANC%20ON)%20**%20L.txt	B
 https://kuulokenurkka.squig.link/data/PX7%20S2e%20(BT%20ANC%20ON)%20**%20R.txt	Bowers & Wilkins PX7 S2e	Bowers & Wilkins Px7 S2e (ANC on)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/PX7%20S2e%20(ANC%20ON)%20**%20L.txt	Bowers & Wilkins PX7 S2e	Bowers & Wilkins Px7 S2e (ANC on)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/PX7%20S2e%20(ANC%20ON)%20**%20R.txt	Bowers & Wilkins PX7 S2e	Bowers & Wilkins Px7 S2e (ANC on)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Headphone%20Pro%20%28ANC%20MAX%20%7C%20Pop%20Preset%29%20%2A%2A%20L.txt	CMF Headphone Pro	CMF by Nothing Headphone Pro	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Headphone%20Pro%20%28ANC%20MAX%20%7C%20Pop%20Preset%29%20%2A%2A%20R.txt	CMF Headphone Pro	CMF by Nothing Headphone Pro	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Headphone%20Pro%20%28ANC%20MIN%20%7C%20Pop%20Preset%29%20%2A%2A%20L.txt	CMF Headphone Pro	CMF by Nothing Headphone Pro	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Headphone%20Pro%20%28ANC%20MIN%20%7C%20Pop%20Preset%29%20%2A%2A%20R.txt	CMF Headphone Pro	CMF by Nothing Headphone Pro	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Headphone%20Pro%20%28ANC%20OFF%20%7C%20Pop%20Preset%29%20%2A%2A%20L.txt	CMF Headphone Pro	CMF by Nothing Headphone Pro	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Headphone%20Pro%20%28ANC%20OFF%20%7C%20Pop%20Preset%29%20%2A%2A%20R.txt	CMF Headphone Pro	CMF by Nothing Headphone Pro	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Headphone%20Pro%20%28ANC%20MAX%20%7C%20Pop%20Preset%20%7C%20Bass%20Slider%20MAX%29%20%2A%2A%20L.txt	CMF Headphone Pro	CMF by Nothing Headphone Pro	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Headphone%20Pro%20%28ANC%20MAX%20%7C%20Pop%20Preset%20%7C%20Bass%20Slider%20MAX%29%20%2A%2A%20R.txt	CMF Headphone Pro	CMF by Nothing Headphone Pro	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Headphone%20Pro%20%28ANC%20MAX%20%7C%20Pop%20Preset%20%7C%20Treble%20Slider%20MAX%29%20%2A%2A%20L.txt	CMF Headphone Pro	CMF by Nothing Headphone Pro	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Headphone%20Pro%20%28ANC%20MAX%20%7C%20Pop%20Preset%20%7C%20Treble%20Slider%20MAX%29%20%2A%2A%20R.txt	CMF Headphone Pro	CMF by Nothing Headphone Pro	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Headphone%20Pro%20%28ANC%20MAX%20%7C%20Pop%20Preset%20%7C%20Low%20Volume%29%20%2A%2A%20L.txt	CMF Headphone Pro	CMF by Nothing Headphone Pro	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Headphone%20Pro%20%28ANC%20MAX%20%7C%20Pop%20Preset%20%7C%20Low%20Volume%29%20%2A%2A%20R.txt	CMF Headphone Pro	CMF by Nothing Headphone Pro	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Headphone%20Pro%20%28ANC%20MAX%20%7C%20Pop%20Preset%20%7C%20High%20Volume%29%20%2A%2A%20L.txt	CMF Headphone Pro	CMF by Nothing Headphone Pro	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Headphone%20Pro%20%28ANC%20MAX%20%7C%20Pop%20Preset%20%7C%20High%20Volume%29%20%2A%2A%20R.txt	CMF Headphone Pro	CMF by Nothing Headphone Pro	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Headphone%20Pro%20%28ANC%20MAX%20%7C%20Custom%20Mode%20%3D%20Baseline%20for%20EQ%29%20%2A%2A%20L.txt	CMF Headphone Pro	CMF by Nothing Headphone Pro	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Headphone%20Pro%20%28ANC%20MAX%20%7C%20Custom%20Mode%20%3D%20Baseline%20for%20EQ%29%20%2A%2A%20R.txt	CMF Headphone Pro	CMF by Nothing Headphone Pro	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Headphone%20Pro%20%28ANC%20MAX%20%7C%20AUX%20%7C%20Pop%20Preset%29%20%2A%2A%20L.txt	CMF Headphone Pro	CMF by Nothing Headphone Pro	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Headphone%20Pro%20%28ANC%20MAX%20%7C%20AUX%20%7C%20Pop%20Preset%29%20%2A%2A%20R.txt	CMF Headphone Pro	CMF by Nothing Headphone Pro	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/./Melomania%20P100%20(ANC%20ON)%20FW:1.0.43%20**%20R.txt		Cambridge Audio Melomania P100	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Melomania%20P100%20%28ANC%20ON%29%20FW%3A1.0.48%20%2A%2A%20L.txt	Cambridge Audio Melomania P100	Cambridge Audio Melomania P100	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Melomania%20P100%20%28ANC%20ON%29%20FW%3A1.0.48%20%2A%2A%20R.txt	Cambridge Audio Melomania P100	Cambridge Audio Melomania P100	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Melomania%20P100%20%28ANC%20ON%29%20FW%3A1.0.43%20%2A%2A%20L.txt	Cambridge Audio Melomania P100	Cambridge Audio Melomania P100	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Melomania%20P100%20%28ANC%20ON%29%20FW%3A1.0.43%20%2A%2A%20R.txt	Cambridge Audio Melomania P100	Cambridge Audio Melomania P100	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Melomania%20P100%20%28ANC%20OFF%29%20%2A%2A%20L.txt	Cambridge Audio Melomania P100	Cambridge Audio Melomania P100	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Melomania%20P100%20%28ANC%20OFF%29%20%2A%2A%20R.txt	Cambridge Audio Melomania P100	Cambridge Audio Melomania P100	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Melomania%20P100%20(ANC%20OFF)%20**%20L.txt		Cambridge Audio Melomania P100 (ANC off)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Melomania%20P100%20(ANC%20OFF)%20**%20R.txt		Cambridge Audio Melomania P100 (ANC off)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/./Melomania%20P100%20(ANC%20ON)%20FW:1.0.43%20**%20L.txt		Cambridge Audio Melomania P100 (ANC on)	ignore	KB501x + 711
@@ -145,22 +307,56 @@ https://kuulokenurkka.squig.link/data/./Melomania%20P100%20(ANC%20ON)%20FW:1.0.4
 https://kuulokenurkka.squig.link/data/./Melomania%20P100%20(ANC%20ON)%20FW:1.0.48%20**%20R.txt		Cambridge Audio Melomania P100 (ANC on)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/VM%20Open%20Back%20**%20L.txt	Custom Made Headphones VM Open Back	Custom Made Headphones VM Open Back	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/VM%20Open%20Back%20**%20R.txt	Custom Made Headphones VM Open Back	Custom Made Headphones VM Open Back	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/ONYX%20Planar%20%28Round%20Velour%20Pads%29%20%2A%2A%20L.txt	DSH-Studio ONYX Planar	DSH-Studio ONYX Planar	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/ONYX%20Planar%20%28Round%20Velour%20Pads%29%20%2A%2A%20R.txt	DSH-Studio ONYX Planar	DSH-Studio ONYX Planar	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/ONYX%20Planar%20%28Round%20Hybrid%20Pads%29%20%2A%2A%20L.txt	DSH-Studio ONYX Planar	DSH-Studio ONYX Planar	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/ONYX%20Planar%20%28Round%20Hybrid%20Pads%29%20%2A%2A%20R.txt	DSH-Studio ONYX Planar	DSH-Studio ONYX Planar	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/ONYX%20Planar%20%28Hybrid%20Pads%20with%20Rectangle%20Hole%29%20%2A%2A%20L.txt	DSH-Studio ONYX Planar	DSH-Studio ONYX Planar	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/ONYX%20Planar%20%28Hybrid%20Pads%20with%20Rectangle%20Hole%29%20%2A%2A%20R.txt	DSH-Studio ONYX Planar	DSH-Studio ONYX Planar	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/ONYX%20Planar%20%28Angled%20Leather%20Pads%20from%20SASH%20TRES%20SE%29%20%2A%2A%20L.txt	DSH-Studio ONYX Planar	DSH-Studio ONYX Planar	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/ONYX%20Planar%20%28Angled%20Leather%20Pads%20from%20SASH%20TRES%20SE%29%20%2A%2A%20R.txt	DSH-Studio ONYX Planar	DSH-Studio ONYX Planar	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/ONYX%20Prototype%20%28Velour%20Pads%29%20%2A%2A%20L.txt	DSH-Studio ONYX Prototype	DSH-Studio ONYX Prototype	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/ONYX%20Prototype%20%28Velour%20Pads%29%20%2A%2A%20R.txt	DSH-Studio ONYX Prototype	DSH-Studio ONYX Prototype	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/ONYX%20Prototype%20%28Hybrid%20Pads%29%20%2A%2A%20L.txt	DSH-Studio ONYX Prototype	DSH-Studio ONYX Prototype	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/ONYX%20Prototype%20%28Hybrid%20Pads%29%20%2A%2A%20R.txt	DSH-Studio ONYX Prototype	DSH-Studio ONYX Prototype	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/DT770%20Pro%20(32%20ohm%20-%20Beyer%20Pleather%20Pads)%20L.txt		DT770 Pro (32 ohm - Beyer Pleather Pads)	ignore	
 https://kuulokenurkka.squig.link/data/DT770%20Pro%20(32%20ohm%20-%20Beyer%20Pleather%20Pads)%20R.txt		DT770 Pro (32 ohm - Beyer Pleather Pads)	ignore	
 https://kuulokenurkka.squig.link/data/E3%20(Low%20Seating%20on%20Head)%20**%20L.txt	Dan Clark Audio E3	Dan Clark Audio E3	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/E3%20(Low%20Seating%20on%20Head)%20**%20R.txt	Dan Clark Audio E3	Dan Clark Audio E3	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/E3%20**%20L.txt	Dan Clark Audio E3	Dan Clark Audio E3	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/E3%20**%20R.txt	Dan Clark Audio E3	Dan Clark Audio E3	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/E3%20%2A%2A%20L.txt	Dan Clark Audio E3	Dan Clark Audio E3	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/E3%20%2A%2A%20R.txt	Dan Clark Audio E3	Dan Clark Audio E3	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Noire%20X%20%2A%2A%20L.txt	Dan Clark Audio Noire X	Dan Clark Audio Noire X	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Noire%20X%20%2A%2A%20R.txt	Dan Clark Audio Noire X	Dan Clark Audio Noire X	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Stealth%20**%20L.txt		Dan Clark Audio Stealth	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Stealth%20**%20R.txt		Dan Clark Audio Stealth	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Stealth%20%2A%2A%20L.txt	Dan Clark Audio Stealth	Dan Clark Audio Stealth	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Stealth%20%2A%2A%20R.txt	Dan Clark Audio Stealth	Dan Clark Audio Stealth	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Freestyle%20%2A%2A%20L.txt	Mondo by Defunc Freestyle	Defunc Freestyle	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Freestyle%20%2A%2A%20R.txt	Mondo by Defunc Freestyle	Defunc Freestyle	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Freestyle%20**%20L.txt		Defunc Mondo Freestyle	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Freestyle%20**%20R.txt		Defunc Mondo Freestyle	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/AH-D5200%20(Fostex%20Pads)%20**%20L.txt	Denon AH-D5200	Denon AH-D5200	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/AH-D5200%20(Fostex%20Pads)%20**%20R.txt	Denon AH-D5200	Denon AH-D5200	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/AH-D5200%20**%20L.txt		Denon AH-D5200	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/AH-D5200%20**%20R.txt		Denon AH-D5200	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/AH-D5200%20%2A%2A%20L.txt	Denon AH-D5200	Denon AH-D5200	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/AH-D5200%20%2A%2A%20R.txt	Denon AH-D5200	Denon AH-D5200	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/AH-D9200%20L.txt	Denon AH-D9200	Denon AH-D9200	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/AH-D9200%20R.txt	Denon AH-D9200	Denon AH-D9200	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/AH-D9200%20%2A%2A%20L.txt	Denon AH-D9200	Denon AH-D9200	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/AH-D9200%20%2A%2A%20R.txt	Denon AH-D9200	Denon AH-D9200	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/OnTrac%20%28Stock%3A%20Enhanced%29%20%2A%2A%20L.txt	Dyson OnTrac	Dyson OnTrac	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/OnTrac%20%28Stock%3A%20Enhanced%29%20%2A%2A%20R.txt	Dyson OnTrac	Dyson OnTrac	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/OnTrac%20%28Neutral%29%20%2A%2A%20L.txt	Dyson OnTrac	Dyson OnTrac	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/OnTrac%20%28Neutral%29%20%2A%2A%20R.txt	Dyson OnTrac	Dyson OnTrac	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/OnTrac%20%28Bass%20Boost%29%20%2A%2A%20L.txt	Dyson OnTrac	Dyson OnTrac	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/OnTrac%20%28Bass%20Boost%29%20%2A%2A%20R.txt	Dyson OnTrac	Dyson OnTrac	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/OnTrac%20%28Stock%3A%20Enhanced%20%26%20ANC%20OFF%29%20%2A%2A%20L.txt	Dyson OnTrac	Dyson OnTrac	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/OnTrac%20%28Stock%3A%20Enhanced%20%26%20ANC%20OFF%29%20%2A%2A%20R.txt	Dyson OnTrac	Dyson OnTrac	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/OnTrac%20%28Neutral%20%26%20ANC%20OFF%29%20%2A%2A%20L.txt	Dyson OnTrac	Dyson OnTrac	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/OnTrac%20%28Neutral%20%26%20ANC%20OFF%29%20%2A%2A%20R.txt	Dyson OnTrac	Dyson OnTrac	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/./OnTrac%20(Stock:%20Enhanced%20&%20ANC%20OFF)%20**%20L.txt		Dyson OnTrac (ANC off, enhanced)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/./OnTrac%20(Stock:%20Enhanced%20&%20ANC%20OFF)%20**%20R.txt		Dyson OnTrac (ANC off, enhanced)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/OnTrac%20(Neutral%20&%20ANC%20OFF)%20**%20L.txt		Dyson OnTrac (ANC off, neutral)	over-ear	KB501x + 711
@@ -173,10 +369,36 @@ https://kuulokenurkka.squig.link/data/OnTrac%20(Neutral)%20**%20L.txt		Dyson OnT
 https://kuulokenurkka.squig.link/data/OnTrac%20(Neutral)%20**%20R.txt		Dyson OnTrac (neutral)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Game%20Zero%20**%20L.txt	EPOS Sennheiser Game Zero	EPOS Sennheiser Game Zero	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Game%20Zero%20**%20R.txt	EPOS Sennheiser Game Zero	EPOS Sennheiser Game Zero	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Game%20Zero%20%2A%2A%20L.txt	EPOS Sennheiser Game Zero	EPOS Sennheiser Game Zero	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Game%20Zero%20%2A%2A%20R.txt	EPOS Sennheiser Game Zero	EPOS Sennheiser Game Zero	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/STAX%20Spirit%20S5%20%28Cooling-mesh%20Pads%20%26%20Original%20Mode%29%20%2A%2A%20L.txt	Edifier STAX Spirit S5	Edifier STAX Spirit S5	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/STAX%20Spirit%20S5%20%28Cooling-mesh%20Pads%20%26%20Original%20Mode%29%20%2A%2A%20R.txt	Edifier STAX Spirit S5	Edifier STAX Spirit S5	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/STAX%20Spirit%20S5%20%28Cooling-mesh%20Pads%20%26%20Dynamic%20Mode%29%20%2A%2A%20L.txt	Edifier STAX Spirit S5	Edifier STAX Spirit S5	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/STAX%20Spirit%20S5%20%28Cooling-mesh%20Pads%20%26%20Dynamic%20Mode%29%20%2A%2A%20R.txt	Edifier STAX Spirit S5	Edifier STAX Spirit S5	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/STAX%20Spirit%20S5%20%28Cooling-mesh%20Pads%20%26%20Monitor%20Mode%29%20%2A%2A%20L.txt	Edifier STAX Spirit S5	Edifier STAX Spirit S5	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/STAX%20Spirit%20S5%20%28Cooling-mesh%20Pads%20%26%20Monitor%20Mode%29%20%2A%2A%20R.txt	Edifier STAX Spirit S5	Edifier STAX Spirit S5	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/STAX%20Spirit%20S5%20%28Cooling-mesh%20Pads%20%26%20Customized--Sliders%20at%200%29%20%2A%2A%20L.txt	Edifier STAX Spirit S5	Edifier STAX Spirit S5	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/STAX%20Spirit%20S5%20%28Cooling-mesh%20Pads%20%26%20Customized--Sliders%20at%200%29%20%2A%2A%20R.txt	Edifier STAX Spirit S5	Edifier STAX Spirit S5	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/STAX%20Spirit%20S5%20%28Cooling-mesh%20Pads%20%26%20Leather%20Setting%20%26%20Original%20Mode%29%20%2A%2A%20L.txt	Edifier STAX Spirit S5	Edifier STAX Spirit S5	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/STAX%20Spirit%20S5%20%28Cooling-mesh%20Pads%20%26%20Leather%20Setting%20%26%20Original%20Mode%29%20%2A%2A%20R.txt	Edifier STAX Spirit S5	Edifier STAX Spirit S5	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/STAX%20Spirit%20S5%20%28Leather%20Pads%20%26%20Original%20Mode%29%20%2A%2A%20L.txt	Edifier STAX Spirit S5	Edifier STAX Spirit S5	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/STAX%20Spirit%20S5%20%28Leather%20Pads%20%26%20Original%20Mode%29%20%2A%2A%20R.txt	Edifier STAX Spirit S5	Edifier STAX Spirit S5	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/STAX%20Spirit%20S5%20%28Leather%20Pads%20%26%20Dynamic%20Mode%29%20%2A%2A%20L.txt	Edifier STAX Spirit S5	Edifier STAX Spirit S5	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/STAX%20Spirit%20S5%20%28Leather%20Pads%20%26%20Dynamic%20Mode%29%20%2A%2A%20R.txt	Edifier STAX Spirit S5	Edifier STAX Spirit S5	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/STAX%20Spirit%20S5%20%28Leather%20Pads%20%26%20Monitor%20Mode%29%20%2A%2A%20L.txt	Edifier STAX Spirit S5	Edifier STAX Spirit S5	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/STAX%20Spirit%20S5%20%28Leather%20Pads%20%26%20Monitor%20Mode%29%20%2A%2A%20R.txt	Edifier STAX Spirit S5	Edifier STAX Spirit S5	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/STAX%20Spirit%20S5%20%28Leather%20Pads%20%26%20Customized--Sliders%20at%200%29%20%2A%2A%20L.txt	Edifier STAX Spirit S5	Edifier STAX Spirit S5	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/STAX%20Spirit%20S5%20%28Leather%20Pads%20%26%20Customized--Sliders%20at%200%29%20%2A%2A%20R.txt	Edifier STAX Spirit S5	Edifier STAX Spirit S5	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/W820NB%20(ANC%20OFF)%20L.txt		Edifier W820NB (ANC off)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/W820NB%20(ANC%20OFF)%20R.txt		Edifier W820NB (ANC off)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/W820NB%20(ANC%20ON)%20L.txt		Edifier W820NB (ANC on)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/W820NB%20(ANC%20ON)%20R.txt		Edifier W820NB (ANC on)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/WH950NB%20%28ANC%20ON%20%26%20Classic%20Mode%29%20%2A%2A%20L.txt	Edifier WH950NB	Edifier WH950NB	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/WH950NB%20%28ANC%20ON%20%26%20Classic%20Mode%29%20%2A%2A%20R.txt	Edifier WH950NB	Edifier WH950NB	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/WH950NB%20%28ANC%20ON%20%26%20Dynamic%20Mode%29%20%2A%2A%20L.txt	Edifier WH950NB	Edifier WH950NB	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/WH950NB%20%28ANC%20ON%20%26%20Dynamic%20Mode%29%20%2A%2A%20R.txt	Edifier WH950NB	Edifier WH950NB	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/WH950NB%20%28Passive%29%20%2A%2A%20L.txt	Edifier WH950NB	Edifier WH950NB	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/WH950NB%20%28Passive%29%20%2A%2A%20R.txt	Edifier WH950NB	Edifier WH950NB	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/WH950NB%20(ANC%20ON%20&%20Classic%20Mode)%20**%20L.txt	Edifier WH950NB	Edifier WH950NB (ANC on, classic mode)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/WH950NB%20(ANC%20ON%20&%20Classic%20Mode)%20**%20R.txt	Edifier WH950NB	Edifier WH950NB (ANC on, classic mode)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/WH950NB%20(ANC%20ON%20&%20Dynamic%20Mode)%20**%20L.txt	Edifier WH950NB	Edifier WH950NB (ANC on, dynamic mode)	over-ear	KB501x + 711
@@ -185,64 +407,122 @@ https://kuulokenurkka.squig.link/data/WH950NB%20(Wired%20&%20Power%20OFF)%20**%2
 https://kuulokenurkka.squig.link/data/WH950NB%20(Wired%20&%20Power%20OFF)%20**%20R.txt	Edifier WH950NB	Edifier WH950NB (passive)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/WH950NB%20(Passive)%20**%20L.txt	Edifier WH950NB	Edifier WH950NB (passive)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/WH950NB%20(Passive)%20**%20R.txt	Edifier WH950NB	Edifier WH950NB (passive)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/FT1%20%2A%2A%20L.txt	Fiio FT1	FiiO FT1	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/FT1%20%2A%2A%20R.txt	Fiio FT1	FiiO FT1	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/FT1%20Pro%20**%20L.txt		FiiO FT1 Pro	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/FT1%20Pro%20**%20R.txt		FiiO FT1 Pro	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/FT1%20Pro%20%2A%2A%20L.txt	Fiio FT1 Pro	FiiO FT1 Pro	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/FT1%20Pro%20%2A%2A%20R.txt	Fiio FT1 Pro	FiiO FT1 Pro	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/FT3%20(Pleather%20Pads)%20L.txt	Fiio FT3	FiiO FT3 (pleather earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/FT3%20(Pleather%20Pads)%20R.txt	Fiio FT3	FiiO FT3 (pleather earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/FT3%20(Suede%20Pads)%20L.txt	Fiio FT3	FiiO FT3 (suede earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/FT3%20(Suede%20Pads)%20R.txt	Fiio FT3	FiiO FT3 (suede earpads)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/FT5%20%28Pleather%20Pads%29%20%2A%2A%20L.txt	Fiio FT5	FiiO FT5	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/FT5%20%28Pleather%20Pads%29%20%2A%2A%20R.txt	Fiio FT5	FiiO FT5	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/FT5%20%28Suede%20Pads%29%20%2A%2A%20L.txt	Fiio FT5	FiiO FT5	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/FT5%20%28Suede%20Pads%29%20%2A%2A%20R.txt	Fiio FT5	FiiO FT5	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/FT5%20(Pleather%20Pads)%20**%20L.txt	Fiio FT5	FiiO FT5 (pleather earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/FT5%20(Pleather%20Pads)%20**%20R.txt	Fiio FT5	FiiO FT5 (pleather earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/FT5%20(Suede%20Pads)%20**%20L.txt	Fiio FT5	FiiO FT5 (suede earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/FT5%20(Suede%20Pads)%20**%20R.txt	Fiio FT5	FiiO FT5 (suede earpads)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/FT7%20%28Leather%20Pads%29%20%2A%2A%20L.txt	Fiio FT7	FiiO FT7	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/FT7%20%28Leather%20Pads%29%20%2A%2A%20R.txt	Fiio FT7	FiiO FT7	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/FT7%20%28Fabric%20Pads%29%20%2A%2A%20L.txt	Fiio FT7	FiiO FT7	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/FT7%20%28Fabric%20Pads%29%20%2A%2A%20R.txt	Fiio FT7	FiiO FT7	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/FT7%20(Fabric%20Pads)%20**%20L.txt		FiiO FT7 (fabric earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/FT7%20(Fabric%20Pads)%20**%20R.txt		FiiO FT7 (fabric earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/FT7%20(Leather%20Pads)%20**%20L.txt		FiiO FT7 (leather earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/FT7%20(Leather%20Pads)%20**%20R.txt		FiiO FT7 (leather earpads)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Nature%20%2A%2A%20L.txt	Snowsky Nature	FiiO Nature	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Nature%20%2A%2A%20R.txt	Snowsky Nature	FiiO Nature	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Snowsky%20Wind%20**%20L.txt		FiiO Snowsky Wind	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Snowsky%20Wind%20**%20R.txt		FiiO Snowsky Wind	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Wind%20%2A%2A%20L.txt	Snowsky Wind	FiiO Wind	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Wind%20%2A%2A%20R.txt	Snowsky Wind	FiiO Wind	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Wind%20%28Koss%20Porta%20Pro%20Pads%29%20%2A%2A%20L.txt	Snowsky Wind	FiiO Wind	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Wind%20%28Koss%20Porta%20Pro%20Pads%29%20%2A%2A%20R.txt	Snowsky Wind	FiiO Wind	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/FT3%20(Pleather%20Pads%20and%20Added%20Foam)%20L.txt	Fiio FT3	Fiio FT3	ignore	
 https://kuulokenurkka.squig.link/data/FT3%20(Pleather%20Pads%20and%20Added%20Foam)%20R.txt	Fiio FT3	Fiio FT3	ignore	
 https://kuulokenurkka.squig.link/data/Snowsky%20Wind%20(Koss%20Porta%20Pro%20Pads)%20**%20L.txt		Fiio Snowsky Wind	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/Snowsky%20Wind%20(Koss%20Porta%20Pro%20Pads)%20**%20R.txt		Fiio Snowsky Wind	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/Azurys%20**%20L.txt		Focal Azurys	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Azurys%20**%20R.txt		Focal Azurys	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Azurys%20%2A%2A%20L.txt	Focal Azurys	Focal Azurys	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Azurys%20%2A%2A%20R.txt	Focal Azurys	Focal Azurys	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Bathys%20(Dynamic%20Preset)%20**%20L.txt	Focal Bathys	Focal Bathys	ignore	
 https://kuulokenurkka.squig.link/data/Bathys%20(Dynamic%20Preset)%20**%20R.txt	Focal Bathys	Focal Bathys	ignore	
 https://kuulokenurkka.squig.link/data/Bathys%20**%20L.txt	Focal Bathys	Focal Bathys	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Bathys%20**%20R.txt	Focal Bathys	Focal Bathys	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Bathys%20%2A%2A%20L.txt	Focal Bathys	Focal Bathys	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Bathys%20%2A%2A%20R.txt	Focal Bathys	Focal Bathys	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Bathys%20%28Dynamic%20Preset%29%20%2A%2A%20L.txt	Focal Bathys	Focal Bathys	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Bathys%20%28Dynamic%20Preset%29%20%2A%2A%20R.txt	Focal Bathys	Focal Bathys	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/Bathys%20MG%20**%20L.txt		Focal Bathys MG	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Bathys%20MG%20**%20R.txt		Focal Bathys MG	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Bathys%20MG%20%2A%2A%20L.txt	Focal Bathys MG	Focal Bathys MG	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Bathys%20MG%20%2A%2A%20R.txt	Focal Bathys MG	Focal Bathys MG	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Bathys%20MG%20%28Dynamic%20Preset%29%20%2A%2A%20L.txt	Focal Bathys MG	Focal Bathys MG	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Bathys%20MG%20%28Dynamic%20Preset%29%20%2A%2A%20R.txt	Focal Bathys MG	Focal Bathys MG	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Bathys%20MG%20(Dynamic%20Preset)%20**%20L.txt		Focal Bathys MG (dynamic preset)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Bathys%20MG%20(Dynamic%20Preset)%20**%20R.txt		Focal Bathys MG (dynamic preset)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Clear%20MG%20%2A%2A%20L.txt	Focal Clear MG	Focal Clear MG	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Clear%20MG%20%2A%2A%20R.txt	Focal Clear MG	Focal Clear MG	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Clear%20MG%20**%20L.txt		Focal Clear Mg	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Clear%20MG%20**%20R.txt		Focal Clear Mg	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Hadenys%20**%20L.txt		Focal Hadenys	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Hadenys%20**%20R.txt		Focal Hadenys	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Hadenys%20%2A%2A%20L.txt	Focal Hadenys	Focal Hadenys	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Hadenys%20%2A%2A%20R.txt	Focal Hadenys	Focal Hadenys	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Utopia%20**%20L.txt	Focal Utopia	Focal Utopia	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Utopia%20**%20R.txt	Focal Utopia	Focal Utopia	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Utopia%20%2A%2A%20L.txt	Focal Utopia	Focal Utopia	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Utopia%20%2A%2A%20R.txt	Focal Utopia	Focal Utopia	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Utopia%202022%20**%20L.txt		Focal Utopia 2022	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Utopia%202022%20**%20R.txt		Focal Utopia 2022	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Utopia%202022%20%2A%2A%20L.txt	Focal Utopia 2022	Focal Utopia 2022	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Utopia%202022%20%2A%2A%20R.txt	Focal Utopia 2022	Focal Utopia 2022	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/TR-X00%20Purpleheart%20**%20L.txt	Fostex TR-X00 Purpleheart	Fostex TH-X00 (purpleheart)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/TR-X00%20Purpleheart%20**%20R.txt	Fostex TR-X00 Purpleheart	Fostex TH-X00 (purpleheart)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/TR-X00%20Purpleheart%20%2A%2A%20L.txt	Fostex TR-X00 Purpleheart	Fostex TR-X00 Purpleheart	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/TR-X00%20Purpleheart%20%2A%2A%20R.txt	Fostex TR-X00 Purpleheart	Fostex TR-X00 Purpleheart	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/SR125e%20L.txt	Grado SR125e	Grado SR125e	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/SR125e%20R.txt	Grado SR125e	Grado SR125e	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/HEDDphone%20D1%20%2A%2A%20L.txt	HEDD Audio HEDDphone D1	HEDD Audio HEDDphone D1	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/HEDDphone%20D1%20%2A%2A%20R.txt	HEDD Audio HEDDphone D1	HEDD Audio HEDDphone D1	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/HEDDphone%20Two%20%2A%2A%20L.txt	HEDD Audio HEDDphone Two	HEDD Audio HEDDphone Two	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/HEDDphone%20Two%20%2A%2A%20R.txt	HEDD Audio HEDDphone Two	HEDD Audio HEDDphone Two	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/HEDDphone%20Two%20**%20L.txt		HEDD Heddphone 2	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/HEDDphone%20Two%20**%20R.txt		HEDD Heddphone 2	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Ananda%20**%20L.txt	Hifiman Ananda	HIFIMAN Ananda	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Ananda%20**%20R.txt	Hifiman Ananda	HIFIMAN Ananda	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Ananda%20%2A%2A%20L.txt	Hifiman Ananda	HIFIMAN Ananda	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Ananda%20%2A%2A%20R.txt	Hifiman Ananda	HIFIMAN Ananda	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Ananda%20Nano%20**%20L.txt	Hifiman Ananda Nano	HIFIMAN Ananda Nano	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Ananda%20Nano%20**%20R.txt	Hifiman Ananda Nano	HIFIMAN Ananda Nano	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Ananda%20Nano%20%2A%2A%20L.txt	Hifiman Ananda Nano	HIFIMAN Ananda Nano	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Ananda%20Nano%20%2A%2A%20R.txt	Hifiman Ananda Nano	HIFIMAN Ananda Nano	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Arya%20Organic%20**%20L.txt	Hifiman Arya Organic	HIFIMAN Arya Organic	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Arya%20Organic%20**%20R.txt	Hifiman Arya Organic	HIFIMAN Arya Organic	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Arya%20Organic%20%2A%2A%20L.txt	Hifiman Arya Organic	HIFIMAN Arya Organic	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Arya%20Organic%20%2A%2A%20R.txt	Hifiman Arya Organic	HIFIMAN Arya Organic	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Arya%20Unveiled%20**%20L.txt		HIFIMAN Arya Unveiled	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Arya%20Unveiled%20**%20R.txt		HIFIMAN Arya Unveiled	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Arya%20Unveiled%20%2A%2A%20L.txt	Hifiman Arya Unveiled	HIFIMAN Arya Unveiled	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Arya%20Unveiled%20%2A%2A%20R.txt	Hifiman Arya Unveiled	HIFIMAN Arya Unveiled	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Deva%20Pro%20(Wired)%20L.txt	Hifiman Deva Pro (Wired)	HIFIMAN Deva Pro-wired	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Deva%20Pro%20(Wired)%20R.txt	Hifiman Deva Pro (Wired)	HIFIMAN Deva Pro-wired	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Edition%20XS%20(Sample%201)%20L.txt	Hifiman Edition XS	HIFIMAN Edition XS	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Edition%20XS%20(Sample%201)%20R.txt	Hifiman Edition XS	HIFIMAN Edition XS	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Edition%20XS%20(Sample%202)%20L.txt	Hifiman Edition XS	HIFIMAN Edition XS	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Edition%20XS%20(Sample%202)%20R.txt	Hifiman Edition XS	HIFIMAN Edition XS	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Edition%20XV%20%2A%2A%20L.txt	Hifiman Edition XV	HIFIMAN Edition XV	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Edition%20XV%20%2A%2A%20R.txt	Hifiman Edition XV	HIFIMAN Edition XV	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/HE-6%20%28HFM%20Velour%20Pads%20%26%20Grill%20Mod%29%20%2A%2A%20L.txt	Hifiman HE-6 (6 screw)	HIFIMAN HE-6 (6 screw)	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/HE-6%20%28HFM%20Velour%20Pads%20%26%20Grill%20Mod%29%20%2A%2A%20R.txt	Hifiman HE-6 (6 screw)	HIFIMAN HE-6 (6 screw)	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/HE-6%20%28Sundara%20Pads%20%26%20Grill%20Mod%29%20%2A%2A%20L.txt	Hifiman HE-6 (6 screw)	HIFIMAN HE-6 (6 screw)	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/HE-6%20%28Sundara%20Pads%20%26%20Grill%20Mod%29%20%2A%2A%20R.txt	Hifiman HE-6 (6 screw)	HIFIMAN HE-6 (6 screw)	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/HE-6%20%28ZMF%20Hifiman%2B%20Hybrid%20Pads%20%26%20Grill%20Mod%29%20%2A%2A%20L.txt	Hifiman HE-6 (6 screw)	HIFIMAN HE-6 (6 screw)	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/HE-6%20%28ZMF%20Hifiman%2B%20Hybrid%20Pads%20%26%20Grill%20Mod%29%20%2A%2A%20R.txt	Hifiman HE-6 (6 screw)	HIFIMAN HE-6 (6 screw)	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/HE-6%20(Sample%202%20Focus%20Pads)%20L.txt	Hifiman HE-6 (6 screw)	HIFIMAN HE-6 (6-screw, HIFIMAN FocusPad earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/HE-6%20(Sample%202%20Focus%20Pads)%20R.txt	Hifiman HE-6 (6 screw)	HIFIMAN HE-6 (6-screw, HIFIMAN FocusPad earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/HE-6%20(Sample%202%20HFM%20Pleather%20Pads)%20L.txt	Hifiman HE-6 (6 screw)	HIFIMAN HE-6 (6-screw, pleather earpads)	over-ear	KB501x + 711
@@ -253,20 +533,38 @@ https://kuulokenurkka.squig.link/data/HE-R9%20(Sample%201)%20**%20L.txt	Hifiman 
 https://kuulokenurkka.squig.link/data/HE-R9%20(Sample%201)%20**%20R.txt	Hifiman HE-R9	HIFIMAN HE-R9	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/HE-R9%20(Sample%202)%20L.txt	Hifiman HE-R9	HIFIMAN HE-R9	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/HE-R9%20(Sample%202)%20R.txt	Hifiman HE-R9	HIFIMAN HE-R9	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/HE-R9%20%28Sample%201%29%20%2A%2A%20L.txt	Hifiman HE-R9	HIFIMAN HE-R9	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/HE-R9%20%28Sample%201%29%20%2A%2A%20R.txt	Hifiman HE-R9	HIFIMAN HE-R9	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/HE1000%20Unveiled%20**%20L.txt		HIFIMAN HE1000 Unveiled	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/HE1000%20Unveiled%20**%20R.txt		HIFIMAN HE1000 Unveiled	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/HE1000%20Unveiled%20%2A%2A%20L.txt	Hifiman HE1000 Unveiled	HIFIMAN HE1000 Unveiled	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/HE1000%20Unveiled%20%2A%2A%20R.txt	Hifiman HE1000 Unveiled	HIFIMAN HE1000 Unveiled	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/HE1000SE%20%2A%2A%20L.txt	Hifiman HE1000SE	HIFIMAN HE1000SE	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/HE1000SE%20%2A%2A%20R.txt	Hifiman HE1000SE	HIFIMAN HE1000SE	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/HE1000SE%20**%20L.txt		HIFIMAN HE1000se	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/HE1000SE%20**%20R.txt		HIFIMAN HE1000se	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/HE-400SE%20L.txt	Hifiman HE-400SE	HIFIMAN HE400se	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/HE-400SE%20R.txt	Hifiman HE-400SE	HIFIMAN HE400se	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/HE600%20%2A%2A%20L.txt	Hifiman HE600	HIFIMAN HE600	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/HE600%20%2A%2A%20R.txt	Hifiman HE600	HIFIMAN HE600	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Isvarna%20**%20L.txt		HIFIMAN Isvarna	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Isvarna%20**%20R.txt		HIFIMAN Isvarna	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Isvarna%20%2A%2A%20L.txt	Hifiman Isvarna	HIFIMAN Isvarna	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Isvarna%20%2A%2A%20R.txt	Hifiman Isvarna	HIFIMAN Isvarna	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Isvarna%20%28Loose%20Velcro%29%20%2A%2A%20L.txt	Hifiman Isvarna	HIFIMAN Isvarna	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Isvarna%20%28Loose%20Velcro%29%20%2A%2A%20R.txt	Hifiman Isvarna	HIFIMAN Isvarna	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Isvarna%20%28Bass%20Port%2095%20Percent%20Closed%29%20%2A%2A%20L.txt	Hifiman Isvarna	HIFIMAN Isvarna	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Isvarna%20%28Bass%20Port%20Closed%29%20%2A%2A%20L.txt	Hifiman Isvarna	HIFIMAN Isvarna	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Sundara%20%282020%29%20%2A%2A%20L.txt	Hifiman Sundara (2020)	HIFIMAN Sundara (2020)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Sundara%20%282020%29%20%2A%2A%20R.txt	Hifiman Sundara (2020)	HIFIMAN Sundara (2020)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Sundara%20(2020)%20**%20L.txt	Hifiman Sundara (2020)	HIFIMAN Sundara (post-2020 earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Sundara%20(2020)%20**%20R.txt	Hifiman Sundara (2020)	HIFIMAN Sundara (post-2020 earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Sundara%20(2020)%20L.txt		HIFIMAN Sundara (post-2020 earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Sundara%20(2020)%20R.txt		HIFIMAN Sundara (post-2020 earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Sundara%20(2020)%20Sample%202%20**%20L.txt		HIFIMAN Sundara (post-2020 earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Sundara%20(2020)%20Sample%202%20**%20R.txt		HIFIMAN Sundara (post-2020 earpads)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Sundara%20Closed%20%2A%2A%20L.txt	Hifiman Sundara Closed	HIFIMAN Sundara Closed	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Sundara%20Closed%20%2A%2A%20R.txt	Hifiman Sundara Closed	HIFIMAN Sundara Closed	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Sundara%20Closed%20(Sample%201)%20L.txt	Hifiman Sundara Closed	HIFIMAN Sundara Closed-Back	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Sundara%20Closed%20(Sample%201)%20R.txt	Hifiman Sundara Closed	HIFIMAN Sundara Closed-Back	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Sundara%20Closed%20(Sample%202)%20L.txt	Hifiman Sundara Closed	HIFIMAN Sundara Closed-Back	over-ear	KB501x + 711
@@ -277,10 +575,25 @@ https://kuulokenurkka.squig.link/data/Sundara%20Silver%20(Sample%201)%20**%20L.t
 https://kuulokenurkka.squig.link/data/Sundara%20Silver%20(Sample%201)%20**%20R.txt	Hifiman Sundara Silver	HIFIMAN Sundara Silver	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Sundara%20Silver%20(Sample%202)%20**%20L.txt	Hifiman Sundara Silver	HIFIMAN Sundara Silver	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Sundara%20Silver%20(Sample%202)%20**%20R.txt	Hifiman Sundara Silver	HIFIMAN Sundara Silver	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Sundara%20Silver%20%28Sample%201%29%20%2A%2A%20L.txt	Hifiman Sundara Silver	HIFIMAN Sundara Silver	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Sundara%20Silver%20%28Sample%201%29%20%2A%2A%20R.txt	Hifiman Sundara Silver	HIFIMAN Sundara Silver	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Sundara%20Silver%20%28ZMF%20Hifiman%2B%20Hybrid%20Pads%29%20%2A%2A%20L.txt	Hifiman Sundara Silver	HIFIMAN Sundara Silver	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Sundara%20Silver%20%28ZMF%20Hifiman%2B%20Hybrid%20Pads%29%20%2A%2A%20R.txt	Hifiman Sundara Silver	HIFIMAN Sundara Silver	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Sundara%20Silver%20%28Sample%202%29%20%2A%2A%20L.txt	Hifiman Sundara Silver	HIFIMAN Sundara Silver	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Sundara%20Silver%20%28Sample%202%29%20%2A%2A%20R.txt	Hifiman Sundara Silver	HIFIMAN Sundara Silver	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Susvara%20**%20L.txt	Hifiman Susvara	HIFIMAN Susvara	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Susvara%20**%20R.txt	Hifiman Susvara	HIFIMAN Susvara	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Susvara%20%2A%2A%20L.txt	Hifiman Susvara	HIFIMAN Susvara	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Susvara%20%2A%2A%20R.txt	Hifiman Susvara	HIFIMAN Susvara	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Susvara%20Unveiled%20**%20L.txt		HIFIMAN Susvara Unveiled	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Susvara%20Unveiled%20**%20R.txt		HIFIMAN Susvara Unveiled	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Susvara%20Unveiled%20%2A%2A%20L.txt	Hifiman Susvara Unveiled	HIFIMAN Susvara Unveiled	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Susvara%20Unveiled%20%2A%2A%20R.txt	Hifiman Susvara Unveiled	HIFIMAN Susvara Unveiled	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/H1H%20%28Hell%20Blocker%20ON%29%20%2A%2A%20L.txt	Heavys H1H	Heavys H1H	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/H1H%20%28Hell%20Blocker%20ON%29%20%2A%2A%20R.txt	Heavys H1H	Heavys H1H	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/H1H%20%28Hell%20Blocker%20OFF%29%20%2A%2A%20L.txt	Heavys H1H	Heavys H1H	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/H1H%20%28Hell%20Blocker%20OFF%29%20%2A%2A%20R.txt	Heavys H1H	Heavys H1H	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/H1H%20%28Passive%29%20%2A%2A%20R.txt	Heavys H1H	Heavys H1H	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/H1H%20(AUX%20Power%20OFF)%20**%20R.txt	Heavys H1H	Heavys H1H (AUX power off)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/H1H%20(Passive)%20**%20R.txt	Heavys H1H	Heavys H1H (AUX power off)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/H1H%20(Hell%20Blocker%20OFF)%20**%20L.txt	Heavys H1H	Heavys H1H (Hell Blocker off)	over-ear	KB501x + 711
@@ -309,10 +622,34 @@ https://kuulokenurkka.squig.link/data/Sundara%20Silver%20(ZMF%20Hifiman+%20Hybri
 https://kuulokenurkka.squig.link/data/Sundara%20Silver%20(ZMF%20Hifiman+%20Hybrid%20Pads)%20**%20R.txt		Hifiman Sundara Silver	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/Cloud%20Alpha%20**%20L.txt	HyperX Cloud Alpha	HyperX Cloud Alpha	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Cloud%20Alpha%20**%20R.txt	HyperX Cloud Alpha	HyperX Cloud Alpha	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Cloud%20Alpha%20%2A%2A%20L.txt	HyperX Cloud Alpha	HyperX Cloud Alpha	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Cloud%20Alpha%20%2A%2A%20R.txt	HyperX Cloud Alpha	HyperX Cloud Alpha	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Live%20780NC%20%28Maximum%20ANC%29%20%2A%2A%20L.txt	JBL Live 780NC	JBL Live 780NC	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Live%20780NC%20%28Maximum%20ANC%29%20%2A%2A%20R.txt	JBL Live 780NC	JBL Live 780NC	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Live%20780NC%20%28ANC%20OFF%29%20%2A%2A%20L.txt	JBL Live 780NC	JBL Live 780NC	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Live%20780NC%20%28ANC%20OFF%29%20%2A%2A%20R.txt	JBL Live 780NC	JBL Live 780NC	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tour%20One%20M3%20%28Maximum%20ANC%29%20%2A%2A%20L.txt	JBL Tour One M3	JBL Tour One M3	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tour%20One%20M3%20%28Maximum%20ANC%29%20%2A%2A%20R.txt	JBL Tour One M3	JBL Tour One M3	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tour%20One%20M3%20%28Minimum%20ANC%29%20%2A%2A%20L.txt	JBL Tour One M3	JBL Tour One M3	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tour%20One%20M3%20%28Minimum%20ANC%29%20%2A%2A%20R.txt	JBL Tour One M3	JBL Tour One M3	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tour%20One%20M3%20%28ANC%20OFF%29%20%2A%2A%20L.txt	JBL Tour One M3	JBL Tour One M3	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tour%20One%20M3%20%28ANC%20OFF%29%20%2A%2A%20R.txt	JBL Tour One M3	JBL Tour One M3	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tour%20One%20M3%20%28Maximum%20ANC%20%26%20Studio%20Preset%29%20%2A%2A%20L.txt	JBL Tour One M3	JBL Tour One M3	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tour%20One%20M3%20%28Maximum%20ANC%20%26%20Studio%20Preset%29%20%2A%2A%20R.txt	JBL Tour One M3	JBL Tour One M3	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tour%20One%20M3%20%28Maximum%20ANC%20%26%20Club%20Preset%29%20%2A%2A%20L.txt	JBL Tour One M3	JBL Tour One M3	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tour%20One%20M3%20%28Maximum%20ANC%20%26%20Club%20Preset%29%20%2A%2A%20R.txt	JBL Tour One M3	JBL Tour One M3	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tune%20770NC%20%28ANC%20ON%29%20%2A%2A%20L.txt	JBL Tune 770NC	JBL Tune 770NC	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tune%20770NC%20%28ANC%20ON%29%20%2A%2A%20R.txt	JBL Tune 770NC	JBL Tune 770NC	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tune%20770NC%20%28Passive%29%20%2A%2A%20L.txt	JBL Tune 770NC	JBL Tune 770NC	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tune%20770NC%20%28Passive%29%20%2A%2A%20R.txt	JBL Tune 770NC	JBL Tune 770NC	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Tune%20770NC%20(ANC%20ON)%20**%20L.txt	JBL Tune 770NC	JBL Tune 770NC (ANC on)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Tune%20770NC%20(ANC%20ON)%20**%20R.txt	JBL Tune 770NC	JBL Tune 770NC (ANC on)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Tune%20770NC%20(Passive)%20**%20L.txt	JBL Tune 770NC	JBL Tune 770NC (passive)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Tune%20770NC%20(Passive)%20**%20R.txt	JBL Tune 770NC	JBL Tune 770NC (passive)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/HA-SW02%20%2A%2A%20L.txt	JVC HA-SW02	JVC HA-SW02	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/HA-SW02%20%2A%2A%20R.txt	JVC HA-SW02	JVC HA-SW02	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/HA-SW02%20%28Yaxi%20stPad2%29%20%2A%2A%20L.txt	JVC HA-SW02	JVC HA-SW02	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/HA-SW02%20%28Yaxi%20stPad2%29%20%2A%2A%20R.txt	JVC HA-SW02	JVC HA-SW02	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Tone%20(Early%20Sample%20Pads)%20**%20L.txt	Kaiku Tone	Kaiku Tone	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Tone%20(Early%20Sample%20Pads)%20**%20R.txt	Kaiku Tone	Kaiku Tone	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/./Tone%20(DSP%202:%20Bass%20Boost)%20**%20L.txt		Kaiku Tone	ignore	KB501x + 711
@@ -326,10 +663,51 @@ https://kuulokenurkka.squig.link/data/./Tone%20(DSP%205:%20Jazz)%20**%20R.txt		K
 https://kuulokenurkka.squig.link/data/./Tone%20(Stock%20DSP:%20Pop)%20**%20L.txt		Kaiku Tone	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/./Tone%20(Stock%20DSP:%20Pop)%20**%20R.txt		Kaiku Tone	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/Tone%20'Tuned%20by%20Kuulokenurkka%208-2024'%20(Bluetooth)%20**%20R.txt		Kaiku Tone	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tone%20%27Tuned%20by%20Kuulokenurkka%208-2024%27%20%28Bluetooth%29%20%2A%2A%20R.txt	Kaiku Tone	Kaiku Tone	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tone%20%28Stock%20DSP%3A%20Pop%29%20%2A%2A%20L.txt	Kaiku Tone	Kaiku Tone	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tone%20%28Stock%20DSP%3A%20Pop%29%20%2A%2A%20R.txt	Kaiku Tone	Kaiku Tone	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tone%20%28DSP%202%3A%20Bass%20Boost%29%20%2A%2A%20L.txt	Kaiku Tone	Kaiku Tone	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tone%20%28DSP%202%3A%20Bass%20Boost%29%20%2A%2A%20R.txt	Kaiku Tone	Kaiku Tone	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tone%20%28DSP%203%3A%20Treble%20Boost%29%20%2A%2A%20L.txt	Kaiku Tone	Kaiku Tone	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tone%20%28DSP%203%3A%20Treble%20Boost%29%20%2A%2A%20R.txt	Kaiku Tone	Kaiku Tone	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tone%20%28DSP%204%3A%20Rock%29%20%2A%2A%20L.txt	Kaiku Tone	Kaiku Tone	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tone%20%28DSP%204%3A%20Rock%29%20%2A%2A%20R.txt	Kaiku Tone	Kaiku Tone	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tone%20%28DSP%205%3A%20Jazz%29%20%2A%2A%20L.txt	Kaiku Tone	Kaiku Tone	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tone%20%28DSP%205%3A%20Jazz%29%20%2A%2A%20R.txt	Kaiku Tone	Kaiku Tone	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tone%20%28Early%20Sample%20Pads%29%20%2A%2A%20L.txt	Kaiku Tone	Kaiku Tone	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tone%20%28Early%20Sample%20Pads%29%20%2A%2A%20R.txt	Kaiku Tone	Kaiku Tone	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Tune%20(Passive)%20**%20L.txt	Kaiku Tune	Kaiku Tone (passive)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Tune%20(Passive)%20**%20R.txt	Kaiku Tune	Kaiku Tone (passive)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Tune%20(Bluetooth)%20**%20L.txt	Kaiku Tune	Kaiku Tone (wireless)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Tune%20(Bluetooth)%20**%20R.txt	Kaiku Tune	Kaiku Tone (wireless)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Wave%20%28ANC%20ON%29%207-2026%20Update%20%2A%2A%20L.txt	Kaiku Wave	Kaiku Wave	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Wave%20%28ANC%20ON%29%207-2026%20Update%20%2A%2A%20R.txt	Kaiku Wave	Kaiku Wave	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Wave%20%28ANC%20OFF%29%207-2026%20Update%20%2A%2A%20L.txt	Kaiku Wave	Kaiku Wave	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Wave%20%28ANC%20OFF%29%207-2026%20Update%20%2A%2A%20R.txt	Kaiku Wave	Kaiku Wave	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Wave%20%28ANC%20ON%29%20%2A%2A%20L.txt	Kaiku Wave	Kaiku Wave	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Wave%20%28ANC%20ON%29%20%2A%2A%20R.txt	Kaiku Wave	Kaiku Wave	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Wave%20%28ANC%20OFF%29%20%2A%2A%20L.txt	Kaiku Wave	Kaiku Wave	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Wave%20%28ANC%20OFF%29%20%2A%2A%20R.txt	Kaiku Wave	Kaiku Wave	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Wave%20%28Passive%29%20%2A%2A%20L.txt	Kaiku Wave	Kaiku Wave	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Wave%20%28Passive%29%20%2A%2A%20R.txt	Kaiku Wave	Kaiku Wave	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aventus%20%28ANC%20ON%20%26%20Thin%20Foam%29%20%2A%2A%20L.txt	Kiwi Ears Aventus	Kiwi Ears Aventus	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aventus%20%28ANC%20ON%20%26%20Thin%20Foam%29%20%2A%2A%20R.txt	Kiwi Ears Aventus	Kiwi Ears Aventus	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aventus%20%28ANC%20ON%20%26%20Thick%20Foam%29%20%2A%2A%20L.txt	Kiwi Ears Aventus	Kiwi Ears Aventus	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aventus%20%28ANC%20ON%20%26%20Thick%20Foam%29%20%2A%2A%20R.txt	Kiwi Ears Aventus	Kiwi Ears Aventus	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aventus%20%28ANC%20ON%20%26%20Double%20Foam%29%20%2A%2A%20L.txt	Kiwi Ears Aventus	Kiwi Ears Aventus	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aventus%20%28ANC%20ON%20%26%20Double%20Foam%29%20%2A%2A%20R.txt	Kiwi Ears Aventus	Kiwi Ears Aventus	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aventus%20%28ANC%20OFF%20%26%20Thin%20Foam%29%20%2A%2A%20L.txt	Kiwi Ears Aventus	Kiwi Ears Aventus	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aventus%20%28ANC%20OFF%20%26%20Thin%20Foam%29%20%2A%2A%20R.txt	Kiwi Ears Aventus	Kiwi Ears Aventus	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aventus%20%28ANC%20OFF%20%26%20Thick%20Foam%29%20%2A%2A%20L.txt	Kiwi Ears Aventus	Kiwi Ears Aventus	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aventus%20%28ANC%20OFF%20%26%20Thick%20Foam%29%20%2A%2A%20R.txt	Kiwi Ears Aventus	Kiwi Ears Aventus	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aventus%20%28ANC%20OFF%20%26%20Double%20Foam%29%20%2A%2A%20L.txt	Kiwi Ears Aventus	Kiwi Ears Aventus	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aventus%20%28ANC%20OFF%20%26%20Double%20Foam%29%20%2A%2A%20R.txt	Kiwi Ears Aventus	Kiwi Ears Aventus	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aventus%20%28Passive%20%26%20Thin%20Foam%29%20%2A%2A%20L.txt	Kiwi Ears Aventus	Kiwi Ears Aventus	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aventus%20%28Passive%20%26%20Thin%20Foam%29%20%2A%2A%20R.txt	Kiwi Ears Aventus	Kiwi Ears Aventus	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aventus%20%28Passive%20%26%20Thick%20Foam%29%20%2A%2A%20L.txt	Kiwi Ears Aventus	Kiwi Ears Aventus	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aventus%20%28Passive%20%26%20Thick%20Foam%29%20%2A%2A%20R.txt	Kiwi Ears Aventus	Kiwi Ears Aventus	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aventus%20%28Passive%20%26%20Double%20Foam%29%20%2A%2A%20L.txt	Kiwi Ears Aventus	Kiwi Ears Aventus	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aventus%20%28Passive%20%26%20Double%20Foam%29%20%2A%2A%20R.txt	Kiwi Ears Aventus	Kiwi Ears Aventus	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Aventus%20(ANC%20OFF%20&%20Double%20Foam)%20**%20L.txt		Kiwi Ears Aventus (ANC off, double foam)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Aventus%20(ANC%20OFF%20&%20Double%20Foam)%20**%20R.txt		Kiwi Ears Aventus (ANC off, double foam)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Aventus%20(ANC%20OFF%20&%20Thick%20Foam)%20**%20L.txt		Kiwi Ears Aventus (ANC off, thick foam)	over-ear	KB501x + 711
@@ -350,24 +728,38 @@ https://kuulokenurkka.squig.link/data/Aventus%20(Passive%20&%20Thin%20Foam)%20**
 https://kuulokenurkka.squig.link/data/Aventus%20(Passive%20&%20Thin%20Foam)%20**%20R.txt		Kiwi Ears Aventus (passive, thin foam)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Porta%20Pro%20(Fiio%20Wind%20Pads)%20**%20L.txt		Koss Porta Pro	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/Porta%20Pro%20(Fiio%20Wind%20Pads)%20**%20R.txt		Koss Porta Pro	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Porta%20Pro%20%28Yaxi%20Pads%29%20%2A%2A%20L.txt	Koss Porta Pro	Koss Porta Pro	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Porta%20Pro%20%28Yaxi%20Pads%29%20%2A%2A%20R.txt	Koss Porta Pro	Koss Porta Pro	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Porta%20Pro%20%28Fiio%20Wind%20Pads%29%20%2A%2A%20L.txt	Koss Porta Pro	Koss Porta Pro	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Porta%20Pro%20%28Fiio%20Wind%20Pads%29%20%2A%2A%20R.txt	Koss Porta Pro	Koss Porta Pro	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/Porta%20Pro%20(Yaxi%20Pads)%20**%20L.txt		Koss Porta Pro (Yaxi earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Porta%20Pro%20(Yaxi%20Pads)%20**%20R.txt		Koss Porta Pro (Yaxi earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Porta%20Pro%20(Yaxi%20Pads)%20L.txt		Koss Porta Pro (Yaxi earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Porta%20Pro%20(Yaxi%20Pads)%20R.txt		Koss Porta Pro (Yaxi earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/OAE1%20Signature%20**%20L.txt		Massdrop + Grell OAE1 Signature	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/OAE1%20Signature%20**%20R.txt		Massdrop + Grell OAE1 Signature	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/OAE1%20Signature%20%2A%2A%20L.txt	Drop + Grell OAE1 Signature	Massdrop + Grell OAE1 Signature	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/OAE1%20Signature%20%2A%2A%20R.txt	Drop + Grell OAE1 Signature	Massdrop + Grell OAE1 Signature	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/105%20Aer%20(Sample%202)%20**%20L.txt		Meze 105 Aer	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/105%20Aer%20(Sample%202)%20**%20R.txt		Meze 105 Aer	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/105%20Aer%20**%20L.txt		Meze 105 Aer	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/105%20Aer%20**%20R.txt		Meze 105 Aer	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/105%20Aer%20%2A%2A%20L.txt	Meze Audio 105 Aer	Meze 105 Aer	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/105%20Aer%20%2A%2A%20R.txt	Meze Audio 105 Aer	Meze 105 Aer	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/105%20Aer%20%28Sample%202%29%20%2A%2A%20L.txt	Meze Audio 105 Aer	Meze 105 Aer	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/105%20Aer%20%28Sample%202%29%20%2A%2A%20R.txt	Meze Audio 105 Aer	Meze 105 Aer	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/109%20Pro%20**%20L.txt	Meze Audio 109 Pro	Meze 109 Pro	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/109%20Pro%20**%20R.txt	Meze Audio 109 Pro	Meze 109 Pro	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/109%20Pro%20L.txt	Meze Audio 109 Pro	Meze 109 Pro	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/109%20Pro%20R.txt	Meze Audio 109 Pro	Meze 109 Pro	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/109%20Pro%20%2A%2A%20L.txt	Meze Audio 109 Pro	Meze 109 Pro	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/109%20Pro%20%2A%2A%20R.txt	Meze Audio 109 Pro	Meze 109 Pro	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/109%20Pro%20(ZMF%20Titanium%20Solid%20Mesh)%20L.txt	Meze Audio 109 Pro	Meze 109 Pro (ZMF Acoustic Titan Mesh)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/109%20Pro%20(ZMF%20Titanium%20Solid%20Mesh)%20R.txt	Meze Audio 109 Pro	Meze 109 Pro (ZMF Acoustic Titan Mesh)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/99%20Classics%20**%20L.txt		Meze 99 Classics	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/99%20Classics%20**%20R.txt		Meze 99 Classics	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/99%20Classics%20%2A%2A%20L.txt	Meze Audio 99 Classics	Meze 99 Classics	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/99%20Classics%20%2A%2A%20R.txt	Meze Audio 99 Classics	Meze 99 Classics	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Empyrean%20Elite%20(Leather%20Pads)%20**%20L.txt		Meze Elite (leather earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Empyrean%20Elite%20(Leather%20Pads)%20**%20R.txt		Meze Elite (leather earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Empyrean%20(Suede%20Pads)%20L.txt	Meze Audio Empyrean	Meze Empyrean (alcantara earpads)	over-ear	KB501x + 711
@@ -376,18 +768,38 @@ https://kuulokenurkka.squig.link/data/Empyrean%202%20(Angled%20Alcantara%20Pads)
 https://kuulokenurkka.squig.link/data/Empyrean%202%20(Angled%20Alcantara%20Pads)%20Sample%202%20**%20R.txt		Meze Empyrean (alcantara earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Empyrean%20(Leather%20Pads)%20L.txt	Meze Audio Empyrean	Meze Empyrean (leather earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Empyrean%20(Leather%20Pads)%20R.txt	Meze Audio Empyrean	Meze Empyrean (leather earpads)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Empyrean%202%20%28Duo%20Pads%29%20%2A%2A%20L.txt	Meze Audio Empyrean 2	Meze Empyrean 2	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Empyrean%202%20%28Duo%20Pads%29%20%2A%2A%20R.txt	Meze Audio Empyrean 2	Meze Empyrean 2	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Empyrean%202%20%28Angled%20Alcantara%20Pads%29%20%2A%2A%20L.txt	Meze Audio Empyrean 2	Meze Empyrean 2	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Empyrean%202%20%28Angled%20Alcantara%20Pads%29%20%2A%2A%20R.txt	Meze Audio Empyrean 2	Meze Empyrean 2	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Empyrean%202%20%28Duo%20Pads%29%20Sample%202%20%2A%2A%20L.txt	Meze Audio Empyrean 2	Meze Empyrean 2	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Empyrean%202%20%28Duo%20Pads%29%20Sample%202%20%2A%2A%20R.txt	Meze Audio Empyrean 2	Meze Empyrean 2	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Empyrean%202%20%28Angled%20Alcantara%20Pads%29%20Sample%202%20%2A%2A%20L.txt	Meze Audio Empyrean 2	Meze Empyrean 2	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Empyrean%202%20%28Angled%20Alcantara%20Pads%29%20Sample%202%20%2A%2A%20R.txt	Meze Audio Empyrean 2	Meze Empyrean 2	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Empyrean%202%20(Duo%20Pads)%20Sample%202%20**%20L.txt		Meze Empyrean 2 (Duo earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Empyrean%202%20(Duo%20Pads)%20Sample%202%20**%20R.txt		Meze Empyrean 2 (Duo earpads)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Empyrean%20Elite%20%28Leather%20Pads%29%20%2A%2A%20L.txt	Meze Audio Empyrean Elite	Meze Empyrean Elite	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Empyrean%20Elite%20%28Leather%20Pads%29%20%2A%2A%20R.txt	Meze Audio Empyrean Elite	Meze Empyrean Elite	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Empyrean%202%20(Angled%20Alcantara%20Pads)%20**%20L.txt	Meze Audio Empyrean 2	Meze Empyrean II (alcantara earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Empyrean%202%20(Angled%20Alcantara%20Pads)%20**%20R.txt	Meze Audio Empyrean 2	Meze Empyrean II (alcantara earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Empyrean%202%20(Duo%20Pads)%20**%20L.txt	Meze Audio Empyrean 2	Meze Empyrean II (duo earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Empyrean%202%20(Duo%20Pads)%20**%20R.txt	Meze Audio Empyrean 2	Meze Empyrean II (duo earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Liric%202%20**%20L.txt		Meze Liric 2	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Liric%202%20**%20R.txt		Meze Liric 2	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Liric%202%20%2A%2A%20L.txt	Meze Audio Liric 2	Meze Liric 2	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Liric%202%20%2A%2A%20R.txt	Meze Audio Liric 2	Meze Liric 2	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/POET%20%2A%2A%20L.txt	Meze Audio POET	Meze POET	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/POET%20%2A%2A%20R.txt	Meze Audio POET	Meze POET	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Strada%20%2A%2A%20L.txt	Meze Audio Strada	Meze Strada	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Strada%20%2A%2A%20R.txt	Meze Audio Strada	Meze Strada	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Argon%20mk3%20(ZMF%20Oval%20Pleather%20Pads)%20L.txt	Modhouse Audio Argon mk3	Modhouse Audio Argon Mk3 (ZMF oval pleather earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Argon%20mk3%20(ZMF%20Oval%20Pleather%20Pads)%20R.txt	Modhouse Audio Argon mk3	Modhouse Audio Argon Mk3 (ZMF oval pleather earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/T60RP%20Argon%20(Xenon%20Suede%20Pads%20&%20Baffle%20Upgrade)%20**%20L.txt	Modhouse Audio T60RP Argon	Modhouse Audio T60RP Argon	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/T60RP%20Argon%20(Xenon%20Suede%20Pads%20&%20Baffle%20Upgrade)%20**%20R.txt	Modhouse Audio T60RP Argon	Modhouse Audio T60RP Argon	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/T60RP%20Argon%20%28Xenon%20Suede%20Pads%29%20%2A%2A%20L.txt	Modhouse Audio T60RP Argon	Modhouse Audio T60RP Argon	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/T60RP%20Argon%20%28Xenon%20Suede%20Pads%29%20%2A%2A%20R.txt	Modhouse Audio T60RP Argon	Modhouse Audio T60RP Argon	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/T60RP%20Argon%20%28Xenon%20Suede%20Pads%20%26%20Baffle%20Upgrade%29%20%2A%2A%20L.txt	Modhouse Audio T60RP Argon	Modhouse Audio T60RP Argon	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/T60RP%20Argon%20%28Xenon%20Suede%20Pads%20%26%20Baffle%20Upgrade%29%20%2A%2A%20R.txt	Modhouse Audio T60RP Argon	Modhouse Audio T60RP Argon	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/T60RP%20Argon%20(Xenon%20Suede%20Pads%20Without%20Baffle%20Upgrade)%20**%20L.txt	Modhouse Audio T60RP Argon	Modhouse Audio T60RP Argon (Xenon suede earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/T60RP%20Argon%20(Xenon%20Suede%20Pads%20Without%20Baffle%20Upgrade)%20**%20R.txt	Modhouse Audio T60RP Argon	Modhouse Audio T60RP Argon (Xenon suede earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/T60RP%20Argon%20(Xenon%20Suede%20Pads)%20**%20L.txt	Modhouse Audio T60RP Argon	Modhouse Audio T60RP Argon (Xenon suede earpads)	over-ear	KB501x + 711
@@ -398,10 +810,18 @@ https://kuulokenurkka.squig.link/data/Tungsten%20Single%20Sided%20(Hybrid%20Pads
 https://kuulokenurkka.squig.link/data/Tungsten%20Single%20Sided%20(Hybrid%20Pads)%20**%20R.txt		Modhouse Audio Tungsten (hybrid earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Tungsten%20Single%20Sided%20(Hybrid%20Pads%20&%20ZMF%20Vented%20Titan%20Mesh)%20**%20L.txt		Modhouse Audio Tungsten Single Sided	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/Tungsten%20Single%20Sided%20(Hybrid%20Pads%20&%20ZMF%20Vented%20Titan%20Mesh)%20**%20R.txt		Modhouse Audio Tungsten Single Sided	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tungsten%20Single%20Sided%20%28Hybrid%20Pads%29%20%2A%2A%20L.txt	Modhouse Audio Tungsten Single Sided	Modhouse Audio Tungsten Single Sided	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tungsten%20Single%20Sided%20%28Hybrid%20Pads%29%20%2A%2A%20R.txt	Modhouse Audio Tungsten Single Sided	Modhouse Audio Tungsten Single Sided	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tungsten%20Single%20Sided%20%28Hybrid%20Pads%20%26%20ZMF%20Vented%20Titan%20Mesh%29%20%2A%2A%20L.txt	Modhouse Audio Tungsten Single Sided	Modhouse Audio Tungsten Single Sided	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tungsten%20Single%20Sided%20%28Hybrid%20Pads%20%26%20ZMF%20Vented%20Titan%20Mesh%29%20%2A%2A%20R.txt	Modhouse Audio Tungsten Single Sided	Modhouse Audio Tungsten Single Sided	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/Joker%20**%20L.txt	Moondrop Joker	Moondrop Joker	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Joker%20**%20R.txt	Moondrop Joker	Moondrop Joker	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Joker%20%2A%2A%20L.txt	Moondrop Joker	Moondrop Joker	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Joker%20%2A%2A%20R.txt	Moondrop Joker	Moondrop Joker	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Venus%20**%20L.txt	Moondrop Venus	Moondrop Venus	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Venus%20**%20R.txt	Moondrop Venus	Moondrop Venus	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Venus%20%2A%2A%20L.txt	Moondrop Venus	Moondrop Venus	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Venus%20%2A%2A%20R.txt	Moondrop Venus	Moondrop Venus	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/X%20Singer%20Edge%20(Admired%20T301%20&%20ANC%20ON)%20**%20R.txt		Moondrop X Singer Edge	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/X%20Singer%20Edge%20(Classic%20HD580P%20&%20ANC%20ON)%20**%20R.txt		Moondrop X Singer Edge	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/X%20Singer%20Edge%20(Inspiring%20D8000Pro%20&%20ANC%20ON)%20**%20R.txt		Moondrop X Singer Edge	ignore	KB501x + 711
@@ -410,10 +830,26 @@ https://kuulokenurkka.squig.link/data/X%20Singer%20Edge%20(Standard%20&%20ANC%20
 https://kuulokenurkka.squig.link/data/X%20Singer%20Edge%20(Standard%20&%20ANC%20OFF)%20**%20R.txt		Moondrop X Singer Edge	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/X%20Singer%20Edge%20(Standard%20&%20ANC%20ON)%20**%20L.txt		Moondrop X Singer Edge	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/X%20Singer%20Edge%20(Standard%20&%20ANC%20ON)%20**%20R.txt		Moondrop X Singer Edge	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/X%20Singer%20Edge%20%28Standard%20%26%20ANC%20ON%29%20%2A%2A%20L.txt	Moondrop X Singer Edge	Moondrop X Singer Edge	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/X%20Singer%20Edge%20%28Standard%20%26%20ANC%20ON%29%20%2A%2A%20R.txt	Moondrop X Singer Edge	Moondrop X Singer Edge	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/X%20Singer%20Edge%20%28Standard%20%26%20ANC%20OFF%29%20%2A%2A%20L.txt	Moondrop X Singer Edge	Moondrop X Singer Edge	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/X%20Singer%20Edge%20%28Standard%20%26%20ANC%20OFF%29%20%2A%2A%20R.txt	Moondrop X Singer Edge	Moondrop X Singer Edge	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/X%20Singer%20Edge%20%28Legendary%20R10%20%26%20ANC%20ON%29%20%2A%2A%20R.txt	Moondrop X Singer Edge	Moondrop X Singer Edge	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/X%20Singer%20Edge%20%28Inspiring%20D8000Pro%20%26%20ANC%20ON%29%20%2A%2A%20R.txt	Moondrop X Singer Edge	Moondrop X Singer Edge	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/X%20Singer%20Edge%20%28Admired%20T301%20%26%20ANC%20ON%29%20%2A%2A%20R.txt	Moondrop X Singer Edge	Moondrop X Singer Edge	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/X%20Singer%20Edge%20%28Classic%20HD580P%20%26%20ANC%20ON%29%20%2A%2A%20R.txt	Moondrop X Singer Edge	Moondrop X Singer Edge	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/X%20Singer%20Edge%20(ANC%20OFF)%20**%20L.txt		Moondrop x Singer Edge (ANC off)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/X%20Singer%20Edge%20(ANC%20OFF)%20**%20R.txt		Moondrop x Singer Edge (ANC off)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/X%20Singer%20Edge%20(ANC%20ON)%20**%20L.txt		Moondrop x Singer Edge (ANC on)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/X%20Singer%20Edge%20(ANC%20ON)%20**%20R.txt		Moondrop x Singer Edge (ANC on)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Fokus%20Apollo%20%28ANC%20ON%29%20%2A%2A%20L.txt	Noble Audio Fokus Apollo	Noble Audio Fokus Apollo	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Fokus%20Apollo%20%28ANC%20ON%29%20%2A%2A%20R.txt	Noble Audio Fokus Apollo	Noble Audio Fokus Apollo	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Fokus%20Apollo%20%28ANC%20OFF%29%20%2A%2A%20L.txt	Noble Audio Fokus Apollo	Noble Audio Fokus Apollo	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Fokus%20Apollo%20%28ANC%20OFF%29%20%2A%2A%20R.txt	Noble Audio Fokus Apollo	Noble Audio Fokus Apollo	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Fokus%20Apollo%20%28Passive%29%20%2A%2A%20L.txt	Noble Audio Fokus Apollo	Noble Audio Fokus Apollo	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Fokus%20Apollo%20%28Passive%29%20%2A%2A%20R.txt	Noble Audio Fokus Apollo	Noble Audio Fokus Apollo	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Fokus%20Apollo%20%28ANC%20ON%20%26%20Review%20EQ%29%20%2A%2A%20L.txt	Noble Audio Fokus Apollo	Noble Audio Fokus Apollo	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Fokus%20Apollo%20%28ANC%20ON%20%26%20Review%20EQ%29%20%2A%2A%20R.txt	Noble Audio Fokus Apollo	Noble Audio Fokus Apollo	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Fokus%20Apollo%20(ANC%20OFF)%20**%20L.txt		Noble Audio Fokus Apollo (ANC off)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Fokus%20Apollo%20(ANC%20OFF)%20**%20R.txt		Noble Audio Fokus Apollo (ANC off)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Fokus%20Apollo%20(ANC%20ON)%20**%20L.txt		Noble Audio Fokus Apollo (ANC on)	over-ear	KB501x + 711
@@ -422,14 +858,36 @@ https://kuulokenurkka.squig.link/data/Fokus%20Apollo%20(ANC%20ON%20&%20Review%20
 https://kuulokenurkka.squig.link/data/Fokus%20Apollo%20(ANC%20ON%20&%20Review%20EQ)%20**%20R.txt		Noble Audio Fokus Apollo (ANC on, review eq)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Fokus%20Apollo%20(Passive)%20**%20L.txt		Noble Audio Fokus Apollo (passive)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Fokus%20Apollo%20(Passive)%20**%20R.txt		Noble Audio Fokus Apollo (passive)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Headphone%20%281%29%20%28ANC%20ON%20%26%20Bluetooth%29%20%2A%2A%20L.txt	Nothing Headphone (1)	Nothing Headphone (1)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Headphone%20%281%29%20%28ANC%20ON%20%26%20Bluetooth%29%20%2A%2A%20R.txt	Nothing Headphone (1)	Nothing Headphone (1)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Headphone%20%281%29%20%28ANC%20ON%20%26%20AUX%29%20%2A%2A%20L.txt	Nothing Headphone (1)	Nothing Headphone (1)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Headphone%20%281%29%20%28ANC%20ON%20%26%20AUX%29%20%2A%2A%20R.txt	Nothing Headphone (1)	Nothing Headphone (1)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Headphone%20%281%29%20%28ANC%20OFF%20%26%20Bluetooth%29%20%2A%2A%20L.txt	Nothing Headphone (1)	Nothing Headphone (1)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Headphone%20%281%29%20%28ANC%20OFF%20%26%20Bluetooth%29%20%2A%2A%20R.txt	Nothing Headphone (1)	Nothing Headphone (1)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Headphone%20%281%29%20%28ANC%20ON%20%26%20More%20Bass%20Preset%29%20%2A%2A%20L.txt	Nothing Headphone (1)	Nothing Headphone (1)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Headphone%20%281%29%20%28ANC%20ON%20%26%20More%20Bass%20Preset%29%20%2A%2A%20R.txt	Nothing Headphone (1)	Nothing Headphone (1)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Headphone%20%281%29%20%28ANC%20ON%20%26%20More%20Treble%20Preset%29%20%2A%2A%20L.txt	Nothing Headphone (1)	Nothing Headphone (1)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Headphone%20%281%29%20%28ANC%20ON%20%26%20More%20Treble%20Preset%29%20%2A%2A%20R.txt	Nothing Headphone (1)	Nothing Headphone (1)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Headphone%20%281%29%20%28ANC%20ON%20%26%20EQ%3A%20B-3%20M-4%20T-3%29%20%2A%2A%20L.txt	Nothing Headphone (1)	Nothing Headphone (1)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Headphone%20%281%29%20%28ANC%20ON%20%26%20EQ%3A%20B-3%20M-4%20T-3%29%20%2A%2A%20R.txt	Nothing Headphone (1)	Nothing Headphone (1)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/S5X%20**%20L.txt		Ollo Audio S5X	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/S5X%20**%20R.txt		Ollo Audio S5X	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/S5X%20%2A%2A%20L.txt	Ollo Audio S5X	Ollo Audio S5X	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/S5X%20%2A%2A%20R.txt	Ollo Audio S5X	Ollo Audio S5X	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/DHS-1%20%28Closed%20Cups%29%20%2A%2A%20L.txt	Palma Audio DHS-1	Palma DHS-1	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/DHS-1%20%28Closed%20Cups%29%20%2A%2A%20R.txt	Palma Audio DHS-1	Palma DHS-1	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/DHS-1%20%28Open%20Cups%29%20%2A%2A%20L.txt	Palma Audio DHS-1	Palma DHS-1	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/DHS-1%20%28Open%20Cups%29%20%2A%2A%20R.txt	Palma Audio DHS-1	Palma DHS-1	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/DHS-1%20(Closed%20Cups)%20**%20L.txt		Palma DHS-1 (closed)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/DHS-1%20(Closed%20Cups)%20**%20R.txt		Palma DHS-1 (closed)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/DHS-1%20(Open%20Cups)%20**%20L.txt		Palma DHS-1 (open)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/DHS-1%20(Open%20Cups)%20**%20R.txt		Palma DHS-1 (open)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Project%20HRP%20L.txt		Project HRP	ignore	
 https://kuulokenurkka.squig.link/data/Project%20HRP%20R.txt		Project HRP	ignore	
+https://kuulokenurkka.squig.link/data/ERA-1%20%28Flat%20Hybrid%20Pads%29%20%2A%2A%20L.txt	Quad ERA-1	QUAD ERA-1	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/ERA-1%20%28Flat%20Hybrid%20Pads%29%20%2A%2A%20R.txt	Quad ERA-1	QUAD ERA-1	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/ERA-1%20%28Angled%20Leather%20Pads%29%20%2A%2A%20L.txt	Quad ERA-1	QUAD ERA-1	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/ERA-1%20%28Angled%20Leather%20Pads%29%20%2A%2A%20R.txt	Quad ERA-1	QUAD ERA-1	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/ERA-1%20(Angled%20Leather%20Pads)%20**%20L.txt	Quad ERA-1	QUAD ERA-1 (angled leather earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/ERA-1%20(Angled%20Leather%20Pads)%20**%20R.txt	Quad ERA-1	QUAD ERA-1 (angled leather earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/ERA-1%20(Flat%20Hybrid%20Pads)%20**%20L.txt	Quad ERA-1	QUAD ERA-1 (hybrid earpads)	over-ear	KB501x + 711
@@ -439,6 +897,14 @@ https://kuulokenurkka.squig.link/data/ERA-1%20**%20R.txt	Quad ERA-1	QUAD Era-1	o
 https://kuulokenurkka.squig.link/data/./QuietComfort%20Ultra%20(ANC%20ON%20&%20EQ:%20-7%200%20-2)%20**%20L.txt		QuietComfort Ultra (ANC ON & EQ -7 0 -2)	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/./QuietComfort%20Ultra%20(ANC%20ON%20&%20EQ:%20-7%200%20-2)%20**%20R.txt		QuietComfort Ultra (ANC ON & EQ -7 0 -2)	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/QuietComfort%20Ultra%20(ANC%20ON%20%7c%2085%20dB%20@%201%20kHz)%20**%20L.txt		QuietComfort Ultra (ANC ON 85 dB @ 1 kHz)	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/SR-1a%20%28Ear%20Contact%20%26%20OBC%20ON%29%20%2A%2A%20L.txt	Raal-requisite SR-1a	RAAL SR-1a	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/SR-1a%20%28Ear%20Contact%20%26%20OBC%20ON%29%20%2A%2A%20R.txt	Raal-requisite SR-1a	RAAL SR-1a	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/SR-1a%20%28Ear%20Contact%20%26%20OBC%20OFF%29%20%2A%2A%20L.txt	Raal-requisite SR-1a	RAAL SR-1a	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/SR-1a%20%28Ear%20Contact%20%26%20OBC%20OFF%29%20%2A%2A%20R.txt	Raal-requisite SR-1a	RAAL SR-1a	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/SR-1a%20%28No%20Ear%20Contact%20%26%20OBC%20ON%29%20%2A%2A%20L.txt	Raal-requisite SR-1a	RAAL SR-1a	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/SR-1a%20%28No%20Ear%20Contact%20%26%20OBC%20ON%29%20%2A%2A%20R.txt	Raal-requisite SR-1a	RAAL SR-1a	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/SR-1a%20%28No%20Ear%20Contact%20%26%20OBC%20OFF%29%20%2A%2A%20L.txt	Raal-requisite SR-1a	RAAL SR-1a	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/SR-1a%20%28No%20Ear%20Contact%20%26%20OBC%20OFF%29%20%2A%2A%20R.txt	Raal-requisite SR-1a	RAAL SR-1a	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/SR-1a%20(Ear%20Contact%20&%20OBC%20OFF)%20**%20L.txt	Raal-requisite SR-1a	RAAL SR1a (ear contact, OBC off)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/SR-1a%20(Ear%20Contact%20&%20OBC%20OFF)%20**%20R.txt	Raal-requisite SR-1a	RAAL SR1a (ear contact, OBC off)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/SR-1a%20(Ear%20Contact%20&%20OBC%20ON)%20**%20L.txt	Raal-requisite SR-1a	RAAL SR1a (ear contact, OBC on)	over-ear	KB501x + 711
@@ -451,18 +917,46 @@ https://kuulokenurkka.squig.link/data/NTH100%20**%20L.txt	Rode NTH100	RØDE NTH-
 https://kuulokenurkka.squig.link/data/NTH100%20**%20R.txt	Rode NTH100	RØDE NTH-100	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/NTH100%20(Front%20Dampening%20Removed)%20**%20L.txt	Rode NTH100	RØDE NTH-100 (front dampening removed)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/NTH100%20(Front%20Dampening%20Removed)%20**%20R.txt	Rode NTH100	RØDE NTH-100 (front dampening removed)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/NTH100%20%2A%2A%20L.txt	Rode NTH100	RØDE NTH100	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/NTH100%20%2A%2A%20R.txt	Rode NTH100	RØDE NTH100	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/NTH100%20%28Front%20Dampening%20Removed%29%20%2A%2A%20L.txt	Rode NTH100	RØDE NTH100	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/NTH100%20%28Front%20Dampening%20Removed%29%20%2A%2A%20R.txt	Rode NTH100	RØDE NTH100	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Tres%20SE%20(Closed%20Cups%20&%20Leather%20Pads%20&%20Yellow%20Felt%20Removed)%20**%20L.txt		SASH Tres Second Edition	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/Tres%20SE%20(Closed%20Cups%20&%20Leather%20Pads%20&%20Yellow%20Felt%20Removed)%20**%20R.txt		SASH Tres Second Edition	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/Tres%20SE%20(Leather%20Pads%20&%20Older%20S-style%20Grill)%20**%20L.txt		SASH Tres Second Edition (	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/Tres%20SE%20(Leather%20Pads%20&%20Older%20S-style%20Grill)%20**%20R.txt		SASH Tres Second Edition (	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/Tres%20SE%20(Closed%20Cups%20&%20Hybrid%20Pads%20&%20Yellow%20Felt%20Removed)%20**%20L.txt		SASH Tres Second Edition (closed cups, hybrid earpads, yellow fi	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/Tres%20SE%20(Closed%20Cups%20&%20Hybrid%20Pads%20&%20Yellow%20Felt%20Removed)%20**%20R.txt		SASH Tres Second Edition (closed cups, hybrid earpads, yellow fi	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tres%20%2845%20ohm%29%20%2A%2A%20L.txt	SASH Tres (45 ohm)	Sash Tres (45 ohm)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tres%20%2845%20ohm%29%20%2A%2A%20R.txt	SASH Tres (45 ohm)	Sash Tres (45 ohm)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Tres%20(45%20ohm)%20**%20L.txt	SASH Tres (45 ohm)	Sash Tres 45	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Tres%20(45%20ohm)%20**%20R.txt	SASH Tres (45 ohm)	Sash Tres 45	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Tres%20(45%20ohm)%20L.txt	SASH Tres (45 ohm)	Sash Tres 45	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Tres%20(45%20ohm)%20R.txt	SASH Tres (45 ohm)	Sash Tres 45	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tres%20SE%20%28Leather%20Pads%29%20%2A%2A%20L.txt	SASH Tres SE	Sash Tres SE	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tres%20SE%20%28Leather%20Pads%29%20%2A%2A%20R.txt	SASH Tres SE	Sash Tres SE	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tres%20SE%20%28Leather%20Pads%20%26%20Older%20S-style%20Grill%29%20%2A%2A%20L.txt	SASH Tres SE	Sash Tres SE	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tres%20SE%20%28Leather%20Pads%20%26%20Older%20S-style%20Grill%29%20%2A%2A%20R.txt	SASH Tres SE	Sash Tres SE	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tres%20SE%20%28Hybrid%20Pads%29%20%2A%2A%20L.txt	SASH Tres SE	Sash Tres SE	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tres%20SE%20%28Hybrid%20Pads%29%20%2A%2A%20R.txt	SASH Tres SE	Sash Tres SE	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tres%20SE%20%28Suede%20Pads%29%20%2A%2A%20L.txt	SASH Tres SE	Sash Tres SE	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tres%20SE%20%28Suede%20Pads%29%20%2A%2A%20R.txt	SASH Tres SE	Sash Tres SE	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tres%20SE%20%28Closed%20Cups%20%26%20Leather%20Pads%29%20%2A%2A%20L.txt	SASH Tres SE	Sash Tres SE	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tres%20SE%20%28Closed%20Cups%20%26%20Leather%20Pads%29%20%2A%2A%20R.txt	SASH Tres SE	Sash Tres SE	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tres%20SE%20%28Closed%20Cups%20%26%20Hybrid%20Pads%29%20%2A%2A%20L.txt	SASH Tres SE	Sash Tres SE	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tres%20SE%20%28Closed%20Cups%20%26%20Hybrid%20Pads%29%20%2A%2A%20R.txt	SASH Tres SE	Sash Tres SE	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tres%20SE%20%28Closed%20Cups%20%26%20Suede%20Pads%29%20%2A%2A%20L.txt	SASH Tres SE	Sash Tres SE	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tres%20SE%20%28Closed%20Cups%20%26%20Suede%20Pads%29%20%2A%2A%20R.txt	SASH Tres SE	Sash Tres SE	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tres%20SE%20%28Closed%20Cups%20%26%20Leather%20Pads%20%26%20Yellow%20Felt%20Removed%29%20%2A%2A%20L.txt	SASH Tres SE	Sash Tres SE	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tres%20SE%20%28Closed%20Cups%20%26%20Leather%20Pads%20%26%20Yellow%20Felt%20Removed%29%20%2A%2A%20R.txt	SASH Tres SE	Sash Tres SE	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tres%20SE%20%28Closed%20Cups%20%26%20Hybrid%20Pads%20%26%20Yellow%20Felt%20Removed%29%20%2A%2A%20L.txt	SASH Tres SE	Sash Tres SE	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tres%20SE%20%28Closed%20Cups%20%26%20Hybrid%20Pads%20%26%20Yellow%20Felt%20Removed%29%20%2A%2A%20R.txt	SASH Tres SE	Sash Tres SE	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tres%20SE%20%28Modded%20by%20santsant%29%20%2A%2A%20L.txt	SASH Tres SE (Modded by santsant)	Sash Tres SE (Modded by santsant)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tres%20SE%20%28Modded%20by%20santsant%29%20%2A%2A%20R.txt	SASH Tres SE (Modded by santsant)	Sash Tres SE (Modded by santsant)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Tres%20SE%20Thinner%20Membrane%20(Leather%20Pads)%20**%20L.txt		Sash Tres SE Exclusive (leather earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Tres%20SE%20Thinner%20Membrane%20(Leather%20Pads)%20**%20R.txt		Sash Tres SE Exclusive (leather earpads)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tres%20SE%20Thinner%20Membrane%20%28Leather%20Pads%29%20%2A%2A%20L.txt	SASH Tres SE Thinner Membrane	Sash Tres SE Thinner Membrane	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Tres%20SE%20Thinner%20Membrane%20%28Leather%20Pads%29%20%2A%2A%20R.txt	SASH Tres SE Thinner Membrane	Sash Tres SE Thinner Membrane	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Tres%20SE%20(S-style%20Grill)%20**%20L.txt	SASH Tres SE	Sash Tres Second Edition (S-style grill)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Tres%20SE%20(S-style%20Grill)%20**%20R.txt	SASH Tres SE	Sash Tres Second Edition (S-style grill)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Tres%20SE%20(Closed%20Cups%20&%20Hybrid%20Pads)%20**%20L.txt		Sash Tres Second Edition (closed cups, hybrid earpads)	over-ear	KB501x + 711
@@ -481,8 +975,12 @@ https://kuulokenurkka.squig.link/data/Tres%20SE%20(Suede%20Pads)%20**%20L.txt		S
 https://kuulokenurkka.squig.link/data/Tres%20SE%20(Suede%20Pads)%20**%20R.txt		Sash Tres Second Edition (suede earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/HD%20505%20Copper%20Edition%20**%20L.txt		Sennheiser HD 505 Copper Edition	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/HD%20505%20Copper%20Edition%20**%20R.txt		Sennheiser HD 505 Copper Edition	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/HD%20505%20Copper%20Edition%20%2A%2A%20L.txt	Sennheiser HD 505 Copper Edition	Sennheiser HD 505 Copper Edition	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/HD%20505%20Copper%20Edition%20%2A%2A%20R.txt	Sennheiser HD 505 Copper Edition	Sennheiser HD 505 Copper Edition	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/HD%20560S%20**%20L.txt		Sennheiser HD 560S	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/HD%20560S%20**%20R.txt		Sennheiser HD 560S	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/HD%20560S%20%2A%2A%20L.txt	Sennheiser HD 560S	Sennheiser HD 560S	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/HD%20560S%20%2A%2A%20R.txt	Sennheiser HD 560S	Sennheiser HD 560S	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/HD%20580%20Precision%20L.txt	Sennheiser HD 580 Precision	Sennheiser HD 580 precision	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/HD%20580%20Precision%20R.txt	Sennheiser HD 580 Precision	Sennheiser HD 580 precision	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/HD%20600%20(ZMF%20Perf%20Leather%20Pads)%20**%20L.txt	Sennheiser HD 600 (2020)	Sennheiser HD 600 (2020)	ignore	
@@ -493,8 +991,16 @@ https://kuulokenurkka.squig.link/data/HD%20600%20(2021%20Pads)%20**%20L.txt	Senn
 https://kuulokenurkka.squig.link/data/HD%20600%20(2021%20Pads)%20**%20R.txt	Sennheiser HD 600 (2020)	Sennheiser HD 600 (2020)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/HD%20600%20(2021%20Pads)%20L.txt	Sennheiser HD 600 (2020)	Sennheiser HD 600 (2020)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/HD%20600%20(2021%20Pads)%20R.txt	Sennheiser HD 600 (2020)	Sennheiser HD 600 (2020)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/HD%20600%20%282021%20Pads%29%20%2A%2A%20L.txt	Sennheiser HD 600 (2020)	Sennheiser HD 600 (2020)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/HD%20600%20%282021%20Pads%29%20%2A%2A%20R.txt	Sennheiser HD 600 (2020)	Sennheiser HD 600 (2020)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/HD%20600%20%28Soulwit%20Cooling%20Gel%20Pads%29%20%2A%2A%20L.txt	Sennheiser HD 600 (2020)	Sennheiser HD 600 (2020)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/HD%20600%20%28Soulwit%20Cooling%20Gel%20Pads%29%20%2A%2A%20R.txt	Sennheiser HD 600 (2020)	Sennheiser HD 600 (2020)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/HD%20600%20%28ZMF%20Perf%20Leather%20Pads%29%20%2A%2A%20L.txt	Sennheiser HD 600 (2020)	Sennheiser HD 600 (2020)	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/HD%20600%20%28ZMF%20Perf%20Leather%20Pads%29%20%2A%2A%20R.txt	Sennheiser HD 600 (2020)	Sennheiser HD 600 (2020)	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/HD%20620S%20**%20L.txt		Sennheiser HD 620S	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/HD%20620S%20**%20R.txt		Sennheiser HD 620S	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/HD%20620S%20%2A%2A%20L.txt	Sennheiser HD 620S	Sennheiser HD 620S	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/HD%20620S%20%2A%2A%20R.txt	Sennheiser HD 620S	Sennheiser HD 620S	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/HD%20650%20(ZMF%20Perf%20Leather%20Pads)%20L.txt	Sennheiser HD 650	Sennheiser HD 650	ignore	
 https://kuulokenurkka.squig.link/data/HD%20650%20(ZMF%20Perf%20Leather%20Pads)%20R.txt	Sennheiser HD 650	Sennheiser HD 650	ignore	
 https://kuulokenurkka.squig.link/data/HD%20650%20(2021%20Pads)%20L.txt	Sennheiser HD 650	Sennheiser HD 650	over-ear	KB501x + 711
@@ -503,10 +1009,20 @@ https://kuulokenurkka.squig.link/data/HD%20660S2%20(ZMF%20Perf%20Leather%20Pads)
 https://kuulokenurkka.squig.link/data/HD%20660S2%20(ZMF%20Perf%20Leather%20Pads)%20**%20R.txt	Sennheiser HD 660S2	Sennheiser HD 660S2	ignore	
 https://kuulokenurkka.squig.link/data/HD%20660S2%20**%20L.txt	Sennheiser HD 660S2	Sennheiser HD 660S2	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/HD%20660S2%20**%20R.txt	Sennheiser HD 660S2	Sennheiser HD 660S2	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/HD%20660S2%20%2A%2A%20L.txt	Sennheiser HD 660S2	Sennheiser HD 660S2	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/HD%20660S2%20%2A%2A%20R.txt	Sennheiser HD 660S2	Sennheiser HD 660S2	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/HD%20660S2%20%28ZMF%20Perf%20Leather%20Pads%29%20%2A%2A%20L.txt	Sennheiser HD 660S2	Sennheiser HD 660S2	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/HD%20660S2%20%28ZMF%20Perf%20Leather%20Pads%29%20%2A%2A%20R.txt	Sennheiser HD 660S2	Sennheiser HD 660S2	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/HD%206XX%20L.txt	Sennheiser HD 6XX	Sennheiser HD 6XX	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/HD%206XX%20R.txt	Sennheiser HD 6XX	Sennheiser HD 6XX	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/HD%20800%20%28SDR%20Mod%29%20%2A%2A%20L.txt	Sennheiser HD 800	Sennheiser HD 800	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/HD%20800%20%28SDR%20Mod%29%20%2A%2A%20R.txt	Sennheiser HD 800	Sennheiser HD 800	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/HD%20800%20(SDR%20Mod)%20**%20L.txt	Sennheiser HD 800	Sennheiser HD 800 (SDR mod)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/HD%20800%20(SDR%20Mod)%20**%20R.txt	Sennheiser HD 800	Sennheiser HD 800 (SDR mod)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/HDB%20630%20%28ANC%20ON%29%20%2A%2A%20L.txt	Sennheiser HDB 630	Sennheiser HDB 630	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/HDB%20630%20%28ANC%20ON%29%20%2A%2A%20R.txt	Sennheiser HDB 630	Sennheiser HDB 630	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/HDB%20630%20%28ANC%20OFF%29%20%2A%2A%20L.txt	Sennheiser HDB 630	Sennheiser HDB 630	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/HDB%20630%20%28ANC%20OFF%29%20%2A%2A%20R.txt	Sennheiser HDB 630	Sennheiser HDB 630	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Momentum%203%20Wireless%20(HEST%20ON)%20L.txt	Sennheiser Momentum 3 Wireless	Sennheiser Momentum 3 Wireless	ignore	
 https://kuulokenurkka.squig.link/data/Momentum%203%20Wireless%20(HEST%20ON)%20R.txt	Sennheiser Momentum 3 Wireless	Sennheiser Momentum 3 Wireless	ignore	
 https://kuulokenurkka.squig.link/data/Momentum%204%20(ANC%20ON)%20**%20L.txt	Sennheiser Momentum 4	Sennheiser Momentum 4 Wireless	over-ear	KB501x + 711
@@ -515,24 +1031,56 @@ https://kuulokenurkka.squig.link/data/Momentum%204%20Wireless%20(ANC%20ON)%20**%
 https://kuulokenurkka.squig.link/data/Momentum%204%20Wireless%20(ANC%20ON)%20**%20R.txt	Sennheiser Momentum 4 Wireless	Sennheiser Momentum 4 Wireless	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Momentum%204%20Wireless%20(Review%20EQ)%20**%20L.txt	Sennheiser Momentum 4 Wireless	Sennheiser Momentum 4 Wireless	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/Momentum%204%20Wireless%20(Review%20EQ)%20**%20R.txt	Sennheiser Momentum 4 Wireless	Sennheiser Momentum 4 Wireless	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Momentum%204%20Wireless%20%28ANC%20ON%29%20%2A%2A%20L.txt	Sennheiser Momentum 4 Wireless	Sennheiser Momentum 4 Wireless	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Momentum%204%20Wireless%20%28ANC%20ON%29%20%2A%2A%20R.txt	Sennheiser Momentum 4 Wireless	Sennheiser Momentum 4 Wireless	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Momentum%204%20Wireless%20%28Passive%29%20%2A%2A%20L.txt	Sennheiser Momentum 4 Wireless	Sennheiser Momentum 4 Wireless	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Momentum%204%20Wireless%20%28Passive%29%20%2A%2A%20R.txt	Sennheiser Momentum 4 Wireless	Sennheiser Momentum 4 Wireless	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Momentum%204%20Wireless%20%28Review%20EQ%29%20%2A%2A%20L.txt	Sennheiser Momentum 4 Wireless	Sennheiser Momentum 4 Wireless	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Momentum%204%20Wireless%20%28Review%20EQ%29%20%2A%2A%20R.txt	Sennheiser Momentum 4 Wireless	Sennheiser Momentum 4 Wireless	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/Momentum%204%20(Passive)%20**%20L.txt	Sennheiser Momentum 4	Sennheiser Momentum 4 Wireless (passive)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Momentum%204%20(Passive)%20**%20R.txt	Sennheiser Momentum 4	Sennheiser Momentum 4 Wireless (passive)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Momentum%204%20Wireless%20(Passive)%20**%20L.txt	Sennheiser Momentum 4 Wireless	Sennheiser Momentum 4 Wireless (passive)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Momentum%204%20Wireless%20(Passive)%20**%20R.txt	Sennheiser Momentum 4 Wireless	Sennheiser Momentum 4 Wireless (passive)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/SE-1%20%28Bluetooth%20%26%20Pleather%20Pads%29%20%2A%2A%20L.txt	Sineaptic SE-1	Sineaptic SE-1	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/SE-1%20%28Bluetooth%20%26%20Pleather%20Pads%29%20%2A%2A%20R.txt	Sineaptic SE-1	Sineaptic SE-1	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/SE-1%20%28Passive%20%26%20Pleather%20Pads%29%20%2A%2A%20L.txt	Sineaptic SE-1	Sineaptic SE-1	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/SE-1%20%28Passive%20%26%20Pleather%20Pads%29%20%2A%2A%20R.txt	Sineaptic SE-1	Sineaptic SE-1	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/SE-1%20(Passive%20&%20Pleather%20Pads)%20**%20L.txt	Sineaptic SE-1	Sineaptic SE-1 (passive, pleather earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/SE-1%20(Passive%20&%20Pleather%20Pads)%20**%20R.txt	Sineaptic SE-1	Sineaptic SE-1 (passive, pleather earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/SE-1%20(Bluetooth%20&%20Pleather%20Pads)%20**%20L.txt	Sineaptic SE-1	Sineaptic SE-1 (wireless, pleather earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/SE-1%20(Bluetooth%20&%20Pleather%20Pads)%20**%20R.txt	Sineaptic SE-1	Sineaptic SE-1 (wireless, pleather earpads)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aviator%20900%20ANC%20%28ANC%20ON%20%26%20Music%20Preset%29%20%2A%2A%20L.txt	Skullcandy Aviator 900 ANC	Skullcandy Aviator 900 ANC	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aviator%20900%20ANC%20%28ANC%20ON%20%26%20Music%20Preset%29%20%2A%2A%20R.txt	Skullcandy Aviator 900 ANC	Skullcandy Aviator 900 ANC	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aviator%20900%20ANC%20%28ANC%20OFF%20%26%20Music%20Preset%29%20%2A%2A%20L.txt	Skullcandy Aviator 900 ANC	Skullcandy Aviator 900 ANC	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aviator%20900%20ANC%20%28ANC%20OFF%20%26%20Music%20Preset%29%20%2A%2A%20R.txt	Skullcandy Aviator 900 ANC	Skullcandy Aviator 900 ANC	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aviator%20900%20ANC%20%28ANC%20ON%20%26%20EQ%20Sliders%20at%20Zero%29%20%2A%2A%20L.txt	Skullcandy Aviator 900 ANC	Skullcandy Aviator 900 ANC	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aviator%20900%20ANC%20%28ANC%20ON%20%26%20EQ%20Sliders%20at%20Zero%29%20%2A%2A%20R.txt	Skullcandy Aviator 900 ANC	Skullcandy Aviator 900 ANC	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aviator%20900%20ANC%20%28ANC%20ON%20%26%20Bass%20Boost%20Preset%29%20%2A%2A%20L.txt	Skullcandy Aviator 900 ANC	Skullcandy Aviator 900 ANC	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aviator%20900%20ANC%20%28ANC%20ON%20%26%20Bass%20Boost%20Preset%29%20%2A%2A%20R.txt	Skullcandy Aviator 900 ANC	Skullcandy Aviator 900 ANC	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aviator%20900%20ANC%20%28Passive%29%20%2A%2A%20L.txt	Skullcandy Aviator 900 ANC	Skullcandy Aviator 900 ANC	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aviator%20900%20ANC%20%28Passive%29%20%2A%2A%20R.txt	Skullcandy Aviator 900 ANC	Skullcandy Aviator 900 ANC	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/./Solitaire%20T%20(HQ%20Mode%20&%20EQ:%20Relaxed)%20**%20L.txt		Solitaire T (HQ Mode & EQ Relaxed)	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/./Solitaire%20T%20(HQ%20Mode%20&%20EQ:%20Relaxed)%20**%20R.txt		Solitaire T (HQ Mode & EQ Relaxed)	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Ace%20%28ANC%20ON%20%26%20Loudness%20ON%29%20%2A%2A%20L.txt	Sonos Ace	Sonos Ace	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Ace%20%28ANC%20ON%20%26%20Loudness%20ON%29%20%2A%2A%20R.txt	Sonos Ace	Sonos Ace	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Ace%20%28ANC%20ON%29%20%2A%2A%20L.txt	Sonos Ace	Sonos Ace	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Ace%20%28ANC%20ON%29%20%2A%2A%20R.txt	Sonos Ace	Sonos Ace	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Ace%20%28ANC%20OFF%29%20%2A%2A%20L.txt	Sonos Ace	Sonos Ace	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Ace%20%28ANC%20OFF%29%20%2A%2A%20R.txt	Sonos Ace	Sonos Ace	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Ace%20(ANC%20OFF)%20**%20L.txt		Sonos Ace (ANC off)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Ace%20(ANC%20OFF)%20**%20R.txt		Sonos Ace (ANC off)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Ace%20(ANC%20ON)%20**%20L.txt		Sonos Ace (ANC on)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Ace%20(ANC%20ON)%20**%20R.txt		Sonos Ace (ANC on)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Ace%20(ANC%20ON%20&%20Loudness%20ON)%20**%20L.txt		Sonos Ace (ANC on, loudness on)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Ace%20(ANC%20ON%20&%20Loudness%20ON)%20**%20R.txt		Sonos Ace (ANC on, loudness on)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/1000X%20The%20ColleXion%20%28ANC%20ON%29%20%2A%2A%20L.txt	Sony 1000X The ColleXion	Sony 1000X The ColleXion	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/1000X%20The%20ColleXion%20%28ANC%20ON%29%20%2A%2A%20R.txt	Sony 1000X The ColleXion	Sony 1000X The ColleXion	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/1000X%20The%20ColleXion%20%28ANC%20OFF%29%20%2A%2A%20L.txt	Sony 1000X The ColleXion	Sony 1000X The ColleXion	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/1000X%20The%20ColleXion%20%28ANC%20OFF%29%20%2A%2A%20R.txt	Sony 1000X The ColleXion	Sony 1000X The ColleXion	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/MDR-M1%20**%20L.txt		Sony MDR-M1	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/MDR-M1%20**%20R.txt		Sony MDR-M1	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/MDR-M1%20%2A%2A%20L.txt	Sony MDR-M1	Sony MDR-M1	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/MDR-M1%20%2A%2A%20R.txt	Sony MDR-M1	Sony MDR-M1	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/ULT%20WEAR%20(ANC%20ON%20&%20ULT%20OFF)%20**%20L.txt		Sony ULT WEAR	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/ULT%20WEAR%20(ANC%20ON%20&%20ULT%20OFF)%20**%20R.txt		Sony ULT WEAR	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/ULT%20WEAR%20(ANC%20ON%20&%20ULT-1%20&%20Review%20EQ)%20**%20L.txt		Sony ULT WEAR	ignore	KB501x + 711
@@ -541,6 +1089,18 @@ https://kuulokenurkka.squig.link/data/ULT%20WEAR%20(ANC%20ON%20&%20ULT-1)%20**%2
 https://kuulokenurkka.squig.link/data/ULT%20WEAR%20(ANC%20ON%20&%20ULT-1)%20**%20R.txt		Sony ULT WEAR	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/ULT%20WEAR%20(ANC%20ON%20&%20ULT-2)%20**%20L.txt		Sony ULT WEAR	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/ULT%20WEAR%20(ANC%20ON%20&%20ULT-2)%20**%20R.txt		Sony ULT WEAR	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/ULT%20WEAR%20%28ANC%20ON%20%26%20ULT%20OFF%29%20%2A%2A%20L.txt	Sony ULT WEAR	Sony ULT WEAR	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/ULT%20WEAR%20%28ANC%20ON%20%26%20ULT%20OFF%29%20%2A%2A%20R.txt	Sony ULT WEAR	Sony ULT WEAR	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/ULT%20WEAR%20%28ANC%20ON%20%26%20ULT-1%29%20%2A%2A%20L.txt	Sony ULT WEAR	Sony ULT WEAR	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/ULT%20WEAR%20%28ANC%20ON%20%26%20ULT-1%29%20%2A%2A%20R.txt	Sony ULT WEAR	Sony ULT WEAR	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/ULT%20WEAR%20%28ANC%20ON%20%26%20ULT-2%29%20%2A%2A%20L.txt	Sony ULT WEAR	Sony ULT WEAR	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/ULT%20WEAR%20%28ANC%20ON%20%26%20ULT-2%29%20%2A%2A%20R.txt	Sony ULT WEAR	Sony ULT WEAR	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/ULT%20WEAR%20%28ANC%20OFF%20%26%20ULT%20OFF%29%20%2A%2A%20L.txt	Sony ULT WEAR	Sony ULT WEAR	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/ULT%20WEAR%20%28ANC%20OFF%20%26%20ULT%20OFF%29%20%2A%2A%20R.txt	Sony ULT WEAR	Sony ULT WEAR	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/ULT%20WEAR%20%28Passive%29%20%2A%2A%20L.txt	Sony ULT WEAR	Sony ULT WEAR	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/ULT%20WEAR%20%28Passive%29%20%2A%2A%20R.txt	Sony ULT WEAR	Sony ULT WEAR	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/ULT%20WEAR%20%28ANC%20ON%20%26%20ULT-1%20%26%20Review%20EQ%29%20%2A%2A%20L.txt	Sony ULT WEAR	Sony ULT WEAR	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/ULT%20WEAR%20%28ANC%20ON%20%26%20ULT-1%20%26%20Review%20EQ%29%20%2A%2A%20R.txt	Sony ULT WEAR	Sony ULT WEAR	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/ULT%20WEAR%20(ANC%20OFF%20&%20ULT%20OFF)%20**%20L.txt		Sony ULT WEAR (ACN off)	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/ULT%20WEAR%20(ANC%20OFF%20&%20ULT%20OFF)%20**%20R.txt		Sony ULT WEAR (ACN off)	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/ULT%20WEAR%20(Passive)%20**%20L.txt		Sony ULT WEAR (passive)	over-ear	KB501x + 711
@@ -555,29 +1115,64 @@ https://kuulokenurkka.squig.link/data/WH-1000XM6%20(ANC%20ON)%20**%20L.txt		Sony
 https://kuulokenurkka.squig.link/data/WH-1000XM6%20(ANC%20ON)%20**%20R.txt		Sony WH-1000XM6	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/WH-1000XM6%20(Passive)%20**%20L.txt		Sony WH-1000XM6	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/WH-1000XM6%20(Passive)%20**%20R.txt		Sony WH-1000XM6	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/WH-1000XM6%20%28ANC%20ON%29%20%2A%2A%20L.txt	Sony WH-1000XM6	Sony WH-1000XM6	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/WH-1000XM6%20%28ANC%20ON%29%20%2A%2A%20R.txt	Sony WH-1000XM6	Sony WH-1000XM6	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/WH-1000XM6%20%28ANC%20OFF%29%20%2A%2A%20L.txt	Sony WH-1000XM6	Sony WH-1000XM6	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/WH-1000XM6%20%28ANC%20OFF%29%20%2A%2A%20R.txt	Sony WH-1000XM6	Sony WH-1000XM6	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/WH-1000XM6%20%28Passive%29%20%2A%2A%20L.txt	Sony WH-1000XM6	Sony WH-1000XM6	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/WH-1000XM6%20%28Passive%29%20%2A%2A%20R.txt	Sony WH-1000XM6	Sony WH-1000XM6	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/SR-L700%20**%20L.txt	STAX SR-L700	Stax SR-L700	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/SR-L700%20**%20R.txt	STAX SR-L700	Stax SR-L700	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/SR-L700%20%2A%2A%20L.txt	STAX SR-L700	Stax SR-L700	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/SR-L700%20%2A%2A%20R.txt	STAX SR-L700	Stax SR-L700	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/./SR-Lambda%20Spirit%20(Pad%20mod:%20Angled%20Pleather%20Pads)%20**%20L.txt		Stax SR-Lambda Spirit	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/./SR-Lambda%20Spirit%20(Pad%20mod:%20Angled%20Pleather%20Pads)%20**%20R.txt		Stax SR-Lambda Spirit	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/SR-Lambda%20Spirit%20%28Pad%20mod%3A%20Angled%20Pleather%20Pads%29%20%2A%2A%20L.txt	STAX SR-Lambda Spirit	Stax SR-Lambda Spirit	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/SR-Lambda%20Spirit%20%28Pad%20mod%3A%20Angled%20Pleather%20Pads%29%20%2A%2A%20R.txt	STAX SR-Lambda Spirit	Stax SR-Lambda Spirit	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/SR-X1%20(Good%20Seal)%20**%20L.txt		Stax SR-X1	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/SR-X1%20(Good%20Seal)%20**%20R.txt		Stax SR-X1	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/SR-X1%20%28Good%20Seal%29%20%2A%2A%20L.txt	STAX SR-X1	Stax SR-X1	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/SR-X1%20%28Good%20Seal%29%20%2A%2A%20R.txt	STAX SR-X1	Stax SR-X1	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/SR-X1%20%28Weak%20Seal%29%20%2A%2A%20L.txt	STAX SR-X1	Stax SR-X1	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/SR-X1%20%28Weak%20Seal%29%20%2A%2A%20R.txt	STAX SR-X1	Stax SR-X1	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/SR-X1%20(Weak%20Seal)%20**%20L.txt		Stax SR-X1 (weak seal)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/SR-X1%20(Weak%20Seal)%20**%20R.txt		Stax SR-X1 (weak seal)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/SR-%CE%A3%20%281979%29%20%2A%2A%20L.txt	STAX SR-Σ	Stax SR-Σ	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/SR-%CE%A3%20%281979%29%20%2A%2A%20R.txt	STAX SR-Σ	Stax SR-Σ	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Verite%20Closed%20Copy%20(Stock%20Leather%20Pads)%20**%20L.txt		Sweet Audio Verite Closed Copy (Beryllium drivers)	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/Verite%20Closed%20Copy%20(Stock%20Leather%20Pads)%20**%20R.txt		Sweet Audio Verite Closed Copy (Beryllium drivers)	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/Verite%20Closed%20Copy%20(ZMF%20Auteur%20Hybrid%20Pads)%20**%20L.txt		Sweet Audio Verite Closed Copy (Beryllium drivers)	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/Verite%20Closed%20Copy%20(ZMF%20Auteur%20Hybrid%20Pads)%20**%20R.txt		Sweet Audio Verite Closed Copy (Beryllium drivers)	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/Verite%20Closed%20Copy%20(ZMF%20Auteur%20Leather%20Pads)%20**%20R.txt		Sweet Audio Verite Closed Copy (Beryllium drivers)	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Verite%20Closed%20Copy%20%28Stock%20Leather%20Pads%29%20%2A%2A%20L.txt	Sweet Audio Verite Closed Copy (Beryllium drivers)	Sweet Audio Verite Closed Copy (Beryllium drivers)	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Verite%20Closed%20Copy%20%28Stock%20Leather%20Pads%29%20%2A%2A%20R.txt	Sweet Audio Verite Closed Copy (Beryllium drivers)	Sweet Audio Verite Closed Copy (Beryllium drivers)	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Verite%20Closed%20Copy%20%28ZMF%20Auteur%20Leather%20Pads%29%20%2A%2A%20R.txt	Sweet Audio Verite Closed Copy (Beryllium drivers)	Sweet Audio Verite Closed Copy (Beryllium drivers)	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Verite%20Closed%20Copy%20%28ZMF%20Auteur%20Hybrid%20Pads%29%20%2A%2A%20L.txt	Sweet Audio Verite Closed Copy (Beryllium drivers)	Sweet Audio Verite Closed Copy (Beryllium drivers)	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Verite%20Closed%20Copy%20%28ZMF%20Auteur%20Hybrid%20Pads%29%20%2A%2A%20R.txt	Sweet Audio Verite Closed Copy (Beryllium drivers)	Sweet Audio Verite Closed Copy (Beryllium drivers)	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/Solitaire%20P%20**%20L.txt	T+A Solitaire P	T+A Solitaire P	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Solitaire%20P%20**%20R.txt	T+A Solitaire P	T+A Solitaire P	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Solitaire%20P%20%2A%2A%20L.txt	T+A Solitaire P	T+A Solitaire P	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Solitaire%20P%20%2A%2A%20R.txt	T+A Solitaire P	T+A Solitaire P	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Solitaire%20P-SE%20%2A%2A%20L.txt	T+A Solitaire P-SE	T+A Solitaire P-SE	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Solitaire%20P-SE%20%2A%2A%20R.txt	T+A Solitaire P-SE	T+A Solitaire P-SE	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Solitaire%20P-SE%20**%20L.txt	T+A Solitaire P-SE	T+A Solitaire PSE	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Solitaire%20P-SE%20**%20R.txt	T+A Solitaire P-SE	T+A Solitaire PSE	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Solitaire%20T%20(HQ%20Mode)%20**%20L.txt		T+A Solitaire T	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/Solitaire%20T%20(HQ%20Mode)%20**%20R.txt		T+A Solitaire T	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Solitaire%20T%20%28ANC%20ON%29%20%2A%2A%20L.txt	T+A Solitaire T	T+A Solitaire T	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Solitaire%20T%20%28ANC%20ON%29%20%2A%2A%20R.txt	T+A Solitaire T	T+A Solitaire T	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Solitaire%20T%20%28HQ%20Mode%29%20%2A%2A%20L.txt	T+A Solitaire T	T+A Solitaire T	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Solitaire%20T%20%28HQ%20Mode%29%20%2A%2A%20R.txt	T+A Solitaire T	T+A Solitaire T	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Solitaire%20T%20%28Passive%29%20%2A%2A%20L.txt	T+A Solitaire T	T+A Solitaire T	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Solitaire%20T%20%28Passive%29%20%2A%2A%20R.txt	T+A Solitaire T	T+A Solitaire T	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Solitaire%20T%20(ANC%20ON)%20**%20L.txt		T+A Solitaire T (ANC on)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Solitaire%20T%20(ANC%20ON)%20**%20R.txt		T+A Solitaire T (ANC on)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Solitaire%20T%20(Passive)%20**%20L.txt		T+A Solitaire T (passive)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Solitaire%20T%20(Passive)%20**%20R.txt		T+A Solitaire T (passive)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/VMK15%20%28ANC%20ON%29%20%2A%2A%20L.txt	Valco VMK15	Valco VMK15	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/VMK15%20%28ANC%20ON%29%20%2A%2A%20R.txt	Valco VMK15	Valco VMK15	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/VMK15%20%28ANC%20OFF%29%20%2A%2A%20L.txt	Valco VMK15	Valco VMK15	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/VMK15%20%28ANC%20OFF%29%20%2A%2A%20R.txt	Valco VMK15	Valco VMK15	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/VMK20%20(ANC%20OFF)%20L.txt	Valco VMK20	Valco VMK20 (ANC off)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/VMK20%20(ANC%20OFF)%20R.txt	Valco VMK20	Valco VMK20 (ANC off)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/VMK20%20(ANC%20ON)%20L.txt	Valco VMK20	Valco VMK20 (ANC on)	over-ear	KB501x + 711
@@ -600,6 +1195,16 @@ https://kuulokenurkka.squig.link/data/VMK25%20(ANC%20ON)%202023%20**%20L.txt		Va
 https://kuulokenurkka.squig.link/data/VMK25%20(ANC%20ON)%202023%20**%20R.txt		Valco VMK25	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/VMK25%20(AUX%20&%20ANC%20ON)%202023%20**%20L.txt		Valco VMK25	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/VMK25%20(AUX%20&%20ANC%20ON)%202023%20**%20R.txt		Valco VMK25	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/VMK25%20%28ANC%20ON%29%20Pad%20Revision%202024%20%2A%2A%20L.txt	Valco VMK25	Valco VMK25	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/VMK25%20%28ANC%20ON%29%20Pad%20Revision%202024%20%2A%2A%20R.txt	Valco VMK25	Valco VMK25	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/VMK25%20%28ANC%20ON%29%202023%20%2A%2A%20L.txt	Valco VMK25	Valco VMK25	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/VMK25%20%28ANC%20ON%29%202023%20%2A%2A%20R.txt	Valco VMK25	Valco VMK25	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/VMK25%20%28ANC%20OFF%29%202023%20%2A%2A%20L.txt	Valco VMK25	Valco VMK25	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/VMK25%20%28ANC%20OFF%29%202023%20%2A%2A%20R.txt	Valco VMK25	Valco VMK25	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/VMK25%20%28Passive%29%202023%20%2A%2A%20L.txt	Valco VMK25	Valco VMK25	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/VMK25%20%28Passive%29%202023%20%2A%2A%20R.txt	Valco VMK25	Valco VMK25	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/VMK25%20%28AUX%20%26%20ANC%20ON%29%202023%20%2A%2A%20L.txt	Valco VMK25	Valco VMK25	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/VMK25%20%28AUX%20%26%20ANC%20ON%29%202023%20%2A%2A%20R.txt	Valco VMK25	Valco VMK25	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/VMK25%20(ANC%20OFF)%20L.txt		Valco VMK25 (ANC off)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/VMK25%20(ANC%20OFF)%20R.txt		Valco VMK25 (ANC off)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/VMK25%20(ANC%20OFF)%20**%20L.txt	Valco VMK25	Valco VMK25 (ANC off)	over-ear	KB501x + 711
@@ -632,22 +1237,58 @@ https://kuulokenurkka.squig.link/data/VMK25%20(BT%20ANC%20ON)%20**%20L.txt	Valco
 https://kuulokenurkka.squig.link/data/VMK25%20(BT%20ANC%20ON)%20**%20R.txt	Valco VMK25	Valco VMK25 (wireless, ANC on)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/VMK25%20(BT%20ANC%20ON)%20L.txt	Valco VMK25	Valco VMK25 (wireless, ANC on)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/VMK25%20(BT%20ANC%20ON)%20R.txt	Valco VMK25	Valco VMK25 (wireless, ANC on)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/VMK25.2%20%28ANC%20ON%29%20%2A%2A%20L.txt	Valco VMK25.2	Valco VMK25.2	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/VMK25.2%20%28ANC%20ON%29%20%2A%2A%20R.txt	Valco VMK25.2	Valco VMK25.2	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/VMK25.2%20%28ANC%20OFF%29%20%2A%2A%20L.txt	Valco VMK25.2	Valco VMK25.2	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/VMK25.2%20%28ANC%20OFF%29%20%2A%2A%20R.txt	Valco VMK25.2	Valco VMK25.2	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Avalon%20mk2%20(Stock%20Pads%20&%20ZMF%20Adapter%20Rings)%20**%20L.txt		XK-Audio Avalon mk2	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/Avalon%20mk2%20(Stock%20Pads%20&%20ZMF%20Adapter%20Rings)%20**%20R.txt		XK-Audio Avalon mk2	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/Avalon%20mk2%20**%20L.txt		XK-Audio Avalon mk2	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Avalon%20mk2%20**%20R.txt		XK-Audio Avalon mk2	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Avalon%20mk2%20%2A%2A%20L.txt	XK-Audio Avalon mk2	XK-Audio Avalon mk2	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Avalon%20mk2%20%2A%2A%20R.txt	XK-Audio Avalon mk2	XK-Audio Avalon mk2	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Avalon%20mk2%20%28Alternative%20Pads%29%20%2A%2A%20L.txt	XK-Audio Avalon mk2	XK-Audio Avalon mk2	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Avalon%20mk2%20%28Alternative%20Pads%29%20%2A%2A%20R.txt	XK-Audio Avalon mk2	XK-Audio Avalon mk2	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Avalon%20mk2%20%28Stock%20Pads%20%26%20ZMF%20Adapter%20Rings%29%20%2A%2A%20L.txt	XK-Audio Avalon mk2	XK-Audio Avalon mk2	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Avalon%20mk2%20%28Stock%20Pads%20%26%20ZMF%20Adapter%20Rings%29%20%2A%2A%20R.txt	XK-Audio Avalon mk2	XK-Audio Avalon mk2	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/Avalon%20mk2%20(Alternative%20Pads)%20**%20L.txt		XK-Audio Avalon mk2 (alternative earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Avalon%20mk2%20(Alternative%20Pads)%20**%20R.txt		XK-Audio Avalon mk2 (alternative earpads)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Fluxion%20%28Ported%20Pads%29%20%2A%2A%20L.txt	XK-Audio Fluxion	XK-Audio Fluxion	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Fluxion%20%28Ported%20Pads%29%20%2A%2A%20R.txt	XK-Audio Fluxion	XK-Audio Fluxion	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/X1226%20%2A%2A%20L.txt	XK-Audio X1226	XK-Audio X1226	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/X1226%20%2A%2A%20R.txt	XK-Audio X1226	XK-Audio X1226	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/YH-5000SE%20%28Leather%20Pads%29%20%2A%2A%20L.txt	Yamaha YH-5000SE	Yamaha YH-5000SE	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/YH-5000SE%20%28Leather%20Pads%29%20%2A%2A%20R.txt	Yamaha YH-5000SE	Yamaha YH-5000SE	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/YH-5000SE%20%28Suede%20Pads%29%20%2A%2A%20L.txt	Yamaha YH-5000SE	Yamaha YH-5000SE	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/YH-5000SE%20%28Suede%20Pads%29%20%2A%2A%20R.txt	Yamaha YH-5000SE	Yamaha YH-5000SE	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/YH-5000SE%20(Leather%20Pads)%20**%20L.txt	Yamaha YH-5000SE	Yamaha YH-5000SE (leather earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/YH-5000SE%20(Leather%20Pads)%20**%20R.txt	Yamaha YH-5000SE	Yamaha YH-5000SE (leather earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/YH-5000SE%20(Suede%20Pads)%20**%20L.txt	Yamaha YH-5000SE	Yamaha YH-5000SE (suede earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/YH-5000SE%20(Suede%20Pads)%20**%20R.txt	Yamaha YH-5000SE	Yamaha YH-5000SE (suede earpads)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/YH-C3000%20%2A%2A%20L.txt	Yamaha YH-C3000	Yamaha YH-C3000	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/YH-C3000%20%2A%2A%20R.txt	Yamaha YH-C3000	Yamaha YH-C3000	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aeolus%20%28Universe%20Perf%20Leather%20Pads%29%20%2A%2A%20L.txt	ZMF Aeolus	ZMF Aeolus	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aeolus%20%28Universe%20Perf%20Leather%20Pads%29%20%2A%2A%20R.txt	ZMF Aeolus	ZMF Aeolus	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aeolus%20%28Universe%20Perf%20Suede%20Pads%29%20%2A%2A%20L.txt	ZMF Aeolus	ZMF Aeolus	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aeolus%20%28Universe%20Perf%20Suede%20Pads%29%20%2A%2A%20R.txt	ZMF Aeolus	ZMF Aeolus	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aeolus%20%28BE2%20Perf%20Suede%20Pads%29%20%2A%2A%20L.txt	ZMF Aeolus	ZMF Aeolus	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Aeolus%20%28BE2%20Perf%20Suede%20Pads%29%20%2A%2A%20R.txt	ZMF Aeolus	ZMF Aeolus	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Aeolus%20(BE2%20Perf%20Suede%20Pads)%20**%20L.txt	ZMF Aeolus	ZMF Aeolus (ZMF BE2 perforated suede earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Aeolus%20(BE2%20Perf%20Suede%20Pads)%20**%20R.txt	ZMF Aeolus	ZMF Aeolus (ZMF BE2 perforated suede earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Aeolus%20(Universe%20Perf%20Leather%20Pads)%20**%20L.txt	ZMF Aeolus	ZMF Aeolus (ZMF Universe perforated leather earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Aeolus%20(Universe%20Perf%20Leather%20Pads)%20**%20R.txt	ZMF Aeolus	ZMF Aeolus (ZMF Universe perforated leather earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Aeolus%20(Universe%20Perf%20Suede%20Pads)%20**%20L.txt	ZMF Aeolus	ZMF Aeolus (ZMF Universe perforated suede earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Aeolus%20(Universe%20Perf%20Suede%20Pads)%20**%20R.txt	ZMF Aeolus	ZMF Aeolus (ZMF Universe perforated suede earpads)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Atrium%20%28Universe%20Perf%20Leather%20Pads%29%20%2A%2A%20L.txt	ZMF Atrium	ZMF Atrium	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Atrium%20%28Universe%20Perf%20Leather%20Pads%29%20%2A%2A%20R.txt	ZMF Atrium	ZMF Atrium	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Atrium%20%28Universe%20Perf%20Suede%20Pads%29%20%2A%2A%20L.txt	ZMF Atrium	ZMF Atrium	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Atrium%20%28Universe%20Perf%20Suede%20Pads%29%20%2A%2A%20R.txt	ZMF Atrium	ZMF Atrium	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Atrium%20%28Caldera%20Suede%20Ultra%20Perf%20Pads%29%20%2A%2A%20L.txt	ZMF Atrium	ZMF Atrium	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Atrium%20%28Caldera%20Suede%20Ultra%20Perf%20Pads%29%20%2A%2A%20R.txt	ZMF Atrium	ZMF Atrium	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Atrium%20%28BE2%20Perf%20Suede%20Pads%29%20%2A%2A%20L.txt	ZMF Atrium	ZMF Atrium	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Atrium%20%28BE2%20Perf%20Suede%20Pads%29%20%2A%2A%20R.txt	ZMF Atrium	ZMF Atrium	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Atrium%20%28Auteur%20Perf%20Leather%20Pads%29%20%2A%2A%20L.txt	ZMF Atrium	ZMF Atrium	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Atrium%20%28Auteur%20Perf%20Leather%20Pads%29%20%2A%2A%20R.txt	ZMF Atrium	ZMF Atrium	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Atrium%20(Auteur%20Perf%20Leather%20Pads)%20**%20L.txt	ZMF Atrium	ZMF Atrium (ZMF Auteur perforated leather earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Atrium%20(Auteur%20Perf%20Leather%20Pads)%20**%20R.txt	ZMF Atrium	ZMF Atrium (ZMF Auteur perforated leather earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Atrium%20(BE2%20Perf%20Suede%20Pads)%20**%20L.txt	ZMF Atrium	ZMF Atrium (ZMF BE2 perforated suede earpads)	over-ear	KB501x + 711
@@ -662,6 +1303,20 @@ https://kuulokenurkka.squig.link/data/Atticus%20(Eikon%20Suede%20Pads)%20L.txt	Z
 https://kuulokenurkka.squig.link/data/Atticus%20(Eikon%20Suede%20Pads)%20R.txt	ZMF Atticus	ZMF Atticus (ZMF Eikon suede earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Atticus%20(Ori%20Leather%20Pads)%20L.txt	ZMF Atticus	ZMF Atticus (ZMF Ori leather earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Atticus%20(Ori%20Leather%20Pads)%20R.txt	ZMF Atticus	ZMF Atticus (ZMF Ori leather earpads)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Auteur%20%28Auteur%20Perf%20Leather%20Pads%29%20%2A%2A%20L.txt	ZMF Auteur	ZMF Auteur	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Auteur%20%28Auteur%20Perf%20Leather%20Pads%29%20%2A%2A%20R.txt	ZMF Auteur	ZMF Auteur	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Auteur%20%28Auteur%20Perf%20Suede%20Pads%29%20%2A%2A%20L.txt	ZMF Auteur	ZMF Auteur	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Auteur%20%28Auteur%20Perf%20Suede%20Pads%29%20%2A%2A%20R.txt	ZMF Auteur	ZMF Auteur	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Auteur%20%28Auteur%20Perf%20Hybrid%20Pads%29%20%2A%2A%20L.txt	ZMF Auteur	ZMF Auteur	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Auteur%20%28Auteur%20Perf%20Hybrid%20Pads%29%20%2A%2A%20R.txt	ZMF Auteur	ZMF Auteur	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Auteur%20%28Universe%20Perf%20Leather%20Pads%29%20%2A%2A%20L.txt	ZMF Auteur	ZMF Auteur	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Auteur%20%28Universe%20Perf%20Leather%20Pads%29%20%2A%2A%20R.txt	ZMF Auteur	ZMF Auteur	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Auteur%20%28Universe%20Perf%20Suede%20Pads%29%20%2A%2A%20L.txt	ZMF Auteur	ZMF Auteur	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Auteur%20%28Universe%20Perf%20Suede%20Pads%29%20%2A%2A%20R.txt	ZMF Auteur	ZMF Auteur	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Auteur%20%28Eikon%20Perf%20Leather%20Pads%29%20%2A%2A%20L.txt	ZMF Auteur	ZMF Auteur	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Auteur%20%28Eikon%20Perf%20Leather%20Pads%29%20%2A%2A%20R.txt	ZMF Auteur	ZMF Auteur	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Auteur%20%28Eikon%20Perf%20Suede%20Pads%29%20%2A%2A%20L.txt	ZMF Auteur	ZMF Auteur	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Auteur%20%28Eikon%20Perf%20Suede%20Pads%29%20%2A%2A%20R.txt	ZMF Auteur	ZMF Auteur	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Auteur%20(Auteur%20Perf%20Hybrid%20Pads)%20**%20L.txt	ZMF Auteur	ZMF Auteur (ZMF Auteur perforated hybrid earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Auteur%20(Auteur%20Perf%20Hybrid%20Pads)%20**%20R.txt	ZMF Auteur	ZMF Auteur (ZMF Auteur perforated hybrid earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Auteur%20(Auteur%20Perf%20Leather%20Pads)%20**%20L.txt	ZMF Auteur	ZMF Auteur (ZMF Auteur perforated leather earpads)	over-ear	KB501x + 711
@@ -676,6 +1331,22 @@ https://kuulokenurkka.squig.link/data/Auteur%20(Universe%20Perf%20Leather%20Pads
 https://kuulokenurkka.squig.link/data/Auteur%20(Universe%20Perf%20Leather%20Pads)%20**%20R.txt	ZMF Auteur	ZMF Auteur (ZMF Universe perforated leather earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Auteur%20(Universe%20Perf%20Suede%20Pads)%20**%20L.txt	ZMF Auteur	ZMF Auteur (ZMF Universe perforated suede earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Auteur%20(Universe%20Perf%20Suede%20Pads)%20**%20R.txt	ZMF Auteur	ZMF Auteur (ZMF Universe perforated suede earpads)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Auteur%20Classic%20%28Auteur%20Perf%20Leather%20Pads%29%20%2A%2A%20L.txt	ZMF Auteur Classic	ZMF Auteur Classic	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Auteur%20Classic%20%28Auteur%20Perf%20Leather%20Pads%29%20%2A%2A%20R.txt	ZMF Auteur Classic	ZMF Auteur Classic	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Auteur%20Classic%20%28Auteur%20Perf%20Suede%20Pads%29%20%2A%2A%20L.txt	ZMF Auteur Classic	ZMF Auteur Classic	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Auteur%20Classic%20%28Auteur%20Perf%20Suede%20Pads%29%20%2A%2A%20R.txt	ZMF Auteur Classic	ZMF Auteur Classic	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Auteur%20Classic%20%28Auteur%20Perf%20Hybrid%20Pads%29%20%2A%2A%20L.txt	ZMF Auteur Classic	ZMF Auteur Classic	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Auteur%20Classic%20%28Auteur%20Perf%20Hybrid%20Pads%29%20%2A%2A%20R.txt	ZMF Auteur Classic	ZMF Auteur Classic	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Auteur%20Classic%20%28Universe%20Perf%20Leather%20Pads%29%20%2A%2A%20L.txt	ZMF Auteur Classic	ZMF Auteur Classic	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Auteur%20Classic%20%28Universe%20Perf%20Leather%20Pads%29%20%2A%2A%20R.txt	ZMF Auteur Classic	ZMF Auteur Classic	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Auteur%20Classic%20%28Universe%20Perf%20Suede%20Pads%29%20%2A%2A%20L.txt	ZMF Auteur Classic	ZMF Auteur Classic	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Auteur%20Classic%20%28Universe%20Perf%20Suede%20Pads%29%20%2A%2A%20R.txt	ZMF Auteur Classic	ZMF Auteur Classic	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Auteur%20Classic%20%28Eikon%20Perf%20Leather%20Pads%29%20%2A%2A%20L.txt	ZMF Auteur Classic	ZMF Auteur Classic	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Auteur%20Classic%20%28Eikon%20Perf%20Leather%20Pads%29%20%2A%2A%20R.txt	ZMF Auteur Classic	ZMF Auteur Classic	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Auteur%20Classic%20%28Eikon%20Perf%20Suede%20Pads%29%20%2A%2A%20L.txt	ZMF Auteur Classic	ZMF Auteur Classic	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Auteur%20Classic%20%28Eikon%20Perf%20Suede%20Pads%29%20%2A%2A%20R.txt	ZMF Auteur Classic	ZMF Auteur Classic	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Auteur%20Classic%20%28BE2%20Perf%20Suede%20Pads%29%20%2A%2A%20L.txt	ZMF Auteur Classic	ZMF Auteur Classic	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Auteur%20Classic%20%28BE2%20Perf%20Suede%20Pads%29%20%2A%2A%20R.txt	ZMF Auteur Classic	ZMF Auteur Classic	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Auteur%20Classic%20(Auteur%20Perf%20Hybrid%20Pads)%20**%20L.txt	ZMF Auteur Classic	ZMF Auteur Classic (ZMF Auteur perforated hybrid earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Auteur%20Classic%20(Auteur%20Perf%20Hybrid%20Pads)%20**%20R.txt	ZMF Auteur Classic	ZMF Auteur Classic (ZMF Auteur perforated hybrid earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Auteur%20Classic%20(Auteur%20Perf%20Leather%20Pads)%20**%20L.txt	ZMF Auteur Classic	ZMF Auteur Classic (ZMF Auteur perforated leather earpads)	over-ear	KB501x + 711
@@ -696,6 +1367,24 @@ https://kuulokenurkka.squig.link/data/Bokeh%20(Protein%20Pads%20&%20Solid%20Mesh
 https://kuulokenurkka.squig.link/data/Bokeh%20(Protein%20Pads%20&%20Solid%20Mesh)%20**%20R.txt	ZMF Bokeh	ZMF Bokeh	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/Bokeh%20(Suede%20Pads%20&%20Burst%20Mesh)%20**%20L.txt	ZMF Bokeh	ZMF Bokeh	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/Bokeh%20(Suede%20Pads%20&%20Burst%20Mesh)%20**%20R.txt	ZMF Bokeh	ZMF Bokeh	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Bokeh%20%28Protein%20Pads%20%26%20Burst%20Mesh%29%20%2A%2A%20L.txt	ZMF Bokeh	ZMF Bokeh	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Bokeh%20%28Protein%20Pads%20%26%20Burst%20Mesh%29%20%2A%2A%20R.txt	ZMF Bokeh	ZMF Bokeh	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Bokeh%20%28Hybrid%20Pads%20%26%20Burst%20Mesh%29%20%2A%2A%20L.txt	ZMF Bokeh	ZMF Bokeh	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Bokeh%20%28Hybrid%20Pads%20%26%20Burst%20Mesh%29%20%2A%2A%20R.txt	ZMF Bokeh	ZMF Bokeh	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Bokeh%20%28Suede%20Pads%20%26%20Burst%20Mesh%29%20%2A%2A%20L.txt	ZMF Bokeh	ZMF Bokeh	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Bokeh%20%28Suede%20Pads%20%26%20Burst%20Mesh%29%20%2A%2A%20R.txt	ZMF Bokeh	ZMF Bokeh	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Bokeh%20%28Protein%20Pads%20%26%20No%20Mesh%29%20%2A%2A%20L.txt	ZMF Bokeh	ZMF Bokeh	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Bokeh%20%28Protein%20Pads%20%26%20No%20Mesh%29%20%2A%2A%20R.txt	ZMF Bokeh	ZMF Bokeh	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Bokeh%20%28Hybrid%20Pads%20%26%20No%20Mesh%29%20%2A%2A%20L.txt	ZMF Bokeh	ZMF Bokeh	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Bokeh%20%28Hybrid%20Pads%20%26%20No%20Mesh%29%20%2A%2A%20R.txt	ZMF Bokeh	ZMF Bokeh	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Bokeh%20%28Suede%20Pads%20%26%20No%20Mesh%29%20%2A%2A%20L.txt	ZMF Bokeh	ZMF Bokeh	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Bokeh%20%28Suede%20Pads%20%26%20No%20Mesh%29%20%2A%2A%20R.txt	ZMF Bokeh	ZMF Bokeh	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Bokeh%20%28Protein%20Pads%20%26%20Solid%20Mesh%29%20%2A%2A%20L.txt	ZMF Bokeh	ZMF Bokeh	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Bokeh%20%28Protein%20Pads%20%26%20Solid%20Mesh%29%20%2A%2A%20R.txt	ZMF Bokeh	ZMF Bokeh	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Bokeh%20%28Hybrid%20Pads%20%26%20Solid%20Mesh%29%20%2A%2A%20L.txt	ZMF Bokeh	ZMF Bokeh	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Bokeh%20%28Hybrid%20Pads%20%26%20Solid%20Mesh%29%20%2A%2A%20R.txt	ZMF Bokeh	ZMF Bokeh	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Bokeh%20%28Suede%20Pads%20%26%20Solid%20Mesh%29%20%2A%2A%20L.txt	ZMF Bokeh	ZMF Bokeh	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Bokeh%20%28Suede%20Pads%20%26%20Solid%20Mesh%29%20%2A%2A%20R.txt	ZMF Bokeh	ZMF Bokeh	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/Bokeh%20(Hybrid%20Pads%20&%20Burst%20Mesh)%20**%20L.txt	ZMF Bokeh	ZMF Bokeh (hybrid earpads, burst mesh)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Bokeh%20(Hybrid%20Pads%20&%20Burst%20Mesh)%20**%20R.txt	ZMF Bokeh	ZMF Bokeh (hybrid earpads, burst mesh)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Bokeh%20(Hybrid%20Pads%20&%20No%20Mesh)%20**%20L.txt	ZMF Bokeh	ZMF Bokeh (hybrid earpads, no mesh)	over-ear	KB501x + 711
@@ -720,6 +1409,32 @@ https://kuulokenurkka.squig.link/data/Bokeh%20Open%20(Hybrid%20Pads%20&%20Vented
 https://kuulokenurkka.squig.link/data/Bokeh%20Open%20(Hybrid%20Pads%20&%20Vented%20Mesh)%20**%20R.txt		ZMF Bokeh Open	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/Bokeh%20Open%20(Perforated%20Universe%20Suede%20Pads)%20**%20L.txt		ZMF Bokeh Open	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/Bokeh%20Open%20(Perforated%20Universe%20Suede%20Pads)%20**%20R.txt		ZMF Bokeh Open	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Bokeh%20Open%20%28Hybrid%20Pads%20%26%20Vented%20Mesh%29%20%2A%2A%20L.txt	ZMF Bokeh Open	ZMF Bokeh Open	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Bokeh%20Open%20%28Hybrid%20Pads%20%26%20Vented%20Mesh%29%20%2A%2A%20R.txt	ZMF Bokeh Open	ZMF Bokeh Open	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Bokeh%20Open%20%28Hybrid%20Pads%20%26%20Vented%20Mesh%20%26%20Adapter%20Rings%29%20%2A%2A%20L.txt	ZMF Bokeh Open	ZMF Bokeh Open	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Bokeh%20Open%20%28Hybrid%20Pads%20%26%20Vented%20Mesh%20%26%20Adapter%20Rings%29%20%2A%2A%20R.txt	ZMF Bokeh Open	ZMF Bokeh Open	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Bokeh%20Open%20%28Hybrid%20Pads%20%26%20Bopp%20Solid%20Mesh%20from%202020%29%20%2A%2A%20L.txt	ZMF Bokeh Open	ZMF Bokeh Open	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Bokeh%20Open%20%28Hybrid%20Pads%20%26%20Bopp%20Solid%20Mesh%20from%202020%29%20%2A%2A%20R.txt	ZMF Bokeh Open	ZMF Bokeh Open	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Bokeh%20Open%20%28Hybrid%20Pads%20%26%20Bopp%20Solid%20Mesh%20from%202020%20%26%20Adapter%20Rings%29%20%2A%2A%20L.txt	ZMF Bokeh Open	ZMF Bokeh Open	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Bokeh%20Open%20%28Hybrid%20Pads%20%26%20Bopp%20Solid%20Mesh%20from%202020%20%26%20Adapter%20Rings%29%20%2A%2A%20R.txt	ZMF Bokeh Open	ZMF Bokeh Open	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Bokeh%20Open%20%28Perforated%20Universe%20Suede%20Pads%29%20%2A%2A%20L.txt	ZMF Bokeh Open	ZMF Bokeh Open	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Bokeh%20Open%20%28Perforated%20Universe%20Suede%20Pads%29%20%2A%2A%20R.txt	ZMF Bokeh Open	ZMF Bokeh Open	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/Caldera%20%28Lambskin%20Pads%29%20%2A%2A%20L.txt	ZMF Caldera	ZMF Caldera	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Caldera%20%28Lambskin%20Pads%29%20%2A%2A%20R.txt	ZMF Caldera	ZMF Caldera	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Caldera%20%28Suede%20Pads%29%20%2A%2A%20L.txt	ZMF Caldera	ZMF Caldera	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Caldera%20%28Suede%20Pads%29%20%2A%2A%20R.txt	ZMF Caldera	ZMF Caldera	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Caldera%20%28Cowhide%20Pads%29%20%2A%2A%20L.txt	ZMF Caldera	ZMF Caldera	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Caldera%20%28Cowhide%20Pads%29%20%2A%2A%20R.txt	ZMF Caldera	ZMF Caldera	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Caldera%20%28Thick%20Pads%29%20%2A%2A%20L.txt	ZMF Caldera	ZMF Caldera	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Caldera%20%28Thick%20Pads%29%20%2A%2A%20R.txt	ZMF Caldera	ZMF Caldera	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Caldera%20%28Lambskin%20Pads%29%20Sample%202%20%2A%2A%20L.txt	ZMF Caldera	ZMF Caldera	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Caldera%20%28Lambskin%20Pads%29%20Sample%202%20%2A%2A%20R.txt	ZMF Caldera	ZMF Caldera	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Caldera%20%28Suede%20Pads%29%20Sample%202%20%2A%2A%20L.txt	ZMF Caldera	ZMF Caldera	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Caldera%20%28Suede%20Pads%29%20Sample%202%20%2A%2A%20R.txt	ZMF Caldera	ZMF Caldera	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Caldera%20%28Cowhide%20Pads%29%20Sample%202%20%2A%2A%20L.txt	ZMF Caldera	ZMF Caldera	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Caldera%20%28Cowhide%20Pads%29%20Sample%202%20%2A%2A%20R.txt	ZMF Caldera	ZMF Caldera	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Caldera%20%28Thick%20Pads%29%20Sample%202%20%2A%2A%20L.txt	ZMF Caldera	ZMF Caldera	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Caldera%20%28Thick%20Pads%29%20Sample%202%20%2A%2A%20R.txt	ZMF Caldera	ZMF Caldera	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Caldera%20(Cowhide%20Pads)%20**%20L.txt	ZMF Caldera	ZMF Caldera (cowhide earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Caldera%20(Cowhide%20Pads)%20**%20R.txt	ZMF Caldera	ZMF Caldera (cowhide earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Caldera%20(Cowhide%20Pads)%20Sample%202%20**%20L.txt	ZMF Caldera	ZMF Caldera (cowhide earpads)	over-ear	KB501x + 711
@@ -736,6 +1451,14 @@ https://kuulokenurkka.squig.link/data/Caldera%20(Thick%20Pads)%20**%20L.txt	ZMF 
 https://kuulokenurkka.squig.link/data/Caldera%20(Thick%20Pads)%20**%20R.txt	ZMF Caldera	ZMF Caldera (thick earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Caldera%20(Thick%20Pads)%20Sample%202%20**%20L.txt	ZMF Caldera	ZMF Caldera (thick earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Caldera%20(Thick%20Pads)%20Sample%202%20**%20R.txt	ZMF Caldera	ZMF Caldera (thick earpads)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Eikon%20%28Eikon%20Leather%20Pads%29%20%2A%2A%20L.txt	ZMF Eikon	ZMF Eikon	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Eikon%20%28Eikon%20Leather%20Pads%29%20%2A%2A%20R.txt	ZMF Eikon	ZMF Eikon	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Eikon%20%28Eikon%20Suede%20Pads%29%20%2A%2A%20L.txt	ZMF Eikon	ZMF Eikon	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Eikon%20%28Eikon%20Suede%20Pads%29%20%2A%2A%20R.txt	ZMF Eikon	ZMF Eikon	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Eikon%20%28Auteur%20Leather%20Pads%29%20%2A%2A%20L.txt	ZMF Eikon	ZMF Eikon	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Eikon%20%28Auteur%20Leather%20Pads%29%20%2A%2A%20R.txt	ZMF Eikon	ZMF Eikon	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Eikon%20%28Universe%20Leather%20Pads%29%20%2A%2A%20L.txt	ZMF Eikon	ZMF Eikon	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Eikon%20%28Universe%20Leather%20Pads%29%20%2A%2A%20R.txt	ZMF Eikon	ZMF Eikon	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Eikon%20(Auteur%20Leather%20Pads)%20**%20L.txt	ZMF Eikon	ZMF Eikon (ZMF Auteur leather earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Eikon%20(Auteur%20Leather%20Pads)%20**%20R.txt	ZMF Eikon	ZMF Eikon (ZMF Auteur leather earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Eikon%20(Eikon%20Leather%20Pads)%20**%20L.txt	ZMF Eikon	ZMF Eikon (ZMF Eikon leather earpads)	over-ear	KB501x + 711
@@ -758,6 +1481,18 @@ https://kuulokenurkka.squig.link/data/Verite%20Open%20(Universe%20Perf%20Leather
 https://kuulokenurkka.squig.link/data/Verite%20Open%20(Universe%20Perf%20Leather%20Pads)%20R.txt	ZMF Verite Open	ZMF Verite (ZMF Universe perforated leather earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Verite%20Open%20(Universe%20Perf%20Suede%20Pads)%20L.txt	ZMF Verite Open	ZMF Verite (ZMF Universe perforated suede earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Verite%20Open%20(Universe%20Perf%20Suede%20Pads)%20R.txt	ZMF Verite Open	ZMF Verite (ZMF Universe perforated suede earpads)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Verite%20Closed%20%28Auteur%20Leather%20Pads%29%20%2A%2A%20L.txt	ZMF Verite Closed	ZMF Verite Closed	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Verite%20Closed%20%28Auteur%20Leather%20Pads%29%20%2A%2A%20R.txt	ZMF Verite Closed	ZMF Verite Closed	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Verite%20Closed%20%28Auteur%20Hybrid%20Pads%29%20%2A%2A%20L.txt	ZMF Verite Closed	ZMF Verite Closed	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Verite%20Closed%20%28Auteur%20Hybrid%20Pads%29%20%2A%2A%20R.txt	ZMF Verite Closed	ZMF Verite Closed	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Verite%20Closed%20%28Universe%20Leather%20Pads%29%20%2A%2A%20L.txt	ZMF Verite Closed	ZMF Verite Closed	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Verite%20Closed%20%28Universe%20Leather%20Pads%29%20%2A%2A%20R.txt	ZMF Verite Closed	ZMF Verite Closed	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Verite%20Closed%20%28Universe%20Hybrid%20Pads%29%20%2A%2A%20L.txt	ZMF Verite Closed	ZMF Verite Closed	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Verite%20Closed%20%28Universe%20Hybrid%20Pads%29%20%2A%2A%20R.txt	ZMF Verite Closed	ZMF Verite Closed	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Verite%20Closed%20%28Eikon%20Suede%20Pads%29%20%2A%2A%20L.txt	ZMF Verite Closed	ZMF Verite Closed	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Verite%20Closed%20%28Eikon%20Suede%20Pads%29%20%2A%2A%20R.txt	ZMF Verite Closed	ZMF Verite Closed	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Verite%20Closed%20%28Eikon%20Leather%20Pads%29%20%2A%2A%20L.txt	ZMF Verite Closed	ZMF Verite Closed	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Verite%20Closed%20%28Eikon%20Leather%20Pads%29%20%2A%2A%20R.txt	ZMF Verite Closed	ZMF Verite Closed	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Verite%20Closed%20(Auteur%20Hybrid%20Pads)%20**%20L.txt	ZMF Verite Closed	ZMF Verite Closed (ZMF Auteur hybrid earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Verite%20Closed%20(Auteur%20Hybrid%20Pads)%20**%20R.txt	ZMF Verite Closed	ZMF Verite Closed (ZMF Auteur hybrid earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Verite%20Closed%20(Auteur%20Leather%20Pads)%20**%20L.txt	ZMF Verite Closed	ZMF Verite Closed (ZMF Auteur leather earpads)	over-ear	KB501x + 711
@@ -770,6 +1505,32 @@ https://kuulokenurkka.squig.link/data/Verite%20Closed%20(Universe%20Hybrid%20Pad
 https://kuulokenurkka.squig.link/data/Verite%20Closed%20(Universe%20Hybrid%20Pads)%20**%20R.txt	ZMF Verite Closed	ZMF Verite Closed (ZMF Universe hybrid earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Verite%20Closed%20(Universe%20Leather%20Pads)%20**%20L.txt	ZMF Verite Closed	ZMF Verite Closed (ZMF Universe leather earpads)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/Verite%20Closed%20(Universe%20Leather%20Pads)%20**%20R.txt	ZMF Verite Closed	ZMF Verite Closed (ZMF Universe leather earpads)	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Lyr%C3%B6%20%28On-Ear%20Mode%29%20%2A%2A%20L.txt	Zaylli Lyrö	Zaylli Lyrö	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Lyr%C3%B6%20%28On-Ear%20Mode%29%20%2A%2A%20R.txt	Zaylli Lyrö	Zaylli Lyrö	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Lyr%C3%B6%20%28Diffuse%20Field%20Mode%29%20%2A%2A%20L.txt	Zaylli Lyrö	Zaylli Lyrö	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Lyr%C3%B6%20%28Diffuse%20Field%20Mode%29%20%2A%2A%20R.txt	Zaylli Lyrö	Zaylli Lyrö	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Lyr%C3%B6%20%28On-Ear%20Mode%20%26%20FLAT%20DSP%29%20%2A%2A%20R.txt	Zaylli Lyrö	Zaylli Lyrö	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Lyr%C3%B6%20%28On-Ear%20Mode%20%26%20ZAYLLI%20DSP%29%20%2A%2A%20R.txt	Zaylli Lyrö	Zaylli Lyrö	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Lyr%C3%B6%20%28On-Ear%20Mode%20%26%20QUEST%20DSP%29%20%2A%2A%20R.txt	Zaylli Lyrö	Zaylli Lyrö	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Lyr%C3%B6%20%28Diffuse%20Field%20Mode%20%26%20FLAT%20DSP%29%20%2A%2A%20R.txt	Zaylli Lyrö	Zaylli Lyrö	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Lyr%C3%B6%20%28Diffuse%20Field%20Mode%20%26%20ZAYLLI%20DSP%29%20%2A%2A%20R.txt	Zaylli Lyrö	Zaylli Lyrö	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Lyr%C3%B6%20%28Diffuse%20Field%20Mode%20%26%20QUEST%20DSP%29%20%2A%2A%20R.txt	Zaylli Lyrö	Zaylli Lyrö	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Lyr%C3%B6%20MX%20%28On-Ear%20Mode%29%20%2A%2A%20L.txt	Zaylli Lyrö MX	Zaylli Lyrö MX	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Lyr%C3%B6%20MX%20%28On-Ear%20Mode%29%20%2A%2A%20R.txt	Zaylli Lyrö MX	Zaylli Lyrö MX	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Lyr%C3%B6%20MX%20%28Diffuse%20Field%20Mode%29%20%2A%2A%20L.txt	Zaylli Lyrö MX	Zaylli Lyrö MX	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Lyr%C3%B6%20MX%20%28Diffuse%20Field%20Mode%29%20%2A%2A%20R.txt	Zaylli Lyrö MX	Zaylli Lyrö MX	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Lyr%C3%B6%20MX%20%28On-Ear%20Mode%20%26%20FLAT%20DSP%29%20%2A%2A%20R.txt	Zaylli Lyrö MX	Zaylli Lyrö MX	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Lyr%C3%B6%20MX%20%28On-Ear%20Mode%20%26%20ZAYLLI%20DSP%29%20%2A%2A%20R.txt	Zaylli Lyrö MX	Zaylli Lyrö MX	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Lyr%C3%B6%20MX%20%28On-Ear%20Mode%20%26%20QUEST%20DSP%29%20%2A%2A%20R.txt	Zaylli Lyrö MX	Zaylli Lyrö MX	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Lyr%C3%B6%20MX%20%28Diffuse%20Field%20Mode%20%26%20FLAT%20DSP%29%20%2A%2A%20R.txt	Zaylli Lyrö MX	Zaylli Lyrö MX	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Lyr%C3%B6%20MX%20%28Diffuse%20Field%20Mode%20%26%20ZAYLLI%20DSP%29%20%2A%2A%20R.txt	Zaylli Lyrö MX	Zaylli Lyrö MX	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/Lyr%C3%B6%20MX%20%28Diffuse%20Field%20Mode%20%26%20QUEST%20DSP%29%20%2A%2A%20R.txt	Zaylli Lyrö MX	Zaylli Lyrö MX	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/ALCHEM-E%20%28ANC%20ON%29%20%2A%2A%20L.txt	Zildjian ALCHEM-E	Zildjian ALCHEM-E	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/ALCHEM-E%20%28ANC%20ON%29%20%2A%2A%20R.txt	Zildjian ALCHEM-E	Zildjian ALCHEM-E	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/ALCHEM-E%20%28ANC%20OFF%29%20%2A%2A%20L.txt	Zildjian ALCHEM-E	Zildjian ALCHEM-E	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/ALCHEM-E%20%28ANC%20OFF%29%20%2A%2A%20R.txt	Zildjian ALCHEM-E	Zildjian ALCHEM-E	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/ALCHEM-E%20%28Passive%29%20%2A%2A%20L.txt	Zildjian ALCHEM-E	Zildjian ALCHEM-E	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/ALCHEM-E%20%28Passive%29%20%2A%2A%20R.txt	Zildjian ALCHEM-E	Zildjian ALCHEM-E	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/phone_book_backup.json		phone_book_backup.json	ignore	
 https://kuulokenurkka.squig.link/data/TH1%20Vacuum%20Tube%20Headphones%20(ANC%20OFF%20&%20Harmon%20curve)%20**%20L.txt		écoute Audio TH1 (ANC off, Harman curve)	over-ear	KB501x + 711
 https://kuulokenurkka.squig.link/data/TH1%20Vacuum%20Tube%20Headphones%20(ANC%20OFF%20&%20Harmon%20curve)%20**%20R.txt		écoute Audio TH1 (ANC off, Harman curve)	over-ear	KB501x + 711
@@ -785,3 +1546,17 @@ https://kuulokenurkka.squig.link/data/TH1%20Vacuum%20Tube%20Headphones%20(ANC%20
 https://kuulokenurkka.squig.link/data/TH1%20Vacuum%20Tube%20Headphones%20(ANC%20ON%20&%20ecoute%20curve)%20**%20R.txt		écoute Audio TH1 Vacuum Tube Headphones	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/TH1%20Vacuum%20Tube%20Headphones%20(ANC%20ON%20&%20flat%20curve)%20**%20L.txt		écoute Audio TH1 Vacuum Tube Headphones	ignore	KB501x + 711
 https://kuulokenurkka.squig.link/data/TH1%20Vacuum%20Tube%20Headphones%20(ANC%20ON%20&%20flat%20curve)%20**%20R.txt		écoute Audio TH1 Vacuum Tube Headphones	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/TH1%20Vacuum%20Tube%20Headphones%20%28ANC%20ON%20%26%20ecoute%20curve%29%20%2A%2A%20L.txt	écoute Audio TH1 Vacuum Tube Headphones	écoute Audio TH1 Vacuum Tube Headphones	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/TH1%20Vacuum%20Tube%20Headphones%20%28ANC%20ON%20%26%20ecoute%20curve%29%20%2A%2A%20R.txt	écoute Audio TH1 Vacuum Tube Headphones	écoute Audio TH1 Vacuum Tube Headphones	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/TH1%20Vacuum%20Tube%20Headphones%20%28ANC%20OFF%20%26%20ecoute%20curve%29%20%2A%2A%20L.txt	écoute Audio TH1 Vacuum Tube Headphones	écoute Audio TH1 Vacuum Tube Headphones	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/TH1%20Vacuum%20Tube%20Headphones%20%28ANC%20OFF%20%26%20ecoute%20curve%29%20%2A%2A%20R.txt	écoute Audio TH1 Vacuum Tube Headphones	écoute Audio TH1 Vacuum Tube Headphones	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/TH1%20Vacuum%20Tube%20Headphones%20%28ANC%20ON%20%26%20flat%20curve%29%20%2A%2A%20L.txt	écoute Audio TH1 Vacuum Tube Headphones	écoute Audio TH1 Vacuum Tube Headphones	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/TH1%20Vacuum%20Tube%20Headphones%20%28ANC%20ON%20%26%20flat%20curve%29%20%2A%2A%20R.txt	écoute Audio TH1 Vacuum Tube Headphones	écoute Audio TH1 Vacuum Tube Headphones	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/TH1%20Vacuum%20Tube%20Headphones%20%28ANC%20OFF%20%26%20flat%20curve%29%20%2A%2A%20L.txt	écoute Audio TH1 Vacuum Tube Headphones	écoute Audio TH1 Vacuum Tube Headphones	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/TH1%20Vacuum%20Tube%20Headphones%20%28ANC%20OFF%20%26%20flat%20curve%29%20%2A%2A%20R.txt	écoute Audio TH1 Vacuum Tube Headphones	écoute Audio TH1 Vacuum Tube Headphones	ignore	KB501x + 711
+https://kuulokenurkka.squig.link/data/TH1%20Vacuum%20Tube%20Headphones%20%28ANC%20ON%20%26%20Harmon%20curve%29%20%2A%2A%20L.txt	écoute Audio TH1 Vacuum Tube Headphones	écoute Audio TH1 Vacuum Tube Headphones	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/TH1%20Vacuum%20Tube%20Headphones%20%28ANC%20ON%20%26%20Harmon%20curve%29%20%2A%2A%20R.txt	écoute Audio TH1 Vacuum Tube Headphones	écoute Audio TH1 Vacuum Tube Headphones	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/TH1%20Vacuum%20Tube%20Headphones%20%28ANC%20OFF%20%26%20Harmon%20curve%29%20%2A%2A%20L.txt	écoute Audio TH1 Vacuum Tube Headphones	écoute Audio TH1 Vacuum Tube Headphones	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/TH1%20Vacuum%20Tube%20Headphones%20%28ANC%20OFF%20%26%20Harmon%20curve%29%20%2A%2A%20R.txt	écoute Audio TH1 Vacuum Tube Headphones	écoute Audio TH1 Vacuum Tube Headphones	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/TH1%20Vacuum%20Tube%20Headphones%20%28Passive%29%20%2A%2A%20L.txt	écoute Audio TH1 Vacuum Tube Headphones	écoute Audio TH1 Vacuum Tube Headphones	over-ear	KB501x + 711
+https://kuulokenurkka.squig.link/data/TH1%20Vacuum%20Tube%20Headphones%20%28Passive%29%20%2A%2A%20R.txt	écoute Audio TH1 Vacuum Tube Headphones	écoute Audio TH1 Vacuum Tube Headphones	over-ear	KB501x + 711
