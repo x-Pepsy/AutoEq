@@ -13,7 +13,7 @@ float_pattern = r'-?\d+(?:\.\d+)?'
 autoeq_pattern = re.compile(rf'{header_pattern}(?:\n{float_pattern}(?:,{float_pattern})+)+')
 rew_float_pattern = rf'(?:{float_pattern}|\?)'
 rew_separator = rf'(?:, |; | |\t)'
-rew_pattern = re.compile(rf'^(?:\*.*\n)*\* Freq\(Hz\){rew_separator}SPL\(dB\){rew_separator}Phase\(degrees\)\n(?:{rew_float_pattern}{rew_separator}{rew_float_pattern}{rew_separator}{rew_float_pattern})+\n*')
+rew_pattern = re.compile(rf'^(?:\*.*\n)*\* Freq\(Hz\){rew_separator}SPL\(dB\)(?:{rew_separator}Phase\(degrees\))?\n(?:{rew_float_pattern}{rew_separator}{rew_float_pattern}(?:{rew_separator}{rew_float_pattern})?)+\n*')
 crinacle_pattern = re.compile(rf'[\s\n]?Frequency\tdB\tUnweighted(?:\n{float_pattern}\t{float_pattern})+[.\n]?')
 
 
@@ -45,6 +45,10 @@ def find_csv_separators(csv):
             column_separator_candidates.remove(remove_candidate)
 
     if len(column_separator_candidates) == 0:
+        # Space separated numeric data without any other separator character
+        numeric_lines = [line for line in lines if numeric_start.match(line)]
+        if numeric_lines and all(' ' in line for line in numeric_lines):
+            return [' ', '.']
         raise CsvParseError('Could not find column and decimal separators')
 
     if column_separator_candidates == {','}:
@@ -64,16 +68,23 @@ def find_csv_separators(csv):
     return list(column_separator_candidates)[0], decimal_separator
 
 
+def split_line(line, column_separator):
+    """Splits a line into cells. Space separator collapses runs of whitespace."""
+    if column_separator == ' ':
+        return line.split()
+    return line.split(column_separator)
+
+
 def find_csv_columns(csv, column_separator):
     lines = csv.strip().split('\n')
     numeric_lines = [line for line in lines if column_separator in line and numeric_start.search(line)]
-    n_columns = list(set([len(line.split(column_separator)) for line in numeric_lines]))
+    n_columns = list(set([len(split_line(line, column_separator)) for line in numeric_lines]))
     if len(n_columns) != 1:
         raise CsvParseError('Numeric lines have different number of columns')
     n_columns = n_columns[0]
     for line in lines:
-        if not numeric_start.search(line) and len(line.split(column_separator)) == n_columns:
-            return [cell.strip() for cell in line.split(column_separator)]
+        if not numeric_start.search(line) and len(split_line(line, column_separator)) == n_columns:
+            return [cell.strip() for cell in split_line(line, column_separator)]
 
 
 def parse_csv(csv):
@@ -117,7 +128,7 @@ def parse_csv(csv):
     for line in lines:
         if not data_line_pattern.match(line):
             continue
-        cells = line.split(column_separator)
+        cells = split_line(line, column_separator)
         if decimal_separator == ',':
             cells = [float(cell.replace(',', '.')) for cell in cells]
         else:
